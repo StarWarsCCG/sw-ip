@@ -20,7 +20,7 @@ namespace SwIpDumper
 
                     using (var command = connection.CreateCommand())
                     {
-                        command.CommandText = "SELECT * FROM SWD";
+                        command.CommandText = "SELECT * FROM SWD ORDER BY `id` ASC";
                         command.Prepare();
 
                         using (var reader = command.ExecuteReader())
