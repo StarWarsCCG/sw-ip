@@ -27,11 +27,13 @@ The script `convert.sh` moves the data into a SQLite 3 database. The dumper tool
 
 ### Editing Card Data
 
-Be sure to use a text editor that supports UTF-8 (such as [Notepad++](https://notepad-plus-plus.org/)) and always save the JSON files as UTF-8. The SQL generator tool takes care of the conversion to ISO 8859-1, which is what the sw-ip application expects when reading the `.sdb` file.
+Modify the JSON files in `/CardData`. When adding new cards, make sure each new card receives a unique `id`. Ensure that the JSON structure is always well-formed.
+
+Be sure to use a text editor that supports UTF-8 (such as [Notepad++](https://notepad-plus-plus.org/)) and always save the JSON files as UTF-8. The SQL generator tool is what takes care of the conversion to ISO 8859-1, which is what the sw-ip application expects when reading the `.sdb` file.
 
 ### Generating the SQL
 
-The tool `SwIpSqlGenerator` takes two parameters: the source folder (containing all the JSON and) and the destination file.
+The tool `SwIpSqlGenerator` takes two parameters: the source folder (containing all the JSON) and the destination file.
 
     dotnet run ../CardData ../cards.sql
 
