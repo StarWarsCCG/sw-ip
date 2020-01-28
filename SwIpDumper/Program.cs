@@ -25,7 +25,7 @@ namespace SwIpDumper
 
                         using (var reader = command.ExecuteReader())
                         {
-                            var cardData = new List<Dictionary<string, object>>();
+                            var cardData = new Dictionary<string, List<Dictionary<string, object>>>();
 
                             while (reader.Read())
                             {
@@ -44,7 +44,15 @@ namespace SwIpDumper
                                     }
                                 }
 
-                                cardData.Add(row);
+                                var expansion = row["Expansion"].ToString() ?? throw new NullReferenceException("Expansion must have a value!");
+
+                                if (!cardData.TryGetValue(expansion, out var cardsInExpansion))
+                                {
+                                    cardsInExpansion = new List<Dictionary<string, object>>();
+                                    cardData.Add(expansion, cardsInExpansion);
+                                }
+
+                                cardsInExpansion.Add(row);
                             }
 
                             var options = new JsonSerializerOptions
@@ -53,8 +61,19 @@ namespace SwIpDumper
                                 Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
                             };
 
-                            using (var stream = File.Create("sw-ip.json"))
-                                await JsonSerializer.SerializeAsync(stream, cardData, options);
+                            foreach (var pair in cardData)
+                            {
+                                var cleanExpansion = pair.Key
+                                    .ToLowerInvariant()
+                                    .Replace(' ', '-')
+                                    .Replace("'", "")
+                                    .Replace("#", "");
+                                
+                                var fileName = Path.Combine("..", "CardData", cleanExpansion + ".json");
+                                
+                                using (var stream = File.Create(fileName))
+                                    await JsonSerializer.SerializeAsync(stream, pair.Value, options);
+                            }
                         }
                     }
                 }

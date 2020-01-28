@@ -5,6 +5,3 @@ obj/
 *.sqlite
 *.sdb
 *.db
-
-/SwIpDumper/sw-ip.json
-
