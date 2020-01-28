@@ -27,7 +27,7 @@ class Program
                 var text = value
                     .GetString()
                     .Replace("'", "''")
-                    //.Replace('é', (char)65533)
+                    //.Replace('é', (char)65533) // Fixed by using the proper encoding.
                     ;
                 return $"'{text}'";
             }
@@ -54,6 +54,8 @@ class Program
         static async Task GenerateSqlAsync(string folder, string sqlFile)
         {
             var files = Directory.GetFiles(folder);
+
+            // https://codingrigour.wordpress.com/2011/02/17/the-case-of-the-mysterious-characters/
             
             using (var stream = File.Create(sqlFile))
             using (var writer = new StreamWriter(stream, Encoding.GetEncoding("ISO-8859-1")))
