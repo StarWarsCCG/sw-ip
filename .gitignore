@@ -1,0 +1,10 @@
+bin/
+obj/
+.vscode/
+.vs/
+*.sqlite
+*.sdb
+*.db
+
+/SwIpDumper/sw-ip.json
+
