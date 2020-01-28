@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
@@ -23,7 +24,11 @@ class Program
             }
             else
             {
-                var text = value.GetString().Replace("'", "''");
+                var text = value
+                    .GetString()
+                    .Replace("'", "''")
+                    //.Replace('é', (char)65533)
+                    ;
                 return $"'{text}'";
             }
         }
@@ -50,7 +55,8 @@ class Program
         {
             var files = Directory.GetFiles(folder);
             
-            using (var writer = File.CreateText(sqlFile))
+            using (var stream = File.Create(sqlFile))
+            using (var writer = new StreamWriter(stream, Encoding.GetEncoding("ISO-8859-1")))
             {
                 await writer.WriteLineAsync("BEGIN TRANSACTION;");
                 await writer.WriteLineAsync("CREATE TABLE Deck(ID INTEGER NOT NULL,Uniqueness char(6) ,ReserveDeck INTEGER ,DeckName char(100) ,Destiny char(4) ,SubType char(40) ,CardName char(80) NOT NULL,CardType char(18) NOT NULL,Expansion char(33) ,StartingCards INTEGER ,SideDeck INTEGER ,Rarity char(15) NOT NULL,Inventory int );");
