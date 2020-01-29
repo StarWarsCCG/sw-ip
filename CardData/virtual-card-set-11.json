@@ -566,7 +566,7 @@
     "Subtype": "Rebel",
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Uncommon2",
-    "Characteristics": "\b commander\b0, \b leader\b0, \b spy\b0",
+    "Characteristics": "\\b commander\\b0, \\b leader\\b0, \\b spy\\b0",
     "Uniqueness": "*",
     "Destiny": 2,
     "Power": 2,
