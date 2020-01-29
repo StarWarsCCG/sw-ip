@@ -1089,7 +1089,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Uncommon",
     "Uniqueness": "*",
-    "Destiny": "π",
+    "Destiny": "pi",
     "Power": 4,
     "Deploy": 3,
     "Forfeit": 5,
@@ -1165,5 +1165,18 @@
     "Icons": "Episode 1",
     "Episode1": 1,
     "ExpansionV": "Premiere"
+  },
+  {
+    "id": 5391,
+    "CardName": "Squadron Assignments (V)",
+    "Grouping": "Light",
+    "CardType": "Effect",
+    "Expansion":"Virtual Card Set #11",
+    "Rarity": "Common",
+    "Destiny": 5,
+    "Lore": "Rebel starfighter squadrons take great pride in their proficiency and dedication. Alliance pilots train relentlessly until man and machine function as one.",
+    "Gametext": "Deploy on table. During your deploy phase, may reveal one unpiloted Red or Rogue squadron starfighter (or vehicle) from hand to take its matching pilot character (or vice versa) from Reserve Deck and deploy both simultaneously; reshuffle. (Immune to Alter.)",
+    "Icons": 0,
+    "ExpansionV": "Death Star II"
   }
 ]
