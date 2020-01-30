@@ -1405,7 +1405,7 @@
   },
   {
     "id": 1176,
-    "CardName": "Hoth: Ice Plains",
+    "CardName": "Hoth: Ice Plains (5th Marker)",
     "Grouping": "Dark",
     "CardType": "Location",
     "Subtype": "Site",
@@ -1521,7 +1521,7 @@
   },
   {
     "id": 1182,
-    "CardName": "Hoth: Wampa Cave",
+    "CardName": "Hoth: Wampa Cave (7th Marker)",
     "Grouping": "Dark",
     "CardType": "Location",
     "Subtype": "Site",
