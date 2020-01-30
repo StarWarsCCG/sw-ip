@@ -166,7 +166,7 @@
   },
   {
     "id": 5249,
-    "CardName": "An Inkling Of Its Destructive Power (V)",
+    "CardName": "An Inkling Of Its Destructive Potential",
     "Grouping": "Dark",
     "CardType": "Effect",
     "Expansion": "Virtual Card Set #9",
@@ -175,7 +175,7 @@
     "Destiny": 4,
     "Gametext": "Deploy on table. Once per game, may take a V Set #9 Epic Event into hand from reserve deck; reshuffle. During your deploy phase, if Krennic on Death Star, may flip Set Your Course For Alderaan (flip back at end of turn). (Immune to Alter.)",
     "Icons": 0,
-    "Information": "Startable with Prepared Defenses.",
+    "Information": "Original card: Hyperwave Scan\\par Startable with Prepared Defenses.",
     "Inventory": 0,
     "Needs": 0,
     "Errata": 1
