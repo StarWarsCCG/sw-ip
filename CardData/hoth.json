@@ -1186,7 +1186,7 @@
   },
   {
     "id": 1166,
-    "CardName": "Hoth: Defensive Perimeter",
+    "CardName": "Hoth: Defensive Perimeter (3rd Marker)",
     "Grouping": "Dark",
     "CardType": "Location",
     "Subtype": "Site",
@@ -1210,7 +1210,7 @@
   },
   {
     "id": 1167,
-    "CardName": "Hoth: Defensive Perimeter",
+    "CardName": "Hoth: Defensive Perimeter (3rd Marker)",
     "Grouping": "Light",
     "CardType": "Location",
     "Subtype": "Site",
@@ -1428,7 +1428,7 @@
   },
   {
     "id": 1177,
-    "CardName": "Hoth: Main Power Generators",
+    "CardName": "Hoth: Main Power Generators (1st Marker)",
     "Grouping": "Light",
     "CardType": "Location",
     "Subtype": "Site",
@@ -1451,7 +1451,7 @@
   },
   {
     "id": 1179,
-    "CardName": "Hoth: North Ridge",
+    "CardName": "Hoth: North Ridge (4th Marker)",
     "Grouping": "Dark",
     "CardType": "Location",
     "Subtype": "Site",
@@ -1474,7 +1474,7 @@
   },
   {
     "id": 1180,
-    "CardName": "Hoth: North Ridge",
+    "CardName": "Hoth: North Ridge (4th Marker)",
     "Grouping": "Light",
     "CardType": "Location",
     "Subtype": "Site",
@@ -1498,7 +1498,7 @@
   },
   {
     "id": 1181,
-    "CardName": "Hoth: Snow Trench",
+    "CardName": "Hoth: Snow Trench (2nd Marker)",
     "Grouping": "Light",
     "CardType": "Location",
     "Subtype": "Site",
