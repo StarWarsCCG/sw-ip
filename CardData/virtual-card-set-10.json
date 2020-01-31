@@ -861,5 +861,20 @@
     "Inventory": 0,
     "Needs": 0,
     "Errata": 1
+  },
+  {
+    "id": 5393,
+    "CardName": "Insignificant Rebellion (V)",
+    "Grouping": "Dark",
+    "CardType": "Effect",
+    "Expansion": "Virtual Card Set #10",
+    "Rarity": "Uncommon",
+    "Destiny": 4,
+    "Lore": "\"Your fleet is lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice.\"",
+    "Gametext": "If Ralltiir Operations on table, deploy on table. Forfeit values are not modified by Do They Have A Code Clearance?. Once per battle, when you draw battle destiny, may exchange a card in hand with a card of same card type in Lost Pile. (Immune to Alter.)",
+    "Icons": 0,
+    "ExpansionV": "Death Star II",
+    "Inventory": 0,
+    "Needs": 0
   }
 ]
