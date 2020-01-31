@@ -982,7 +982,7 @@
     "Uniqueness": "***",
     "Destiny": 4,
     "Lore": "After surviving Tarkin's extortion, kidnapping, threats of execution and the assault of the Interrogator droid, Princess Leia was asleep when her rescuers came.",
-    "Gametext": "Select one site under \"nighttime conditions.\" Target every character there (except droids) and draw one destiny each. If destiny > ability, character 'sleeps' (power, forfeit and ability = 0, \"game text\" unusable) until the end of your next turn, then lose Effect.",
+    "Gametext": "Deploy on a site under \"nighttime conditions.\" One at a time, target each non-droid character here and draw destiny. If destiny > ability, character 'sleeps' until end of your next turn (power, forfeit, and ability = 0, game text is canceled, and may not pilot, drive, or move). At the end of your next turn, lost Effect.",
     "Icons": 0,
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans",
     "Rules": "(AR 1.7.1, B-5)\\par The person who plays this card decides in what order to target the available characters. When targeting a character, if the player who played this card has no cards left in their Reserve Deck, then their opponent may choose what happens to that character: either put to 'sleep' or left 'awake.' A 'sleeping' character cannot move, drive or pilot.",

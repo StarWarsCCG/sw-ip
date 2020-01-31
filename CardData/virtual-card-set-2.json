@@ -260,7 +260,7 @@
     "Forfeit": 7,
     "Ability": 7,
     "ForceAptitude": "Jedi Master",
-    "Lore": "Yoda calls upon the Force often to try and forsee what destiny has in store.",
+    "Lore": "Yoda calls upon the Force often to try and forsee what destiny has in store. \\b Jedi Council Member.\\b0",
     "Gametext": "Deploys -1 to Coruscant. May lose 1 Force to cancel Force Lightning targeting your character present. Neither player may draw more than one battle destiny here (those destiny draws may not be modified or canceled). Immune to attrition.",
     "Icons": "Episode 1",
     "Episode1": 1,
