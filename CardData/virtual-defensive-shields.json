@@ -305,18 +305,5 @@
     "Inventory": 0,
     "Needs": 0,
     "ExpansionV": "Reflections III"
-  },
-  {
-    "id": 5392,
-    "CardName": "The Republic No Longer Functions",
-    "Grouping": "Light",
-    "CardType": "Defensive Shield",
-    "Expansion": "Virtual Defensive Shields",
-    "Rarity": "Common",
-    "Uniqueness": "*",
-    "Destiny": 0,
-    "Gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
-    "Icons": 0,
-    "ExpansionV": "Coruscant"
   }
 ]
