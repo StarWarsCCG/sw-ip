@@ -56,7 +56,8 @@ class Program
             var files = Directory.GetFiles(folder);
             var ids = new HashSet<int>();
             var duplicateIds = new HashSet<int>();
-            int maxId = 0;
+            int minId = int.MaxValue;
+            int maxId = int.MinValue;
 
             // https://codingrigour.wordpress.com/2011/02/17/the-case-of-the-mysterious-characters/
             
@@ -86,6 +87,7 @@ class Program
                             await writer.WriteLineAsync(");");
 
                             var id = row.GetProperty("id").GetInt32();
+                            minId = Math.Min(minId, id);
                             maxId = Math.Max(maxId, id);
 
                             if (!ids.Add(id))
@@ -98,11 +100,12 @@ class Program
             }
 
             Console.WriteLine("Unique IDs: " + ids.Count);
+            Console.WriteLine($"ID range: {minId} to {maxId}");
             
             if (0 < duplicateIds.Count)
             {
                 Console.WriteLine("Duplicate IDs: " + string.Join(", ", duplicateIds));
-                var gaps = Enumerable.Range(0, maxId).Where(n => !ids.Contains(n));
+                var gaps = Enumerable.Range(minId, maxId).Where(n => !ids.Contains(n));
                 var list = string.Join(", ", gaps);
                 
                 if (!string.IsNullOrWhiteSpace(list))
