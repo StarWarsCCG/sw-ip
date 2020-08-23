@@ -191,7 +191,7 @@
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": "On her assignment to kill Sharad Hett, Aurra used her patience and cunning to help track down the Jedi Master.",
-    "Gametext": "Deploy on table. Aurra, Bossk, and Cad are destiny +2. Once per game, may reveal a unique (*) alient from hand or Reserve Deck (reshuffle); for remainder of game, that card is an assassin and ignores [Reflections II] and [Naboo] objective deployment restrictions. (Immune to Alter.)",
+    "Gametext": "Deploy on table. Aurra, Bossk, and Cad are destiny +2. Once per game, may reveal up to two unique (*) aliens from hand and/or Reserve Deck (reshuffle); for remainder of game, those cards are assassins and Black Sun agents. (Immune to Alter.)",
     "Icons": "Episode 1",
     "Episode1": 1,
     "ExpansionV": "Tatooine"
@@ -282,7 +282,7 @@
     "Uniqueness": "*",
     "Destiny": 5,
     "Lore": "Anger and aggression fuel the dark side of the Force.",
-    "Gametext": "If a lightsaber swung by Vader just 'hit' a character, cancel that character's game text. OR If you just drew Vader for destiny, take him into hand to cancel and redraw that destiny. OR At Vader's site, cancel Blast The Door, Kid!; Dodge; or Rebel Barrier.",
+    "Gametext": "For remainder of turn, opponent may not cancel your lightsaber weapon (or 'choke') destiny draws. OR If Vader in battle alone, your total battle destiny is +1 for each character in battle. Or Cancel It's A Trap!",
     "ExpansionV": "Tatooine"
   },
   {
