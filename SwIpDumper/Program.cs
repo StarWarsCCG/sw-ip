@@ -61,15 +61,20 @@ namespace SwIpDumper
                                 Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
                             };
 
+                            var folder = args[0];
+                            Directory.CreateDirectory(folder);
+
                             foreach (var pair in cardData)
                             {
                                 var cleanExpansion = pair.Key
                                     .ToLowerInvariant()
+                                    .Replace("  \n", " ")
                                     .Replace(' ', '-')
                                     .Replace("'", "")
-                                    .Replace("#", "");
+                                    .Replace("#", "")
+                                    .Replace("\r", "");
                                 
-                                var fileName = Path.Combine("..", "CardData", cleanExpansion + ".json");
+                                var fileName = Path.Combine(folder, cleanExpansion + ".json");
                                 
                                 using (var stream = File.Create(fileName))
                                     await JsonSerializer.SerializeAsync(stream, pair.Value, options);

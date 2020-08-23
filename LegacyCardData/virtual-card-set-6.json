@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3367,
+    "CardName": "Rogue Squadron X-wing (V6)",
+    "Grouping": "Light",
+    "CardType": "Starship",
+    "Subtype": "Starfighter",
+    "ModelType": "X-wing",
+    "Expansion": "Virtual Card Set  \n#6",
+    "Rarity": "Common",
+    "Characteristics": "Rebel (starship)",
+    "Destiny": 2,
+    "Power": 3,
+    "Deploy": 2,
+    "Forfeit": 4,
+    "Hyperspeed": 5,
+    "Maneuver": 4,
+    "Gametext": "May add 1 pilot and 1 astromech. While Rebel Aces on table, pilot is forfeit +2 and this starship may not be lost before the damage segment of a battle. Matching starship for any Rogue Squadron pilot.",
+    "Icons": "Astromech, Scomp Link",
+    "Astromech": 1,
+    "ScompLink": 1,
+    "Information": "Original card: X-wing Laser Cannon",
+    "IsPulled": "All Wings Report In\\par Organized Attack",
+    "Matching": "Biggs, Rogue Legend (V)\\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Commander Narra (V)\\par Commander Wedge Antilles\\par Commander Wedge Antilles (V)\\par Corran Horn\\par Dack Ralter (V)\\par Dash Rendar (V)\\par Derek 'Hobbie' Klivian\\par Derek 'Hobbie' Klivian (V)\\par Karie Neth\\par Keir Santage\\par Kin Kian\\par Luke Skywalker, Rebel Hero (V)\\par Luke Skywalker, Strong In The Force (V)\\par Ten Numb (V)\\par Tycho Celchu\\par Tycho Celchu (V)\\par  Veteran Rogue (V)\\par Wedge Antilles, Legendary Rogue (V)\\par Wedge Antilles, Red Squadron Leader\\par Wes Janson, Rogue Veteran (V)\\par Zev Senesca",
+    "Inventory": 0,
+    "Needs": 0,
+    "ExpansionV": "Special Edition"
+  }
+]
