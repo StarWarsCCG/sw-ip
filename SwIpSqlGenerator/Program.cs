@@ -101,6 +101,7 @@ class Program
             
             if (0 < duplicateIds.Count)
             {
+                Console.WriteLine("Duplicate IDs: " + string.Join(", ", duplicateIds));
                 var gaps = Enumerable.Range(0, maxId).Where(n => !ids.Contains(n));
                 var list = string.Join(", ", gaps);
                 
