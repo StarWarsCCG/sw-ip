@@ -1,6 +1,6 @@
 [
   {
-    "id": 5392,
+    "id": 5397,
     "CardName": "Admiral Trench",
     "Grouping": "Dark",
     "CardType": "Character",
@@ -24,7 +24,7 @@
     "ExpansionV": "A New Hope"
   },
   {
-    "id": 5393,
+    "id": 5398,
     "CardName": "Allegiant General Pryde",
     "Grouping": "Dark",
     "CardType": "Character",
@@ -48,7 +48,7 @@
     "ExpansionV": "Special Edition"
   },
   {
-    "id": 5394,
+    "id": 5399,
     "CardName": "Aurra Sing With Blaster Rifle",
     "Grouping": "Dark",
     "CardType": "Character",
@@ -73,7 +73,7 @@
     "ExpansionV": "Tatooine"
   },
   {
-    "id": 5395,
+    "id": 5400,
     "CardName": "Moff Gideon",
     "Grouping": "Dark",
     "CardType": "Character",
@@ -97,7 +97,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 5396,
+    "id": 5401,
     "CardName": "Evil Is Everywhere",
     "Grouping": "Dark",
     "CardType": "Effect",
@@ -113,7 +113,7 @@
     "ExpansionV": "Reflections III"
   },
   {
-    "id": 5397,
+    "id": 5402,
     "CardName": "Slip Sliding Away (V)",
     "Grouping": "Dark",
     "CardType": "Interrupt",

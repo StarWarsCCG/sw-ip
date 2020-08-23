@@ -54,6 +54,9 @@ class Program
         static async Task GenerateSqlAsync(string folder, string sqlFile)
         {
             var files = Directory.GetFiles(folder);
+            var ids = new HashSet<int>();
+            var duplicateIds = new HashSet<int>();
+            int maxId = 0;
 
             // https://codingrigour.wordpress.com/2011/02/17/the-case-of-the-mysterious-characters/
             
@@ -81,10 +84,28 @@ class Program
                             await writer.WriteAsync(") VALUES (");
                             await writer.WriteAsync(string.Join(",", row.EnumerateObject().Select(GetValue)));
                             await writer.WriteLineAsync(");");
+
+                            var id = row.GetProperty("id").GetInt32();
+                            maxId = Math.Max(maxId, id);
+
+                            if (!ids.Add(id))
+                                duplicateIds.Add(id);
                         }
                     }
                 }
+
                 await writer.WriteLineAsync("COMMIT;");
+            }
+
+            Console.WriteLine("Unique IDs: " + ids.Count);
+            
+            if (0 < duplicateIds.Count)
+            {
+                var gaps = Enumerable.Range(0, maxId).Where(n => !ids.Contains(n));
+                var list = string.Join(", ", gaps);
+                
+                if (!string.IsNullOrWhiteSpace(list))
+                    Console.WriteLine("Gaps: " + list);
             }
         }
 
