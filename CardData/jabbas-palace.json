@@ -93,7 +93,7 @@
     "Icons": 0,
     "Information": "Startable with Prepared Defenses.",
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans",
-    "Rules": "(AR 1.7.1, B-1)\\par When capturing a just forfeited character using this Dark Side Effect, that character is captured after applying forfeit value but before being placed on the Lost Pile. When captured, the character's values that would normally be restored upon leaving table (e.g., forfeit being reduced by 2, power being reduced to 0) has those values reset. In this way, cards deployed on that character (for example, Bounty or a\\par weapon) are not placed in the Lost Pile. Additionally, if the card was 'hit', it is no longer 'hit'. This is a specific exception to the just lost ruling.\\par This card merely requires that the bounty hunter be present at the location. He need not be present with the forfeited character.",
+    "Rules": "(AR 1.7.1, B-1), updated June 19, 2016\\par When capturing an 'about to be forfeited' character using this Dark Side Effect, that character is captured after applying forfeit value but before being placed on the Lost Pile. When captured, the character's values that would normally be restored upon leaving table (e.g., forfeit being reduced by 2, power being reduced to 0) has those values reset. In this way, cards deployed on that character (for example, Bounty or a weapon) are not placed in the Lost Pile. Additionally, if the card was 'hit', it is no longer 'hit'.\\par This card merely requires that the bounty hunter be present at the location. He need not be present with the forfeited character.",
     "Inventory": 0,
     "Needs": 0,
     "Errata": 1
@@ -514,6 +514,7 @@
     "Icons": 0,
     "Information": "Protects your mains from the lightsaber wielding Dark Side mains.\\par Your characters of ability > 2 can be protected by Dodge:\\par 'If one of your characters of ability > 2 was just targeted by a weapon, subtract 3 from each weapon destiny draw.'\\par -----\\par See Put That Down for similar text.",
     "Counterpart": "Force Field",
+    "Rules": "AR Update September 2, 2016\\par When re-targeting a blaster with this Interrupt, you must re-target it to an opponent's character present at the same location as your character that was originally targeted.",
     "Cancels": "An attempt to use a character weapon to target your character of ability > 4.",
     "Inventory": 0,
     "Needs": 0
@@ -2380,7 +2381,7 @@
     "IsPulled": "Leia's Back\\par Seeking An Audience\\par Seeking An Audience (V)",
     "Combo": "Princess Leia Organa replacing another Leia\\par -----\\par Princess Leia Organa (captive) + Luke Skywalker + Anakin's Lightsaber\\par -----\\par Princess Leia Organa + Jerus Jannick",
     "MatchingWeapon": "Anakin's Lightsaber\\par Anakin's Lightsaber (V)\\par Leia's Blaster Rifle\\par Leia's Sporting Blaster",
-    "Rules": "(AR 1.7.1, B-13)\\par This version of the Leia persona enters play either by deploying as a captive or, on rare occasion, by replacing a different Leia using the persona replacement rule (only if that other Leia is a captive of Jabba or a bounty hunter). Leia must still obey all normal deployment rules (e.g., she cannot deploy without presence or Force icons or to an opponent's starship or vehicle). All of this character card's game text should be applied whenever appropriate, even when she's a captive (this is a specific exception to the rules).",
+    "Rules": "(AR 1.7.1, B-13), updated May 30, 2016:\\par This version of the Leia persona enters play by deploying as a captive. Leia must still obey all normal deployment rules (e.g., she cannot deploy without presence or Force icons or to an opponent's starship or vehicle). All of this character card's game text should be applied whenever appropriate, even when she's a captive (this is a specific exception to the rules).",
     "Inventory": 0,
     "Needs": 0
   },

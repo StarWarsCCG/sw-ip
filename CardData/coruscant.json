@@ -1763,7 +1763,7 @@
     "Episode1": 1,
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans",
     "Combo": "Motion Supported + Orn Free Taa + Galactic Senate + Orn Free Taa\\par Every battle destiny is a high battle destiny.",
-    "Rules": "(Appendix B)\\par The battle destiny substitution portion of this card counts as 'canceling' the original destiny for the purposes of cards that prevent such cancellations. If your battle destinies are prevented from being canceled by other rules or cards, you may not initiate this text.",
+    "Rules": "(Appendix B)\\par The battle destiny substitution portion of this card counts as 'canceling' the original destiny for the purposes of cards that prevent such cancellations. If your battle destinies are prevented from being canceled by other rules or cards, you may not initiate this text.\\par \\par When substituting a draw with this Political Effect, use the destiny value of the card in hand, then place it on the Used Pile after it resolves. The destiny value of the card in hand is a substituted destiny draw, but the physical card itself is not a destiny draw nor is it considered \"just drawn.\"",
     "IsCanceledBy": "Alter (EP1)",
     "Inventory": 0,
     "Needs": 0

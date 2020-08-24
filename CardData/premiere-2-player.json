@@ -69,7 +69,7 @@
     "Gametext": "Must deploy on Tatooine, but may move elsewhere. May not be deployed if two or more of opponent's unique (*) characters on table. Your warriors at same site as Luke, or adjacent sites, are forfeit +1.",
     "Icons": "Warrior",
     "Warrior": 1,
-    "Information": "Luke Skywalker personas are:\\par \\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Luke\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Last Jedi\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Son Of Skywalker\\par Young Skywalker",
+    "Information": "Luke Skywalker personas are:\\par \\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Luke\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Last Jedi\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Son Of Skywalker",
     "IsPulled": "Camie\\par Luke's Back",
     "MatchingWeapon": "Luke's Blaster Pistol\\par Luke's Blaster Pistol (V)\\par Luke's Hunting Rifle\\par Luke's Hunting Rifle (V)\\par Luke's Lightsaber",
     "Inventory": 0,

@@ -588,7 +588,7 @@
     "Icons": "Pilot, Warrior, Episode VII",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "This card has an Episode VII icon.\\par \\par Original card: Luke's Back\\par \\par Luke Skywalker personas are:\\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Luke\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Last Jedi\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Son Of Skywalker\\par Young Skywalker",
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: Luke's Back\\par \\par Luke Skywalker personas are:\\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Luke\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Last Jedi\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Son Of Skywalker",
     "IsPulled": "Luke's Back\\par Tatooine: City Outskirts",
     "Matching": "Artoo-Detoo In Red 5\\par Red 5\\par Luke's T-16 Skyhopper\\par Rogue 1",
     "MatchingWeapon": "Anakin's Lightsaber\\par Luke's Blaster Pistol\\par Luke's Blaster Pistol (V)\\par Luke's Hunting Rifle\\par Luke's Hunting Rifle (V)\\par Luke's Lightsaber",
@@ -741,7 +741,7 @@
     "Planet": 1,
     "Exterior": 1,
     "Information": "This card has an Episode VII icon.\\par \\par Orignal card: Dagobah: Yoda's Hut",
-    "Pulls": "[Episode VII] Luke",
+    "Pulls": "Luke Skywalker, The Last Jedi",
     "Inventory": 0,
     "Needs": 0
   },
@@ -873,8 +873,8 @@
     "Lore": "\"Your fleet is lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice.\"",
     "Gametext": "If Ralltiir Operations on table, deploy on table. Forfeit values are not modified by Do They Have A Code Clearance?. Once per battle, when you draw battle destiny, may exchange a card in hand with a card of same card type in Lost Pile. (Immune to Alter.)",
     "Icons": 0,
-    "ExpansionV": "Death Star II",
     "Inventory": 0,
-    "Needs": 0
+    "Needs": 0,
+    "ExpansionV": "Death Star II"
   }
 ]

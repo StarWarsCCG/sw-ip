@@ -130,6 +130,7 @@
     "Gametext": "Deploy on a captured starship. Your characters present with captured starship may battle opponent's characters aboard it (as if present together at a site). Effect canceled if starship escapes or is stolen.",
     "Icons": 0,
     "IsPulled": "Lieutenant Cecius\\par Twi'lek Advisor\\par Warrant Officer M'Kae\\par We Must Accelerate Our Plans",
+    "Rules": "AR Update April 14, 2017\\par The phrase \"Effect lost if starship escapes or is stolen\" indicates that the Effect goes lost if the starship escapes or is stolen by the Dark Side player.",
     "IsCanceledBy": "Alternatives To Fighting",
     "Inventory": 0,
     "Needs": 0,
@@ -1597,6 +1598,8 @@
     "Lore": "\"It's not wise to upset a Wookiee.\" \"But sir, nobody worries about upsetting a droid.\" \"That's 'cause a droid don't pull people's arms out of their sockets when they lose.\"",
     "Gametext": "During a battle at a holosite, add one battle destiny. OR Target an opponent's character of ability < 5 present with your Wookiee that just participated in a battle you lost; character is Disarmed (power -1 and may no longer carry weapons). Stack on that character.",
     "Icons": 0,
+    "Information": "This Interrupt must be stacked on a character after it resolves to have its effect (i.e. if it's stacked on a 'grabber' or goes out of play there is no result).",
+    "Rules": "AR Update June 19, 2016\\par When Disarming an opponent\u0092s character, this Interrupt is placed on that character to indicate that the character is Disarmed. Therefore, once Let The Wookiee Win has had its result, it is \"on table\" but may not be targeted by Sense because it is just used as an indicator that the character is Disarmed.\\par This Interrupt must be stacked on a character after it resolves to have its effect (i.e. if it's stacked on a 'grabber' or goes out of play there is no result).",
     "Inventory": 0,
     "Needs": 0,
     "Errata": 1
@@ -2015,7 +2018,7 @@
     "Icons": 0,
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans",
     "Combo": "Program Trap + U-3PO (Yoo-Threepio)",
-    "Rules": "(AR 1.7.1, B-13)\\par Although this Effect is triggered according to the number of characters at same site, only those characters present with it are lost when it explodes. For example, Program Trap is deployed on a droid with Lando aboard an enclosed vehicle at a site. Veers and Chewie are standing outside the vehicle; thus, there are four characters at that site. If either player draws a destiny of 4 (anywhere), the droid explodes, causing itself and Lando (the only other character present with it) to be lost. Although Program Trap may be deployed on a droid anywhere, it may explode only when that droid is at a site.",
+    "Rules": "(AR 1.7.1, B-13) updated June 19, 2016\\par Although this Effect is triggered according to the number of characters at same site, only those characters present with it are lost when it explodes. For example, Program Trap is deployed on a droid with Lando aboard an enclosed vehicle at a site. Veers and Chewie are standing outside the vehicle; thus, there are four characters at that site. If either player draws a destiny of 4 (anywhere), the droid explodes, causing itself and Lando (the only other character present with it) to be lost. Although Program Trap may be deployed on a droid anywhere, it may explode only when that droid is at a site.\\par Program Trap doing a \"check\" is an automatic action to every destiny draw. If the check passes, the trap then continues with the rest of its text (it explodes immediately). If the check fails, it does not explode, and it won't check again for that destiny draw, even if that draw is then modified.",
     "IsCanceledBy": "Fire Extinguisher\\par They're Tracking Us (V)",
     "Inventory": 0,
     "Needs": 0,
@@ -3231,7 +3234,7 @@
     "Icons": 0,
     "IsPulled": "Yuzzum",
     "Combo": "We Have A Prisoner + Corporal Vandolay\\par Corporal Vandolay makes We Have A Prisoner a Used Interrupt while at a mobile site",
-    "Rules": "(AR 1.7.1, B-16)\\par When capturing a just forfeited character using this Dark Side Effect, that character is captured after applying forfeit value but before being placed on the Lost Pile. When captured, the characters values that would normally be restored upon leaving table (e.g., forfeit being reduced by 2, power being reduced to 0) has those values reset. In this way, cards deployed on that character (for example, Bounty or a weapon) are not placed in the Lost Pile. Additionally, if the card was 'hit', it is no longer 'hit'. This is a specific exception to the just lost ruling.\\par This Interrupt's first function may capture a character lost or forfeited from a system or sector, if you have a potential escort available aboard a vehicle or starship at that location.",
+    "Rules": "(AR 1.7.1, B-16), updated June 19, 2016\\par When capturing an 'about to be lost or forfeited character' using this Dark Side Effect, that character is captured after applying forfeit value (if applicable) but before being placed on the Lost Pile. When captured, the characters values that would normally be restored upon leaving table (e.g., forfeit being reduced by 2, power being reduced to 0) has those values reset. In this way, cards deployed on that character (for example, Bounty or a weapon) are not placed in the Lost Pile. Additionally, if the card was 'hit', it is no longer 'hit'.\\par This Interrupt's first function may capture a character about to be lost or forfeited from a system or sector, if you have a potential escort available aboard a vehicle or starship at that location.",
     "Inventory": 0,
     "Needs": 0
   },
@@ -3323,9 +3326,9 @@
     "Icons": 0,
     "Pulls": "Chewbacca\\par Chewbacca Of Kashyyyk\\par Chewbacca, Protector\\par Chewie\\par Chewie (V)\\par Chewie With Blaster Rifle\\par Chewie With Bowcaster\\par Chewie, Enraged",
     "IsCanceledBy": "Furry Fury",
-    "ExpansionV": "A New Hope",
     "Inventory": 0,
-    "Needs": 0
+    "Needs": 0,
+    "ExpansionV": "A New Hope"
   },
   {
     "id": 2851,

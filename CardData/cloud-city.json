@@ -1722,6 +1722,7 @@
     "Gametext": "If you just lost a character during a battle or a duel at a Cloud City site, use 2 Force to relocate that character to Weather Vane instead of your Lost Pile. OR Search your Reserve Deck, take one Weather Vane into hand and reshuffle.",
     "Icons": 0,
     "Pulls": "Weather Vane",
+    "Rules": "AR Update May 18, 2017\\par When this card targets a 'just lost character' it is targeting a character that was just lost from a battle (or duel) that took place on Cloud City.",
     "Inventory": 0,
     "Needs": 0
   },
@@ -1790,7 +1791,7 @@
     "Gametext": "Deploy on a docking bay. Target an opponent's starfighter at the related system or a related cloud sector. Target may not move away from Utinni Effect. Utinni Effect canceled when reached by target.",
     "Icons": 0,
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans",
-    "Rules": "(AR 1.7.1, B-7)\\par A starfighter targeted by this card may not move from the related system to any other system or asteroid sector, may not move from any cloud sector to the system (or to any cloud sector of higher-altitude); and may not move to any site other than the docking bay where Forced Landing is deployed.",
+    "Rules": "(AR 1.7.1, B-7) updated June 19, 2016\\par A starfighter targeted by this card may not move (or be carried) from the related system to any other system or asteroid sector, may not move (or be carried) from any cloud sector to the system (or to any cloud sector of higher-altitude); and may not move (or be carried) to any site other than the docking bay where Forced Landing is deployed.",
     "Inventory": 0,
     "Needs": 0
   },
@@ -2084,6 +2085,7 @@
     "Gametext": "Deploys only aboard \\ul Executor\\ul0  or on any Death Star Site. Cannot move. May cancel opponent's Force Drains at adjacent Death Star or \\ul Executor\\ul0  sites.",
     "Icons": "Warrior",
     "Warrior": 1,
+    "Information": "Errata May 30, 2016. Previous text:\\par Deploys only aboard Executor or on any Death Star Site. Cannot move. May cancel opponent's Force Drains at adjacent sites.",
     "IsPulled": "Blizzard 4",
     "Combo": "Imperial Trooper Guard Dainsom + Imperial Squad Leader\\par A mobile Force drain blocker for the Dark Side.",
     "Cancels": "Opponent's Force drains at adjacent sites.",

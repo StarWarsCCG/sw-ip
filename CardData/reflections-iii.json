@@ -28,8 +28,9 @@
     "Gametext": "Deploy on table. At [Episode 1] Tatooine battleground sites, your Force drains are +1 and opponent's cards with ability are deploy -1. While Padme at a Tatooine battleground site, opponent's Force drains at related sites are -1. Place Effect in Used Pile if canceled.",
     "Icons": "Episode 1",
     "Episode1": 1,
-    "Information": "[Episode 1] Tatooine battleground sites (LS):\\par Tatooine: City Outskirts\\par Tatooine: Marketplace\\par Tatooine: Mos Espa\\par Tatooine: Mos Espa Docking Bay\\par Tatooine: Podrace Arena\\par Tatooine: Podracer Bay\\par Tatooine: Watto's Junkyard\\par \\par [Episode 1] Tatooine battleground sites (DS):\\par Tatooine: Marketplace\\par Tatooine: Mos Espa\\par Tatooine: Mos Espa Docking Bay\\par Tatooine: Podrace Arena\\par Tatooine: Watto's Junkyard",
+    "Information": "\\par [Episode 1] Tatooine battleground sites (LS):\\par Tatooine: City Outskirts\\par Tatooine: Marketplace\\par Tatooine: Mos Espa\\par Tatooine: Mos Espa Docking Bay\\par Tatooine: Podrace Arena\\par Tatooine: Podracer Bay\\par Tatooine: Watto's Junkyard\\par \\par [Episode 1] Tatooine battleground sites (DS):\\par Tatooine: Marketplace\\par Tatooine: Mos Espa\\par Tatooine: Mos Espa Docking Bay\\par Tatooine: Podrace Arena\\par Tatooine: Watto's Junkyard",
     "IsPulled": "The Signal\\par We Wish To Board At Once",
+    "Rules": "AR Update May 30, 2016:\\par This card refers to the \"Padme Naberrie\" version of the Amidala persona only.",
     "Inventory": 0,
     "Needs": 0
   },
@@ -1255,6 +1256,7 @@
     "IsPulled": "Fall Of A Jedi\\par Padme Naberrie\\par Return Of A Jedi\\par Tatooine: City Outskirts",
     "Combo": "Obi-Wan Kenobi, Jedi Knight + Are You Brain Dead?!\\par Obi-Wan Kenobi, Jedi Knight + Krayt Dragon Howl",
     "MatchingWeapon": "Obi-Wan's Lightsaber\\par Obi-Wan's Lightsaber (EP1)\\par Qui-Gon's Lightsaber",
+    "Rules": "AR Update September 2, 2016\\par Cards that are immune to Sniper are protected from being made immediately lost during battle via Sniper & Dark Strike, and are also protected from being targeted by any weapons during the opponent's control phase using any version of Sniper.",
     "Inventory": 0,
     "Needs": 0
   },

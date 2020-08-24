@@ -1234,6 +1234,7 @@
     "Pulls": "Endor Shield\\par Endor Shield (V)",
     "Counterpart": "Endor: Bunker",
     "Combo": "Endor: Bunker + Major Hewex",
+    "Rules": "AR Update November 3, 2016\\par Light can only move to this site if they at the Back Door when they are initiating their movement.",
     "Inventory": 0,
     "Needs": 0
   },
@@ -2966,7 +2967,7 @@
     "Icons": "Warrior",
     "Warrior": 1,
     "IsPulled": "General Crix Madine",
-    "Rules": "(AR 1.7.1, B-14)\\par This Rebel modifies the movement cost and landspeed of other scouts. He does not actually permit other scouts to perform a movement action (regular, unlimited, or 'react') if they are not entitled to one.",
+    "Rules": "(AR 1.7.1, B-14) updated May 18, 2017\\par This Rebel modifies the movement cost and landspeed of other scouts. He does not actually permit other scouts to perform a movement action (regular, unlimited, or 'react') if they are not entitled to one.\\par Carlson targets your other scouts when he is about to move using his landspeed. They then all move together simultaneously.",
     "Inventory": 0,
     "Needs": 0
   },

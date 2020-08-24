@@ -455,6 +455,7 @@
     "Icons": "Pilot",
     "Pilot": 1,
     "Matching": "Scimitar 2",
+    "Rules": "AR Update May 30, 2016: \\par This character must be piloting a TIE/sa in order to use his text to satisfy all remaining attrition and battle damage.",
     "Inventory": 0,
     "Needs": 0
   },
@@ -2411,7 +2412,7 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Luke Skywalker personas are:\\par \\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Luke\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Last Jedi\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Son Of Skywalker\\par Young Skywalker",
+    "Information": "Luke Skywalker personas are:\\par \\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Luke\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Last Jedi\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Son Of Skywalker",
     "Abbreviation": "LSJK",
     "IsPulled": "Luke's Back\\par Tatooine: City Outskirts",
     "Combo": "Like My Father Before Me + Luke Skywalker, Jedi Knight",

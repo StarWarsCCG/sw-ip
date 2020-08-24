@@ -205,8 +205,10 @@
     "Gametext": "Deploy on Amidala. May target a character or creature for free. Draw destiny. Character is power and forfeit = 0 if destiny > defense value. Creature lost if destiny +2 > defense value.",
     "Icons": "Episode 1",
     "Episode1": 1,
+    "Information": "This weapon does not 'hit' its targets; instead, the power and forfeit reset to 0 lasts until that card leaves the table (not just until the end of the battle).",
     "IsPulled": "Portable Scanner",
     "MatchingWeapon": "Padme Naberrie\\par Padme Naberrie (V)\\par Queen Amidala\\par Queen Amidala, Ruler Of Naboo",
+    "Rules": "AR 3.0 pg 1-7: \"...if someone is shot with Amidala's Blaster ... those changes will last until the card leaves play (or something restores it to normal) because weapons always last indefinitely, even when fired during a battle.\"",
     "Inventory": 0,
     "Needs": 0
   },
@@ -2002,6 +2004,7 @@
     "IsPulled": "Sabe",
     "Combo": "Queen Amidala + Jerus Jannick\\par -----\\par Queen Amidala + Panaka, Protector Of The Queen\\par While Panaka is with Amidala at a Naboo site, opponent may not target Amidala with weapons. Panaka deploys free to a Naboo site.\\par -----\\par Queen Amidala + Panaka, Protector Of The Queen + We Don't Have Time For This\\par If Amidala and Panaka are in a battle together, add two battle destiny.",
     "MatchingWeapon": "Amidala's Blaster",
+    "Rules": "AR Update September 2, 2016\\par Cards that are immune to Sniper are protected from being made immediately lost during battle via Sniper & Dark Strike, and are also protected from being targeted by any weapons during the opponent's control phase using any version of Sniper.",
     "Inventory": 0,
     "Needs": 0
   },

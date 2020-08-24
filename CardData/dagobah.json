@@ -2904,7 +2904,7 @@
     "Exterior": 1,
     "Starship": 1,
     "ScompLink": 1,
-    "Rules": "(AR 1.7.1, B-14)\\par Although this site is not a docking bay, starfighters may deploy here as if it were a docking bay. The site's game text is clarified as follows:\\par Shuttle - Your cards that may shuttle to this site's star destroyer may instead shuttle here; likewise, your cards here may shuttle to a site related to that star destroyer.\\par Transfer - You may dock another starship with this site's related star destroyer (following the normal rules of moving between docked starships) and transfer cards between that starship and this site (when doing so, the cost of docking is free).\\par Embark - Your starships may land at this site as if it were a docking bay.\\par Disembark - Your starships may take off from this site as if it were a docking bay.\\par These actions cannot be combined with similar actions involving this site's star destroyer; for example, you may shuttle a group of characters to this site and a group of characters to the star destroyer itself, but these are both separate actions and are handled accordingly (the ones shuttled to the star destroyer would not be free).",
+    "Rules": "(AR 1.7.1, B-14) updated November 26, 2016\\par Although this site is not a docking bay, starfighters may deploy, land, or take off here as if it were a docking bay. The site's game text is clarified as follows:\\par Shuttle - Your cards that may shuttle to this site's star destroyer may instead shuttle here; likewise, your cards here may shuttle to a site related to that star destroyer.\\par Transfer - You may dock another starship with this site's related star destroyer (following the normal rules of moving between docked starships) and transfer cards between that starship and this site (when doing so, the cost of docking is free).\\par Embark - Your starships may land at this site as if it were a docking bay (treat as an 'embarking' unlimited move).\\par Disembark - Your starships may take off from this site as if it were a docking bay (treat as a 'disembarking' unlimited move).\\par These actions cannot be combined with similar actions involving this site's star destroyer; for example, you may shuttle a group of characters to this site and a group of characters to the star destroyer itself, but these are both separate actions and are handled accordingly (the ones shuttled to the star destroyer would not be free).",
     "Inventory": 0,
     "Needs": 0
   },
@@ -3329,6 +3329,7 @@
     "Gametext": "Name an Interrupt card. Opponent must reveal entire Used Pile, without shuffling. Then you choose: USED: Opponent must lose 1 Force for each copy of that Interrupt found there. LOST: Each copy of that interrupt found there is lost.",
     "Icons": 0,
     "Combo": "That's One makes Visored Visions immune to Sense.",
+    "Rules": "AR Update February 11, 2017\\par This Interrupt is initiated when the Light Side player names the Interrupt card. \"Response\" actions (such as Sense) may then be played, before the opponent's Used Pile is revealed and the USED or LOST function is selected.",
     "Inventory": 0,
     "Needs": 0
   },
@@ -3346,6 +3347,7 @@
     "Gametext": "Name an Interrupt card. Opponent must reveal entire Used Pile, without shuffling. Then you choose: USED: Opponent must lose 1 Force for each copy of that Interrupt found there. LOST: Each copy of that interrupt found there is lost.",
     "Icons": 0,
     "Combo": "Voyeur + Trinto Duaba + Dune Sea Sabacc (or any Sabacc really)\\par Play Sabacc to get cards in their used pile, then the other 2 Interrupts to make them lose force/other cards. (maxbeedo)",
+    "Rules": "AR Update February 11, 2017\\par This Interrupt is initiated when the Light Side player names the Interrupt card. \"Response\" actions (such as Sense) may then be played, before the opponent's Used Pile is revealed and the USED or LOST function is selected.",
     "Inventory": 0,
     "Needs": 0
   },

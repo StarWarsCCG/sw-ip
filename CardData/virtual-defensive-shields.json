@@ -196,6 +196,7 @@
     "Episode1": 1,
     "Information": "Can use either Coruscant or Reflections III card under the v-slip.",
     "Counterpart": "Wipe Them Out, All Of Them - Defensive Shield",
+    "Rules": "AR Update November 3, 2016\\par This Defensive Shield protects against attempts to remove cards from a player's hand (such as Defensive Fire, Scanning Crew, or I Will Make It Legal) and also against attempts to force you to lose specific cards from hand (such as with M'iiyoom Onith). It does not protect against cards like Fear that could require you to lose Force from hand.",
     "Cancels": "M'iiiyoom Onith's game text",
     "Inventory": 0,
     "Needs": 0,
@@ -250,6 +251,7 @@
     "Gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Grimtaash).  Once per turn (even at start of turn), target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
     "Icons": 0,
     "Counterpart": "The Republic No Longer Functions",
+    "Rules": "AR Update November 3, 2016\\par This Defensive Shield protects against attempts to remove cards from a player's hand (such as Defensive Fire, Scanning Crew, or I Will Make It Legal) and also against attempts to force you to lose specific cards from hand (such as with M'iiyoom Onith). It does not protect against cards like Fear that could require you to lose Force from hand.",
     "Inventory": 0,
     "Needs": 0,
     "ExpansionV": "Reflections III"

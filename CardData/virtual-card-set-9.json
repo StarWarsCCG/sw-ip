@@ -482,9 +482,9 @@
     "Warrior": 1,
     "IsPulled": "Balanced Attack\\par Princess Organa\\par Rebel Leadership (V)\\par Strike Planning\\par Yavin 4: Massassi War Room (V)",
     "Cancels": "Wrong Turn",
-    "ExpansionV": "Premiere",
     "Inventory": 0,
-    "Needs": 0
+    "Needs": 0,
+    "ExpansionV": "Premiere"
   },
   {
     "id": 5265,
@@ -746,11 +746,11 @@
     "Destiny": 5,
     "Gametext": "If your [Episode VII] location on table, deploy on table. Your Force generation is + 1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to take a Resistance character of equal or lesser ability from Reserve Deck; reshuffle. (Immune to Alter.)",
     "Icons": "Episode VII",
-    "Information": "Original card: Surprise Assault",
+    "Information": "Original card: Surprise Assault\\par \\par Errata as of December 2019. Original text:\\par If your [Episode VII] location on table, deploy on table. Your Force generation is + 1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to take a Resistance character into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
     "IsPulled": "The Signal\\par We Wish To Board At Once",
-    "ExpansionV": "Premiere",
     "Inventory": 0,
-    "Needs": 0
+    "Needs": 0,
+    "ExpansionV": "Premiere"
   },
   {
     "id": 5277,

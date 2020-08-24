@@ -283,9 +283,9 @@
     "Information": "Original concept by Chris Kelly \\par Original card: Honor of the Jedi",
     "Pulls": "Luke's Lightsaber",
     "Combo": "Like My Father Before Me + Luke Skywalker, Jedi Knight",
-    "ExpansionV": "Death Star II",
     "Inventory": 0,
-    "Needs": 0
+    "Needs": 0,
+    "ExpansionV": "Death Star II"
   },
   {
     "id": 5016,

@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Data.SQLite;
 using System.IO;
+using System.Linq;
+using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 using System.Threading.Tasks;
@@ -10,8 +12,10 @@ namespace SwIpDumper
 {
     class Program
     {
+        private static readonly Encoding theEncoding = Encoding.GetEncoding("ISO-8859-1");
         static async Task Main(string[] args)
         {
+            var buffer = new byte[8192];
             try
             {
                 using (var connection = new SQLiteConnection("Data Source=swccg_db.sqlite;Version=3"))
@@ -33,8 +37,8 @@ namespace SwIpDumper
 
                                 for (int i = 0; i < reader.FieldCount; ++i)
                                 {
-                                    var content = reader[i].ToString();
-
+                                    var content = reader[i].ToString() ?? string.Empty;
+                                    
                                     if (!string.IsNullOrWhiteSpace(content))
                                     {
                                         if (double.TryParse(content, out var asDouble))

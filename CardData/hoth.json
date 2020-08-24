@@ -77,9 +77,9 @@
     "Lore": "Constructed by Anakin Skywalker. Kept by Obi-Wan Kenobi until given to Luke.",
     "Gametext": "Deploy on your Skywalker of ability > 3. May add 1 to Force drain where present. May target a character or creature for free. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value.",
     "Icons": 0,
-    "Information": "This weapon deploys on any Skywalker with ability > 3 making it a kind of familiy blade.\\par -----\\par Luke's lightsabers are:\\par \\par Anakin's Lightsaber\\par Anakin's Lightsaber (V)\\par Luke's Lightsaber\\par Luke With Lightsaber\\par \\par Note: Anakin's Lightsaber and Luke's Lightsaber are not the same persona.",
+    "Information": "This weapon deploys on any Skywalker with ability > 3 making it a kind of family blade.\\par -----\\par Luke's matching lightsabers are:\\par \\par Anakin's Lightsaber\\par Anakin's Lightsaber (V)\\par Luke's Lightsaber\\par Luke With Lightsaber\\par \\par Note: Anakin's Lightsaber and Luke's Lightsaber are not the same persona.",
     "IsPulled": "Gift Of The Mentor\\par I Know\\par Son Of Skywalker",
-    "MatchingWeapon": "Anakin Skywalker, Padawan Learner\\par Boushh\\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Daughter Of Skywalker\\par Daughter Of Skywalker (V)\\par General Leia Organa\\par Leia (V)\\par Leia With Blaster Rifle\\par Leia, Rebel Princess\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Princess Leia\\par Princess Leia (V)\\par Princess Leia Organa\\par Son Of Skywalker\\par Young Skywalker",
+    "MatchingWeapon": "Anakin Skywalker, Padawan Learner\\par Boushh\\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Daughter Of Skywalker\\par Daughter Of Skywalker (V)\\par General Leia Organa\\par Leia (V)\\par Leia With Blaster Rifle\\par Leia, Rebel Princess\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Princess Leia\\par Princess Leia (V)\\par Princess Leia Organa\\par Son Of Skywalker",
     "Inventory": 0,
     "Needs": 0,
     "Errata": 1
@@ -1939,7 +1939,7 @@
     "Icons": 0,
     "Information": "Play this card on the Hoth: Wampa Cave, targeting a major Rebel who is not at the Hoth: Echo Command Center (Obi-Wan Kenobi or Commander Luke Skywalker work best as they cannot use their lightsabers to Force drain - see below), then play Responsibility Of Command on the same character.\\par Your opponent will be unable to initiate battles or Force drains at the same location as a powerful character, and the only way to cancel this Effect is to take a long trek over the Hoth: North Ridge through Imperial territory ... and then walk back.\\par Throw in Nightfall, Exhaustion, Exposure and Too Cold For Speeders for extra laughs.",
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans",
-    "Rules": "(AR 1.7.1, B-11)\\par A character targeted by this Utinni Effect may not move to any other system; may not move to any site of greater distance (number of adjacent sites) from the Utinni Effect than the current site; and may not move to the related system or cloud sector.",
+    "Rules": "(AR 1.7.1, B-11) updated June 19, 2016\\par A character targeted by this Utinni Effect may not move (or be carried) to any other system; may not move (or be carried) to any site of greater distance (number of adjacent sites) from the Utinni Effect than the current site; and may not move (or be carried) to the related system or cloud sector.",
     "Inventory": 0,
     "Needs": 0
   },
@@ -2848,7 +2848,7 @@
     "Gametext": "Deploy between Echo Docking Bay and innermost marker site. When under \"nighttime conditions,\" no movement is allowed to or from Echo Docking Bay unless it is to or from an Echo site.",
     "Icons": 0,
     "IsPulled": "Conduct Your Search\\par Twi'lek Advisor\\par We Must Accelerate Our Plans",
-    "Rules": "(AR 1.7.1, B-15)\\par This Effect stops movement from a non-Echo site to the Echo Docking Bay, or from Echo Docking Bay to a non-Echo site.",
+    "Rules": "(AR 1.7.1, B-15) updated September 2, 2016\\par This Effect prevents: all movement (of any kind) to the Hoth: Echo Docking Bay, unless the movement is from another site with \"Echo\" in title; and all movement (of any kind) from the Hoth: Echo Docking Bay, unless the movement is to another site with \"Echo\" in title.",
     "IsCanceledBy": "Desperate Reach\\par The Bith Shuffle & Desperate Reach",
     "Inventory": 0,
     "Needs": 0

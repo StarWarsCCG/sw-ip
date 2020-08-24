@@ -684,7 +684,7 @@
     "Icons": 0,
     "Abbreviation": "CCT",
     "Combo": "Carbon Chamber Testing + Despair (V)\\par -----\\par Carbon Chamber Testing + Any Methods Necessary + IG-88 (V)",
-    "Rules": "(AR 1.7.1, B-3)\\par When deploying a Rebel (as a prisoner) to the Security Tower at the start of the game, ignore any deployment restrictions listed in that character's game text (this is a specific exception to the start of game rules). If you're not using Jabba's Prize, note the following: If the light side revealed Rescue The Princess, and the only Rebel in their deck is Leia, then that character is not imprisoned, and this objective plays (for remainder of game) as if there were no Rebels in the Light Side player's deck. The same applies if Light is playing There Is Good In Him and only has Luke or You Can Either Profit By This... and only has Han.",
+    "Rules": "(AR 1.7.1, B-3) updated February 11, 2017\\par When deploying a Rebel (as a prisoner) to the Security Tower at the start of the game, it deploys regardless of location deployment restrictions (this is a specific exception to the start of game rules). If there are no Rebels you can legally deploy, this objective plays (for remainder of game) as if there were no Rebels in the Light Side player's deck. You may verify your opponent's Reserve Deck at this point as you would after any other failed search. \\par If you're not using Jabba's Prize, note the following: If the light side revealed Rescue The Princess, and the only Rebel in their deck is Leia, then that character is not imprisoned, and this objective plays (for remainder of game) as if there were no Rebels in the Light Side player's deck. The same applies if Light is playing There Is Good In Him and only has Luke or You Can Either Profit By This... and only has Han.",
     "Inventory": 0,
     "Needs": 0
   },
@@ -2140,6 +2140,7 @@
     "Exterior": 1,
     "Pulls": "Hydroponics Station\\par Vaporator",
     "IsPulled": "I Must Be Allowed To Speak (V)",
+    "Rules": "AR Update June 19, 2016\\par This card may be used to deploy a Hydroponics Station or Vaporator from Reserve even if it is not a Tatooine location (overriding their typical deployment restrictions).",
     "Inventory": 0,
     "Needs": 0
   },
@@ -5483,6 +5484,7 @@
     "Information": "Combo Card: Short Range Fighters & Watch Your Back!",
     "Pulls": "One non-unique starfighter.\\par Black Squadron TIE\\par DFS Squadron Starfighter\\par Droid Starfighter\\par Lambda-Class Shuttle\\par Scimitar Squadron TIE\\par Scythe Squadron TIE\\par Sentinel-Class Landing Craft\\par TIE Advanced x1\\par TIE Avenger\\par TIE Bomber\\par TIE Defender Mark I\\par TIE Fighter\\par TIE Interceptor\\par TIE Scout\\par TIE Vanguard",
     "Counterpart": "All Wings Report In",
+    "Rules": "AR Update March 12, 2017\\par This card is considered to have the same card title as the combo card Short Range Fighters & Watch Your Back!.",
     "Inventory": 0,
     "Needs": 0
   },
@@ -6655,6 +6657,7 @@
     "Icons": 0,
     "Pulls": "One starship weapon from Lost Pile.\\par One vehicle weapon from Lost Pile.\\par One artillery weapon from Lost Pile.",
     "IsPulled": "The Signal\\par We Wish To Board At Once",
+    "Rules": "AR Update November 3, 2016\\par This Defensive Shield targets characters that were 'just excluded from battle.' Thus it will see characters excluded from battle that would otherwise be considered inactive. In addition, if excluding said characters from battle removes all presence from one side of the battle's location (causing the battle to end immediately) this card will still target those characters as 'just excluded from battle.'",
     "Inventory": 0,
     "Needs": 0
   },
