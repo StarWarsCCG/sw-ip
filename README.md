@@ -20,10 +20,9 @@ This has already been done. If you just want to edit card data and/or produce a 
 
 If you find yourself needing to re-export the sw-ip data to JSON, use the `SwIpDumper` tool. You will need to install [SQLite 3](https://www.sqlite.org/download.html). Place the `swccg_db.sdb` file into the dumper tool's folder.
 
-    sh convert.sh
-    dotnet run
+    sh dump.sh
 
-The script `convert.sh` moves the data into a SQLite 3 database. The dumper tool reads the new database and creates the JSON files in `/CardData`.
+The script `dump.sh` moves the data into a SQLite 3 database and runs `SwIpDumper`, which reads the new database and creates the JSON files in `/CardData`.
 
 ### Editing Card Data
 
@@ -31,18 +30,11 @@ Modify the JSON files in `/CardData`. When adding new cards, make sure each new 
 
 Be sure to use a text editor that supports UTF-8 (such as [Notepad++](https://notepad-plus-plus.org/)) and always save the JSON files as UTF-8. The SQL generator tool is what takes care of the conversion to ISO 8859-1, which is what the sw-ip application expects when reading the `.sdb` file.
 
-### Generating the SQL
-
-The tool `SwIpSqlGenerator` takes two parameters: the source folder (containing all the JSON) and the destination file.
-
-    dotnet run ../CardData ../cards.sql
-
 ### Creating the SDB File
 
-After running the SQL generator tool, you will have a `.sql` file. Run the following to create the database.
+The tool `SwIpSqlGenerator` converts the JSON files into SQL that can be consumed by SQLite 2, which is what sw-ip requires. Simply run the script `export.sh` to handle all this for you.
 
-    sqlite swccg_db.sdb
-    .read cards.sql
-    .quit
+    sh export.sh
 
-Place `swccg_db.sdb` into your sw-ip application folder, and you're done!
+The script will generate the SQL (`cards.sql`) and use that to generate `swccg_db.sdb`. Place `swccg_db.sdb` into your sw-ip application folder, and you're done!
+
