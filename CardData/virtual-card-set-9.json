@@ -230,7 +230,7 @@
     "Uniqueness": "*",
     "Destiny": 5,
     "Lore": " ",
-    "Gametext": "If Agents Of Black Sun on table, deploy on table. May use 2 Force to deploy from Reserve Deck (reshuffle) Imperial Square. Once per turn, if Emperor on Coruscant, may draw top card of Force Pile (if during your turn and you occupy three battlegrounds, opponent also loses 1 Force). (Immune to Alter.)",
+    "Gametext": "If Agents Of Black Sun on table, deploy on table. May use 1 Force to deploy from Reserve Deck (reshuffle) Imperial Square. Once per turn, if Emperor on Coruscant, may draw top card of Force Pile (if during your turn and you occupy three battlegrounds, opponent also loses 1 Force). (Immune to Alter.)",
     "Information": "Original card: Visage Of The Emperor",
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans",
     "Rules": "(Errata) Instead of allowing you to download a Coruscant site once per turn for 1 Force, you may now use 2 Force to download Imperial Square. Also, opponent only loses 1 Force to this Effect during your turn. 'Vader is lost.' game text removed.",
