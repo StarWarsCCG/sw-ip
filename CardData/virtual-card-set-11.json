@@ -9,7 +9,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common",
     "Uniqueness": "***",
-    "Characteristics": "\\b assassin, Trade Federation\\b0, battle droid",
+    "Characteristics": "\\b assassin\\b0, \\b Trade Federation\\b0, battle droid",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -33,7 +33,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Uncommon",
     "Uniqueness": "*",
-    "Characteristics": "\\b Grindalid, gangster, leader\\b0 , female",
+    "Characteristics": "\\b Grindalid\\b0, \\b gangster\\b0, \\b leader\\b0, female",
     "Destiny": 2,
     "Power": 2,
     "Deploy": 4,
@@ -72,7 +72,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Premium",
     "Uniqueness": "*",
-    "Characteristics": "\\b Chiss, leader\\b0, commander",
+    "Characteristics": "\\b Chiss\\b0, \\b commander\\b0, \\b leader\\b0",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -95,7 +95,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
     "Uniqueness": "*",
-    "Characteristics": "\\b Black Sun agent, Gran, smuggler, bounty hunter\\b0 ",
+    "Characteristics": "\\b Black Sun agent\\b0, \\b Gran\\b0, \\b smuggler\\b0, \\b bounty hunter\\b0 ",
     "Destiny": 3,
     "Power": 3,
     "Deploy": 3,
@@ -103,7 +103,7 @@
     "Ability": 3,
     "ForceAptitude": "Force-Attuned",
     "Lore": "Gran convicted of murder. Exiled from his homeworld. \\b Smuggler\\b0  and \\b bounty hunter\\b0. Slowly going insane. Fond of making things explode. Plotting to kill Jabba.",
-    "Gametext": "Non-[maintenance] bounty hunters here are immune to Clash Of Sabers and Rebel Barrier. Whenever you draw a destiny of 3, may choose: activate 1 Force, draw bottom card of Used Pile, or place a card from hand on top of Used Pile.",
+    "Gametext": "Non-[Maintenance] bounty hunters here are immune to Clash Of Sabers and Rebel Barrier. Whenever you draw a destiny of 3, may choose: activate 1 Force, draw bottom card of Used Pile, or place a card from hand on top of Used Pile.",
     "Icons": "Warrior",
     "Warrior": 1,
     "ExpansionV": "Jabba's Palace"
@@ -117,7 +117,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
     "Uniqueness": "*",
-    "Characteristics": " \\b Dug \\b0",
+    "Characteristics": "\\b Dug\\b0",
     "Destiny": 2,
     "Power": 4,
     "Deploy": 3,
@@ -139,7 +139,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common1",
     "Uniqueness": "*",
-    "Characteristics": "\\b snowtrooper, stormtrooper, trooper \\b0, blaster ",
+    "Characteristics": "\\b snowtrooper\\b0, \\b stormtrooper\\b0, \\b trooper\\b0, blaster ",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -203,7 +203,7 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "If A Stunning Move on table, deploy on 500 Republica. Opponent's Force generation is -1 here. While at a site (even while on a captive), adds one (Dark Side Force icon) icon here. While on Coruscant, opponent loses no more than 1 Force from your Force drains here. Once per turn, if a player controls this site, they may have this card (unless on Palpatine) follow their first character to move from here using landspeed (or docking bay transit) to a battleground site. If about to leave table, relocate to 500 Rebuplica (if possible).",
+    "Gametext": "If A Stunning Move on table, deploy on 500 Republica. Opponent's Force generation is -1 here. While at a site (even while on a captive), adds one [Dark Side Force icon] icon here. While on Coruscant, opponent loses no more than 1 Force from your Force drains here. Once per turn, if a player controls this site, they may have this card (unless on Palpatine) follow their first character to move from here using landspeed (or docking bay transit) to a battleground site. If about to leave table, relocate to 500 Rebuplica (if possible).",
     "Icons": "Episode 1",
     "Episode1": 1,
     "Information": "Original card: Emperor's Power"
@@ -219,11 +219,10 @@
     "Uniqueness": "**",
     "Destiny": 2,
     "Lore": "At last we will reveal ourselves to the Jedi.",
-    "Gametext": "If you just lost a Dark Jedi and have exactly one Dark Jedi on table, take a Dark Jedi into hand from Reserve Deck; reshuffle. OR Once per game, if you have exactly two Dark Jedi on table, choose: Opponent loses 2 Force OR make a just drawn destiny = 2.",
+    "Gametext": "If you just lost a Dark Jedi and have exactly one Dark Jedi on table, take into hand from Reserve Deck (reshuffle) a Dark Jedi. OR Once per game, if you have exactly two Dark Jedi on table, choose: Opponent loses 2 Force OR make a just drawn destiny = 2.",
     "Icons": "Episode 1",
     "Episode1": 1,
-    "Information": "Original card: They Will Be No Match For You",
-    "ExpansionV": "Coruscant"
+    "Information": "Original card: They Will Be No Match For You"
   },
   {
     "id": 5345,
@@ -249,7 +248,7 @@
     "Uniqueness": "*",
     "Destiny": 6,
     "Lore": "Organizations as wealthy as the Trade Federation can afford large amounts of military hardware, all purchased under the guise of protecting their commercial interests.",
-    "Gametext": "USED: Cancel an attempt to use a weapon to target your capital starship. LOST: Re-target On Target to an opponent's capital starship armed with a weapon. OR Take Blockade Support Ship or \\ul Invisible Hand\\ul0  into hand from Reserve Deck; reshuffle.",
+    "Gametext": "USED: Cancel an attempt to use a weapon to target your capital starship. LOST: Re-target On Target to an opponent's capital starship armed with a weapon. OR Take into hand from Reserve Deck (reshuffle) Blockade Support Ship or \\ul Invisible Hand\\ul0.",
     "Icons": "Episode 1",
     "Episode1": 1,
     "ExpansionV": "Theed Palace"
@@ -265,7 +264,7 @@
     "Uniqueness": "*",
     "Destiny": 5,
     "Lore": "\"He's no Jedi.\"",
-    "Gametext": "If Audience Chamber on table, deploy Passenger Deck or a pit from Reserve Deck; reshuffle. OR Deploy an alien leader or Twi'lek to Audience Chamber from Reserve Deck; reshuffle.",
+    "Gametext": "If Audience Chamber on table, deploy from Reserve Deck (reshuffle) Passenger Deck or a pit. OR Deploy from Reserve Deck (reshuffle) an alien leader or Twi'lek to Audience Chamber.",
     "ExpansionV": "Jabba's Palace"
   },
   {
@@ -279,7 +278,8 @@
     "Uniqueness": "*",
     "Destiny": 5,
     "Lore": "Anger and aggression fuel the dark side of the Force.",
-    "Gametext": "For remainder of turn, opponent may not cancel your lightsaber weapon (or 'choke') destiny draws. OR If Vader in battle alone, your total battle destiny is +1 for each character in battle. Or Cancel It's A Trap!",
+    "Gametext": "For remainder of turn, opponent may not cancel your lightsaber weapon (or 'choke') destiny draws. OR If Vader in battle alone, your total battle destiny is +1 for each character in battle. OR Cancel It's A Trap!",
+    "Information": "Re-released in Virtual Set 12 \"Tweak Set\". Original text: \\par If a lightsaber swung by Vader just \"hit\" a character, cancel that character's game text. OR If you just drew Vader for destiny, take him into hand to cancel and redraw that destiny. OR At Vader's site, cancel Blast The Door, Kid!; Dodge; or Rebel Barrier.",
     "ExpansionV": "Tatooine"
   },
   {
@@ -302,8 +302,7 @@
     "Interior": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Cloud City: Casino (Dark)",
-    "ExpansionV": "Cloud City"
+    "Information": "Original card: Cloud City: Casino (Dark)"
   },
   {
     "id": 5350,
@@ -315,7 +314,7 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "May not be separated from Coruscant: Private Platform.   Grievous moves from here for free.",
+    "Gametext": "Your docking bay transit from here requires 2 Force (1 if Obi-Wan present).   Your docking bay transit from here requires 1 Force.",
     "LightSideIcons": 1,
     "DarkSideIcons": 1,
     "LightSideText": "Your docking bay transit from here requires 2 Force (1 if Obi-Wan present).",
@@ -325,8 +324,7 @@
     "Exterior": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Cloud City: East Platform (Docking Bay)",
-    "ExpansionV": "Cloud City"
+    "Information": "Original card: Cloud City: East Platform (Docking Bay)"
   },
   {
     "id": 5351,
@@ -346,8 +344,7 @@
     "Parsec": 5,
     "Icons": "Planet, Episode VII",
     "Planet": 1,
-    "Information": "Original card: Anoat (Dark)",
-    "ExpansionV": "Dagobah"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Anoat (Dark)"
   },
   {
     "id": 5352,
@@ -359,11 +356,11 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Unless your [Clone Army] character here, Force drain -1 here.   Once per game, if you control, may take \\ul Invisible Hand\\ul0  into hand from Reserve Deck; reshuffle.",
+    "Gametext": "Unless your [Clone Army] character here, Force drain -1 here.   Once per game, if you control, may take into hand from Reserve Deck (reshuffle) \\ul Invisible Hand\\ul0.",
     "LightSideIcons": 0,
     "DarkSideIcons": 2,
     "LightSideText": "Unless your [Clone Army] character here, Force drain -1 here.",
-    "DarkSideText": "Once per game, if you control, may take \\ul Invisible Hand\\ul0  into hand from Reserve Deck; reshuffle.",
+    "DarkSideText": "Once per game, if you control, may take into hand from Reserve Deck (reshuffle) \\ul Invisible Hand\\ul0.",
     "Icons": "Mobile, Interior, Scomp Link, Starship, Episode1",
     "Mobile": 1,
     "Interior": 1,
@@ -383,11 +380,11 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Your docking bay transit from here requires 3 Force (free if Palpatine present).   Your docking bay transit from here requires 1 Force (free if yuour [Presence] droid present).",
+    "Gametext": "Your docking bay transit from here requires 3 Force (free if Palpatine present).   Your docking bay transit from here requires 1 Force (free if your [Presence] droid present).",
     "LightSideIcons": 1,
     "DarkSideIcons": 1,
     "LightSideText": "Your docking bay transit from here requires 3 Force (free if Palpatine present).",
-    "DarkSideText": "Your docking bay transit from here requires 1 Force (free if yuour [Presence] droid present).",
+    "DarkSideText": "Your docking bay transit from here requires 1 Force (free if your [Presence] droid present).",
     "Icons": "Mobile, Interior, Exterior, Scomp Link, Starship, Episode 1",
     "Mobile": 1,
     "Interior": 1,
@@ -395,8 +392,7 @@
     "Starship": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Blockade Flagship: Docking Bay (Dark)",
-    "ExpansionV": "Theed Palace"
+    "Information": "Original card: Blockade Flagship: Docking Bay (Dark)"
   },
   {
     "id": 5354,
@@ -419,8 +415,7 @@
     "Starship": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Blockade Flagship: Hallway",
-    "ExpansionV": "Reflections III"
+    "Information": "Original card: Blockade Flagship: Hallway"
   },
   {
     "id": 5355,
@@ -443,8 +438,7 @@
     "Starship": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Executor: Main Corridor",
-    "ExpansionV": "Dagobah"
+    "Information": "Original card: Executor: Main Corridor"
   },
   {
     "id": 5356,
@@ -453,11 +447,11 @@
     "CardType": "Objective",
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Uncommon",
-    "ObjectiveFront": "\\ul Deploy 500 Republica (with Insidious Prisoner there) and Coruscant: Private Platform.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy Sidious, First Order characters, or Imperials. Grievous is immunity to attrition +2. Once per turn, may deploy an \\ul Invisible Hand\\ul0  site or a non-unique [Separatist] droid.\\par \\b Flip\\b0  this card if Insidious Prisoner is at an \\ul Invisible Hand\\ul0  site.",
+    "ObjectiveFront": "\\ul Deploy 500 Republica (with Insidious Prisoner there) and Coruscant: Private Platform.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy Sidious, First Order characters, or Imperials. Grievous is immunity to attrition +2. Once per turn, may deploy from Reserve Deck (reshuffle) an \\ul Invisible Hand\\ul0  site or a non-unique [Separatist] droid.\\par \\b Flip\\b0  this card if Insidious Prisoner is at an \\ul Invisible Hand\\ul0  site.",
     "ObjectiveBack": "\\b While\\b0  this side up, immunity to attrition of opponent's Jedi, starships, and vehicles is limited to < 5. During your control phase, if your [Separatist] character with Insidious Prisoner, opponent loses 1 Force. Once during your turn, may search your Force Pile and reveal any one card; reshuffle. Opponent may lose 2 Force to place that card on bottom of your Used Pile; otherwise, take it into hand.\\par \\b Flip\\b0  this card if Inisidious Prisoner is not at an \\ul Invisible Hand\\ul0  site.",
     "ObjectiveFrontName": "A Stunning Move",
     "ObjectiveBackName": "A Valuable Hostage",
-    "Gametext": "[Front Side]: \\ul Deploy 500 Republica (with Insidious Prisoner there) and Coruscant: Private Platform.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy Sidious, First Order characters, or Imperials. Grievous is immunity to attrition +2. Once per turn, may deploy an \\ul Invisible Hand\\ul0  site or a non-unique [Separatist] droid.\\par \\b Flip\\b0  this card if Insidious Prisoner is at an \\ul Invisible Hand\\ul0  site.\\par [Back Side]: \\b While\\b0  this side up, immunity to attrition of opponent's Jedi, starships, and vehicles is limited to < 5. During your control phase, if your [Separatist] character with Insidious Prisoner, opponent loses 1 Force. Once during your turn, may search your Force Pile and reveal any one card; reshuffle. Opponent may lose 2 Force to place that card on bottom of your Used Pile; otherwise, take it into hand.\\par \\b Flip\\b0  this card if Inisidious Prisoner is not at an \\ul Invisible Hand\\ul0  site.",
+    "Gametext": "[Front Side]: \\ul Deploy 500 Republica (with Insidious Prisoner there) and Coruscant: Private Platform.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy Sidious, First Order characters, or Imperials. Grievous is immunity to attrition +2. Once per turn, may deploy from Reserve Deck (reshuffle) an \\ul Invisible Hand\\ul0  site or a non-unique [Separatist] droid.\\par \\b Flip\\b0  this card if Insidious Prisoner is at an \\ul Invisible Hand\\ul0  site.\\par [Back Side]: \\b While\\b0  this side up, immunity to attrition of opponent's Jedi, starships, and vehicles is limited to < 5. During your control phase, if your [Separatist] character with Insidious Prisoner, opponent loses 1 Force. Once during your turn, may search your Force Pile and reveal any one card; reshuffle. Opponent may lose 2 Force to place that card on bottom of your Used Pile; otherwise, take it into hand.\\par \\b Flip\\b0  this card if Inisidious Prisoner is not at an \\ul Invisible Hand\\ul0  site.",
     "Icons": "Episode 1",
     "Episode1": 1,
     "Information": "Original card: Invasion/In Complete Control",
@@ -469,10 +463,11 @@
     "Grouping": "Dark",
     "CardType": "Starship",
     "Subtype": "Capital",
-    "ModelType": "Providence-Class Dreadnaught",
+    "ModelType": "Providence-class Dreadnaught",
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Premium",
     "Uniqueness": "*",
+    "Characteristics": "Trade Federation (starship), Separatist",
     "Destiny": 2,
     "Power": 6,
     "Deploy": 6,
@@ -487,7 +482,7 @@
     "ScompLink": 1,
     "TradeFederation": 1,
     "Episode1": 1,
-    "Information": "Original card: Dreadnaught-Class Heavy Cruiser",
+    "Information": "This card has a Separatist icon. \\par \\par Original card: Dreadnaught-Class Heavy Cruiser",
     "ExpansionV": "Official Tournament Sealed Deck"
   },
   {
@@ -496,7 +491,7 @@
     "Grouping": "Dark",
     "CardType": "Starship",
     "Subtype": "Capital",
-    "ModelType": "Imperial-Class Star Destroyer",
+    "ModelType": "Imperial-class Star Destroyer",
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
     "Uniqueness": "*",
@@ -508,6 +503,7 @@
     "Armor": 6,
     "Ability": 2,
     "Hyperspeed": 3,
+    "Lore": "Part of Darth Vader's Death Squadron. Support vessel for the fleet's starfighters. Cargo areas converted into hangar space for additional TIE fighters."
     "Gametext": "May add 6 pilots, 8 passengers, 1 vehicle, and 6 TIEs. Permanent pilot provides ability of 2. Whenever you win a battle here, opponent loses 1 Force.",
     "Icons": "Pilot, Astromech, Scomp Link",
     "Pilot": 1,
@@ -522,7 +518,7 @@
     "CardType": "Weapon",
     "Subtype": "Character",
     "Expansion": "Virtual Card Set #11",
-    "Rarity": "Uncommon",
+    "Rarity": "Uncommon1",
     "Characteristics": "lightsaber",
     "Destiny": 2,
     "Lore": "Multifaceted jewels focus light into a deadly blade. Projects a meter-long beam of pure energy. A lightsaber is constructed personally by a Jedi as a part of training.",
