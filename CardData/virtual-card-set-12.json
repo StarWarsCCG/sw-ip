@@ -8,6 +8,7 @@
     "Expansion": "Virtual Card Set #12",
     "Rarity": "Common2",
     "Uniqueness": "*",
+    "Characteristics": "\\b commander\\b0, \\b leader\\b0",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -19,8 +20,7 @@
     "Icons": "Pilot, Separatist, Episode I",
     "Pilot": 1,
     "Episode1": 1,
-    "Information": "Original card: Bespin Motors Void Spider THX 1138 (Dark)",
-    "ExpansionV": "A New Hope"
+    "Information": "This card has a Separatist icon.\\par \\par Original card: Bespin Motors Void Spider THX 1138"
   },
   {
     "id": 5398,
@@ -31,6 +31,7 @@
     "Expansion": "Virtual Card Set #12",
     "Rarity": "Common",
     "Uniqueness": "*",
+    "Characteristics": "\\b leader\\b0",
     "Destiny": 3,
     "Power": 3,
     "Deploy": 3,
@@ -42,8 +43,7 @@
     "Icons": "Pilot, Warrior, Episode VII",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Pride Of The Empire",
-    "ExpansionV": "Special Edition"
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: Pride Of The Empire"
   },
   {
     "id": 5399,
@@ -54,21 +54,20 @@
     "Expansion": "Virtual Card Set #12",
     "Rarity": "Rare",
     "Uniqueness": "*",
-    "Characteristics": "female",
+    "Characteristics": "\\b Black Sun agent\\b0, \\b bounty hunter\\b0, female, assassin",
     "Destiny": 2,
     "Power": 4,
     "Deploy": 4,
     "Forfeit": 5,
     "Ability": 4,
     "ForceAptitude": "Force-Sensitive",
-    "Lore": "\\b Bounty hunter.\\b0 Assassin.",
+    "Lore": "\\b Bounty hunter\\b0. Assassin.",
     "Gametext": "Permanent weapon is (*]Aurra Sing's Blaster Rifle (may target a character for free; if targeting a Jedi, draw two destiny, otherwise draw destiny; target hit, and its forfeit = 0, if total destiny +1 > defense value).",
-    "Icons": "Warrior, Permanent Weapon",
+    "Icons": "Warrior, Permanent Weapon, Episode I",
     "Warrior": 1,
     "PermanentWeapon": 1,
     "Episode1": 1,
-    "Information": "Original card: Aurra Sing",
-    "ExpansionV": "Tatooine"
+    "Information": "Original card: Aurra Sing"
   },
   {
     "id": 5400,
@@ -79,6 +78,7 @@
     "Expansion": "Virtual Card Set #12",
     "Rarity": "Common2",
     "Uniqueness": "*",
+    "Characteristics": "ISB agent, \\b leader\\b0, moff",
     "Destiny": 3,
     "Power": 3,
     "Deploy": 4,
@@ -86,12 +86,11 @@
     "Ability": 4,
     "ForceAptitude": "Force-Sensitive",
     "Lore": "ISB \\b Leader.\\b0",
-    "Gametext": "Adds 2 to power of anything he pilots. Rebels here (and at adjacent sites if your E-web blaster here) are power -1. When deployed, may deploy an E-web blaster or an Imperial stormtrooper for -3 Force from Reserve Deck; reshuffle.",
+    "Gametext": "Adds 2 to power of anything he pilots. Rebels here (and at adjacent sites if your E-web blaster here) are power -1. When deployed, may deploy from Reserve Deck (reshuffle) an E-web blaster or an Imperial stormtrooper for -3 Force.",
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Collateral Damage",
-    "ExpansionV": "Premiere"
+    "Information": "Original card: Collateral Damage"
   },
   {
     "id": 5401,
@@ -102,11 +101,10 @@
     "Rarity": "Premium",
     "Uniqueness": "*",
     "Destiny": 4,
-    "Gametext": "Deploy on table. Non-[Episode I] Dark Jedi are lost. Unless with Obi-Wan, Dooku is immune to attrition. Your game text on Jedi Council Chamber is canceled. Once per turn, may deploy a mobile hallway or [Episode I] lightsaber from Reserve Deck; reshuffle. (Immune to Alter.)",
+    "Gametext": "Deploy on table. Non-[Episode I] Dark Jedi are lost. Unless with Obi-Wan, Dooku is immune to attrition. Your game text on Jedi Council Chamber is canceled. Once per turn, may deploy from Reserve Deck (reshuffle) a mobile hallway or [Episode I] lightsaber. (Immune to Alter.)",
     "Icons": "Episode I",
     "Episode1": 1,
-    "Information": "Original card: Fear Is My Ally",
-    "ExpansionV": "Reflections III"
+    "Information": "Original card: Fear Is My Ally"
   },
   {
     "id": 5402,
@@ -119,7 +117,7 @@
     "Uniqueness": "*",
     "Destiny": 3,
     "Lore": "Luke got the shaft.",
-    "Gametext": "If you have deployed a site with exactly two dark force icons (and no other locations), deploy a battleground site. Then, unless you have deployed a site with \"Palace\" in title, may deploy up to three Effects that are always immune to Alter. Place Interrupt in Lost Pile.",
+    "Gametext": "If you have deployed a site with exactly two [Dark Side Force icons] (and no other locations), deploy a battleground site. Then, unless you have deployed a site with \"Palace\" in title, may deploy up to three Effects that are always immune to Alter. Place Interrupt in Lost Pile.",
     "ExpansionV": "Cloud City"
   }
 ]
