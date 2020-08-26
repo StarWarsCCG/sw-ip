@@ -9,7 +9,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common",
     "Uniqueness": "***",
-    "Characteristics": "battle droid, Trade Federation, assassin",
+    "Characteristics": "\\b assassin, Trade Federation\\b0, battle droid",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -21,10 +21,8 @@
     "Warrior": 1,
     "Droid": 1,
     "Episode1": 1,
-    "Information": "Original card: CZ-4\\par \\par This card has a Separatist icon.",
-    "IsPulled": "A Stunning Move\\par Naboo: Theed Palace Hallway\\par There They Are!",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has a Separatist icon.\\par \\par Original card: CZ-4",
+    "IsPulled": "A Stunning Move\\par Naboo: Theed Palace Hallway\\par There They Are!"
   },
   {
     "id": 5334,
@@ -35,6 +33,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Uncommon",
     "Uniqueness": "*",
+    "Characteristics": "\\b Grindalid, gangster, leader\\b0 , female",
     "Destiny": 2,
     "Power": 2,
     "Deploy": 4,
@@ -43,8 +42,7 @@
     "ForceAptitude": "Force-Sensitive",
     "Lore": "Female Grindalid. \\b Gangster. Leader.\\b0",
     "Gametext": "Lost if at an exterior site. While with two of your other aliens, adds one battle destiny. During your control phase, may reveal the top three cards of your Reserve Deck, take one alien into hand (if possible), and shuffle your Reserve Deck.",
-    "Information": "Original card: Cane Adiss",
-    "ExpansionV": "Jabba's Palace"
+    "Information": "Original card: Cane Adiss"
   },
   {
     "id": 5335,
@@ -60,11 +58,10 @@
     "Deploy": 2,
     "Forfeit": 4,
     "Ability": 2,
-    "Gametext": "Adds 2 to power of anything he pilots. During battle, if piloting a First Order TIE, may target an opponent's capital starship at same system. Draw destiny > 2, choose one pilot character aboard target to be forfeit = 0 for remainder of battle.",
+    "Gametext": "Adds 2 to power of anything he pilots. During battle, if piloting a [First Order] TIE, may target an opponent's capital starship at same system. Draw destiny. If destiny > 2, choose one pilot character aboard target to be forfeit = 0 for remainder of battle.",
     "Icons": "Pilot",
     "Pilot": 1,
-    "Information": "Original card: DS-61-2",
-    "ExpansionV": "Premiere"
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: DS-61-2"
   },
   {
     "id": 5336,
@@ -75,6 +72,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Premium",
     "Uniqueness": "*",
+    "Characteristics": "\\b Chiss, leader\\b0, commander",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -86,8 +84,7 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Grand Admiral Thrawn",
-    "ExpansionV": "Reflections II"
+    "Information": "Original card: Grand Admiral Thrawn"
   },
   {
     "id": 5337,
@@ -98,14 +95,15 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
     "Uniqueness": "*",
+    "Characteristics": "\\b Black Sun agent, Gran, smuggler, bounty hunter\\b0 ",
     "Destiny": 3,
     "Power": 3,
     "Deploy": 3,
     "Forfeit": 3,
     "Ability": 3,
     "ForceAptitude": "Force-Attuned",
-    "Lore": "Gran convicted of murder. Exiled from his homeworld. \b Smuggler\b0  and \b bounty hunter\b0. Slowly going insane. Fond of making things explode. Plotting to kill Jabba.",
-    "Gametext": "Non-maintenance bounty hunters here are immune to Clash Of Sabers and Rebel Barrier. Whenever you draw a destiny of 3, may choose: activate 1 Force, draw bottom card of Used Pile, or place a card from hand on top of Used Pile.",
+    "Lore": "Gran convicted of murder. Exiled from his homeworld. \\b Smuggler\\b0  and \\b bounty hunter\\b0. Slowly going insane. Fond of making things explode. Plotting to kill Jabba.",
+    "Gametext": "Non-[maintenance] bounty hunters here are immune to Clash Of Sabers and Rebel Barrier. Whenever you draw a destiny of 3, may choose: activate 1 Force, draw bottom card of Used Pile, or place a card from hand on top of Used Pile.",
     "Icons": "Warrior",
     "Warrior": 1,
     "ExpansionV": "Jabba's Palace"
@@ -119,6 +117,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
     "Uniqueness": "*",
+    "Characteristics": " \\b Dug \\b0",
     "Destiny": 2,
     "Power": 4,
     "Deploy": 3,
@@ -129,7 +128,6 @@
     "Icons": "Pilot, Episode 1",
     "Pilot": 1,
     "Episode1": 1,
-    "Information": "Original card: Grand Admiral Thrawn",
     "ExpansionV": "Tatooine"
   },
   {
@@ -141,6 +139,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common1",
     "Uniqueness": "*",
+    "Characteristics": "\\b snowtrooper, stormtrooper, trooper \\b0, blaster ",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -149,10 +148,9 @@
     "Lore": "Snowtrooper.",
     "Gametext": "Permanent weapon is E-web Blaster (may target a character, landed starfighter, or vehicle for free; if targeting a starfighter or vehicle, add one destiny to attrition; otherwise, subtract 3 from target's immunity to attrition (if any) until end of turn).",
     "Icons": "Warrior, Permanent Weapon",
-    "Pilot": 1,
+    "Warrior": 1,
     "PermanentWeapon": 1,
-    "Information": "Original card: Grand Admiral Thrawn",
-    "ExpansionV": "Hoth"
+    "Information": "Original card: E-web Blaster"
   },
   {
     "id": 5340,
@@ -165,8 +163,7 @@
     "Uniqueness": "*",
     "Destiny": 3,
     "Lore": "Imperial starships that perform with distinction are highly publicized in an attempt to make the pilots look like heroes to the citizens of the Empire.",
-    "Gametext": "If you just deployed a pilot aboard a Black Squadron TIE, deploy on that pilot; pilot's game text may not be canceled. During your turn, may take a Black Squadron pilot into hand from Reserve Deck; reshuffle. If pilot just won a battle, retrieve a Black Squadron pilot.",
-    "ExpansionV": "Special Edition"
+    "Gametext": "If you just deployed a pilot aboard a Black Squadron TIE, deploy on that pilot; pilot's game text may not be canceled. During your turn, may take into hand from Reserve Deck (reshuffle) a Black Squadron pilot. If pilot just won a battle, retrieve a Black Squadron pilot."
   },
   {
     "id": 5341,
@@ -178,7 +175,7 @@
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": "Most often used to freeze Tibanna gas for transport. Modified by Ugloste to work on humans. Intended to capture Luke Skywalker, the Emperor's prize.",
-    "Gametext": "Deploy on Carbonite Chamber. Once during opponent's turn, if a frozen captive on table, may active 1 Force. Once per turn, may use 1 Force to take He's all Yours, Bounty Hunter into hand from Reserve Deck; reshuffle.",
+    "Gametext": "Deploy on Carbonite Chamber. Once during opponent's turn, if a frozen captive on table, may active 1 Force. Once per turn, may use 1 Force to take into hand from Reserve Deck (reshuffle) He's All Yours, Bounty Hunter.",
     "ExpansionV": "Cloud City"
   },
   {
@@ -194,6 +191,7 @@
     "Gametext": "Deploy on table. Aurra, Bossk, and Cad are destiny +2. Once per game, may reveal up to two unique (*) aliens from hand and/or Reserve Deck (reshuffle); for remainder of game, those cards are assassins and Black Sun agents. (Immune to Alter.)",
     "Icons": "Episode 1",
     "Episode1": 1,
+    "Information": "Re-released in Virtual Set 12 \"Tweak Set\". Original text: \\par Deploy on table. Aurra, Bossk, and Cad are destiny +2. Once per game, may reveal a unique (*) aliens from hand or Reserve Deck (reshuffle); for remainder of game, that card is an assassin and ignores [Reflections II] and [Theed Palace] objective deployment restrictions. (Immune to Alter.)",
     "ExpansionV": "Tatooine"
   },
   {
@@ -208,8 +206,7 @@
     "Gametext": "If A Stunning Move on table, deploy on 500 Republica. Opponent's Force generation is -1 here. While at a site (even while on a captive), adds one (Dark Side Force icon) icon here. While on Coruscant, opponent loses no more than 1 Force from your Force drains here. Once per turn, if a player controls this site, they may have this card (unless on Palpatine) follow their first character to move from here using landspeed (or docking bay transit) to a battleground site. If about to leave table, relocate to 500 Rebuplica (if possible).",
     "Icons": "Episode 1",
     "Episode1": 1,
-    "Information": "Original card: Emperor's Power",
-    "ExpansionV": "Death Star II"
+    "Information": "Original card: Emperor's Power"
   },
   {
     "id": 5344,
