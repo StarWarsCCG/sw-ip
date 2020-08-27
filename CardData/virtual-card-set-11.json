@@ -503,7 +503,7 @@
     "Armor": 6,
     "Ability": 2,
     "Hyperspeed": 3,
-    "Lore": "Part of Darth Vader's Death Squadron. Support vessel for the fleet's starfighters. Cargo areas converted into hangar space for additional TIE fighters."
+    "Lore": "Part of Darth Vader's Death Squadron. Support vessel for the fleet's starfighters. Cargo areas converted into hangar space for additional TIE fighters.",
     "Gametext": "May add 6 pilots, 8 passengers, 1 vehicle, and 6 TIEs. Permanent pilot provides ability of 2. Whenever you win a battle here, opponent loses 1 Force.",
     "Icons": "Pilot, Astromech, Scomp Link",
     "Pilot": 1,
