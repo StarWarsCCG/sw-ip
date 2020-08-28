@@ -203,7 +203,7 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "If A Stunning Move on table, deploy on 500 Republica. Opponent's Force generation is -1 here. While at a site (even while on a captive), adds one [Dark Side Force icon] icon here. While on Coruscant, opponent loses no more than 1 Force from your Force drains here. Once per turn, if a player controls this site, they may have this card (unless on Palpatine) follow their first character to move from here using landspeed (or docking bay transit) to a battleground site. If about to leave table, relocate to 500 Rebuplica (if possible).",
+    "Gametext": "If A Stunning Move on table, deploy on 500 Republica. Opponent's Force generation is -1 here. While at a site (even while on a captive), adds one [Dark Side Force icon] icon here. While on Coruscant, opponent loses no more than 1 Force from your Force drains here. Once per turn, if a player controls this site, they may have this card (unless on Palpatine) follow their first character to move from here using landspeed (or docking bay transit) to a battleground site. If about to leave table, relocate to 500 Republica (if possible).",
     "Icons": "Episode 1",
     "Episode1": 1,
     "Information": "Original card: Emperor's Power"
@@ -482,8 +482,7 @@
     "ScompLink": 1,
     "TradeFederation": 1,
     "Episode1": 1,
-    "Information": "This card has a Separatist icon. \\par \\par Original card: Dreadnaught-Class Heavy Cruiser",
-    "ExpansionV": "Official Tournament Sealed Deck"
+    "Information": "This card has a Separatist icon. \\par \\par Original card: Dreadnaught-Class Heavy Cruiser"
   },
   {
     "id": 5358,
@@ -545,7 +544,7 @@
     "ForceAptitude": "Jedi Knight",
     "Lore": "Female Togruta.",
     "Gametext": "Subtracts 1 from opponent's battle destiny draws here. During any deploy phase, if a Padawan or a Sith character at an adjacent site, Ahsoka may move to that site (using landspeed) as a regular move. Immune to [Permanent Weapon] weapons and attrition < 5.",
-    "Icons": "Pilot, Warrior, Warrior",
+    "Icons": "Pilot, Warrior x 2",
     "Pilot": 1,
     "Warrior": 2,
     "Information": "Original card: Anoat Operative (Light)"
