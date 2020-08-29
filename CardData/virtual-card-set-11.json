@@ -482,8 +482,7 @@
     "ScompLink": 1,
     "TradeFederation": 1,
     "Episode1": 1,
-    "Information": "This card has a Separatist icon. \\par \\par Original card: Dreadnaught-Class Heavy Cruiser",
-    "ExpansionV": "Official Tournament Sealed Deck"
+    "Information": "This card has a Separatist icon. \\par \\par Original card: Dreadnaught-Class Heavy Cruiser"
   },
   {
     "id": 5358,
@@ -503,7 +502,7 @@
     "Armor": 6,
     "Ability": 2,
     "Hyperspeed": 3,
-    "Lore": "Part of Darth Vader's Death Squadron. Support vessel for the fleet's starfighters. Cargo areas converted into hangar space for additional TIE fighters."
+    "Lore": "Part of Darth Vader's Death Squadron. Support vessel for the fleet's starfighters. Cargo areas converted into hangar space for additional TIE fighters.",
     "Gametext": "May add 6 pilots, 8 passengers, 1 vehicle, and 6 TIEs. Permanent pilot provides ability of 2. Whenever you win a battle here, opponent loses 1 Force.",
     "Icons": "Pilot, Astromech, Scomp Link",
     "Pilot": 1,
@@ -545,7 +544,7 @@
     "ForceAptitude": "Jedi Knight",
     "Lore": "Female Togruta.",
     "Gametext": "Subtracts 1 from opponent's battle destiny draws here. During any deploy phase, if a Padawan or a Sith character at an adjacent site, Ahsoka may move to that site (using landspeed) as a regular move. Immune to [Permanent Weapon] weapons and attrition < 5.",
-    "Icons": "Pilot, Warrior, Warrior",
+    "Icons": "Pilot, Warrior x 2",
     "Pilot": 1,
     "Warrior": 2,
     "Information": "Original card: Anoat Operative (Light)"
