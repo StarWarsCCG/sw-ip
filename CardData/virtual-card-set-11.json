@@ -9,7 +9,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common",
     "Uniqueness": "***",
-    "Characteristics": "battle droid, Trade Federation, assassin",
+    "Characteristics": "\\b assassin\\b0, \\b Trade Federation\\b0, battle droid",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -21,10 +21,8 @@
     "Warrior": 1,
     "Droid": 1,
     "Episode1": 1,
-    "Information": "Original card: CZ-4\\par \\par This card has a Separatist icon.",
-    "IsPulled": "A Stunning Move\\par Naboo: Theed Palace Hallway\\par There They Are!",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has a Separatist icon.\\par \\par Original card: CZ-4",
+    "IsPulled": "A Stunning Move\\par Naboo: Theed Palace Hallway\\par There They Are!"
   },
   {
     "id": 5334,
@@ -35,6 +33,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Uncommon",
     "Uniqueness": "*",
+    "Characteristics": "\\b Grindalid\\b0, \\b gangster\\b0, \\b leader\\b0, female",
     "Destiny": 2,
     "Power": 2,
     "Deploy": 4,
@@ -43,8 +42,7 @@
     "ForceAptitude": "Force-Sensitive",
     "Lore": "Female Grindalid. \\b Gangster. Leader.\\b0",
     "Gametext": "Lost if at an exterior site. While with two of your other aliens, adds one battle destiny. During your control phase, may reveal the top three cards of your Reserve Deck, take one alien into hand (if possible), and shuffle your Reserve Deck.",
-    "Information": "Original card: Cane Adiss",
-    "ExpansionV": "Jabba's Palace"
+    "Information": "Original card: Cane Adiss"
   },
   {
     "id": 5335,
@@ -60,11 +58,10 @@
     "Deploy": 2,
     "Forfeit": 4,
     "Ability": 2,
-    "Gametext": "Adds 2 to power of anything he pilots. During battle, if piloting a First Order TIE, may target an opponent's capital starship at same system. Draw destiny > 2, choose one pilot character aboard target to be forfeit = 0 for remainder of battle.",
+    "Gametext": "Adds 2 to power of anything he pilots. During battle, if piloting a [First Order] TIE, may target an opponent's capital starship at same system. Draw destiny. If destiny > 2, choose one pilot character aboard target to be forfeit = 0 for remainder of battle.",
     "Icons": "Pilot",
     "Pilot": 1,
-    "Information": "Original card: DS-61-2",
-    "ExpansionV": "Premiere"
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: DS-61-2"
   },
   {
     "id": 5336,
@@ -75,6 +72,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Premium",
     "Uniqueness": "*",
+    "Characteristics": "\\b Chiss\\b0, \\b commander\\b0, \\b leader\\b0",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -86,8 +84,7 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Grand Admiral Thrawn",
-    "ExpansionV": "Reflections II"
+    "Information": "Original card: Grand Admiral Thrawn"
   },
   {
     "id": 5337,
@@ -98,14 +95,15 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
     "Uniqueness": "*",
+    "Characteristics": "\\b Black Sun agent\\b0, \\b Gran\\b0, \\b smuggler\\b0, \\b bounty hunter\\b0 ",
     "Destiny": 3,
     "Power": 3,
     "Deploy": 3,
     "Forfeit": 3,
     "Ability": 3,
     "ForceAptitude": "Force-Attuned",
-    "Lore": "Gran convicted of murder. Exiled from his homeworld. \b Smuggler\b0  and \b bounty hunter\b0. Slowly going insane. Fond of making things explode. Plotting to kill Jabba.",
-    "Gametext": "Non-maintenance bounty hunters here are immune to Clash Of Sabers and Rebel Barrier. Whenever you draw a destiny of 3, may choose: activate 1 Force, draw bottom card of Used Pile, or place a card from hand on top of Used Pile.",
+    "Lore": "Gran convicted of murder. Exiled from his homeworld. \\b Smuggler\\b0  and \\b bounty hunter\\b0. Slowly going insane. Fond of making things explode. Plotting to kill Jabba.",
+    "Gametext": "Non-[Maintenance] bounty hunters here are immune to Clash Of Sabers and Rebel Barrier. Whenever you draw a destiny of 3, may choose: activate 1 Force, draw bottom card of Used Pile, or place a card from hand on top of Used Pile.",
     "Icons": "Warrior",
     "Warrior": 1,
     "ExpansionV": "Jabba's Palace"
@@ -119,6 +117,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
     "Uniqueness": "*",
+    "Characteristics": "\\b Dug\\b0",
     "Destiny": 2,
     "Power": 4,
     "Deploy": 3,
@@ -129,7 +128,6 @@
     "Icons": "Pilot, Episode 1",
     "Pilot": 1,
     "Episode1": 1,
-    "Information": "Original card: Grand Admiral Thrawn",
     "ExpansionV": "Tatooine"
   },
   {
@@ -141,6 +139,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common1",
     "Uniqueness": "*",
+    "Characteristics": "\\b snowtrooper\\b0, \\b stormtrooper\\b0, \\b trooper\\b0, blaster ",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -149,10 +148,9 @@
     "Lore": "Snowtrooper.",
     "Gametext": "Permanent weapon is E-web Blaster (may target a character, landed starfighter, or vehicle for free; if targeting a starfighter or vehicle, add one destiny to attrition; otherwise, subtract 3 from target's immunity to attrition (if any) until end of turn).",
     "Icons": "Warrior, Permanent Weapon",
-    "Pilot": 1,
+    "Warrior": 1,
     "PermanentWeapon": 1,
-    "Information": "Original card: Grand Admiral Thrawn",
-    "ExpansionV": "Hoth"
+    "Information": "Original card: E-web Blaster"
   },
   {
     "id": 5340,
@@ -165,8 +163,7 @@
     "Uniqueness": "*",
     "Destiny": 3,
     "Lore": "Imperial starships that perform with distinction are highly publicized in an attempt to make the pilots look like heroes to the citizens of the Empire.",
-    "Gametext": "If you just deployed a pilot aboard a Black Squadron TIE, deploy on that pilot; pilot's game text may not be canceled. During your turn, may take a Black Squadron pilot into hand from Reserve Deck; reshuffle. If pilot just won a battle, retrieve a Black Squadron pilot.",
-    "ExpansionV": "Special Edition"
+    "Gametext": "If you just deployed a pilot aboard a Black Squadron TIE, deploy on that pilot; pilot's game text may not be canceled. During your turn, may take into hand from Reserve Deck (reshuffle) a Black Squadron pilot. If pilot just won a battle, retrieve a Black Squadron pilot."
   },
   {
     "id": 5341,
@@ -178,7 +175,7 @@
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": "Most often used to freeze Tibanna gas for transport. Modified by Ugloste to work on humans. Intended to capture Luke Skywalker, the Emperor's prize.",
-    "Gametext": "Deploy on Carbonite Chamber. Once during opponent's turn, if a frozen captive on table, may active 1 Force. Once per turn, may use 1 Force to take He's all Yours, Bounty Hunter into hand from Reserve Deck; reshuffle.",
+    "Gametext": "Deploy on Carbonite Chamber. Once during opponent's turn, if a frozen captive on table, may active 1 Force. Once per turn, may use 1 Force to take into hand from Reserve Deck (reshuffle) He's All Yours, Bounty Hunter.",
     "ExpansionV": "Cloud City"
   },
   {
@@ -194,6 +191,7 @@
     "Gametext": "Deploy on table. Aurra, Bossk, and Cad are destiny +2. Once per game, may reveal up to two unique (*) aliens from hand and/or Reserve Deck (reshuffle); for remainder of game, those cards are assassins and Black Sun agents. (Immune to Alter.)",
     "Icons": "Episode 1",
     "Episode1": 1,
+    "Information": "Re-released in Virtual Set 12 \"Tweak Set\". Original text: \\par Deploy on table. Aurra, Bossk, and Cad are destiny +2. Once per game, may reveal a unique (*) aliens from hand or Reserve Deck (reshuffle); for remainder of game, that card is an assassin and ignores [Reflections II] and [Theed Palace] objective deployment restrictions. (Immune to Alter.)",
     "ExpansionV": "Tatooine"
   },
   {
@@ -205,11 +203,10 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "If A Stunning Move on table, deploy on 500 Republica. Opponent's Force generation is -1 here. While at a site (even while on a captive), adds one (Dark Side Force icon) icon here. While on Coruscant, opponent loses no more than 1 Force from your Force drains here. Once per turn, if a player controls this site, they may have this card (unless on Palpatine) follow their first character to move from here using landspeed (or docking bay transit) to a battleground site. If about to leave table, relocate to 500 Rebuplica (if possible).",
+    "Gametext": "If A Stunning Move on table, deploy on 500 Republica. Opponent's Force generation is -1 here. While at a site (even while on a captive), adds one [Dark Side Force icon] icon here. While on Coruscant, opponent loses no more than 1 Force from your Force drains here. Once per turn, if a player controls this site, they may have this card (unless on Palpatine) follow their first character to move from here using landspeed (or docking bay transit) to a battleground site. If about to leave table, relocate to 500 Republica (if possible).",
     "Icons": "Episode 1",
     "Episode1": 1,
-    "Information": "Original card: Emperor's Power",
-    "ExpansionV": "Death Star II"
+    "Information": "Original card: Emperor's Power"
   },
   {
     "id": 5344,
@@ -222,11 +219,10 @@
     "Uniqueness": "**",
     "Destiny": 2,
     "Lore": "At last we will reveal ourselves to the Jedi.",
-    "Gametext": "If you just lost a Dark Jedi and have exactly one Dark Jedi on table, take a Dark Jedi into hand from Reserve Deck; reshuffle. OR Once per game, if you have exactly two Dark Jedi on table, choose: Opponent loses 2 Force OR make a just drawn destiny = 2.",
+    "Gametext": "If you just lost a Dark Jedi and have exactly one Dark Jedi on table, take into hand from Reserve Deck (reshuffle) a Dark Jedi. OR Once per game, if you have exactly two Dark Jedi on table, choose: Opponent loses 2 Force OR make a just drawn destiny = 2.",
     "Icons": "Episode 1",
     "Episode1": 1,
-    "Information": "Original card: They Will Be No Match For You",
-    "ExpansionV": "Coruscant"
+    "Information": "Original card: They Will Be No Match For You"
   },
   {
     "id": 5345,
@@ -252,7 +248,7 @@
     "Uniqueness": "*",
     "Destiny": 6,
     "Lore": "Organizations as wealthy as the Trade Federation can afford large amounts of military hardware, all purchased under the guise of protecting their commercial interests.",
-    "Gametext": "USED: Cancel an attempt to use a weapon to target your capital starship. LOST: Re-target On Target to an opponent's capital starship armed with a weapon. OR Take Blockade Support Ship or \\ul Invisible Hand\\ul0  into hand from Reserve Deck; reshuffle.",
+    "Gametext": "USED: Cancel an attempt to use a weapon to target your capital starship. LOST: Re-target On Target to an opponent's capital starship armed with a weapon. OR Take into hand from Reserve Deck (reshuffle) Blockade Support Ship or \\ul Invisible Hand\\ul0.",
     "Icons": "Episode 1",
     "Episode1": 1,
     "ExpansionV": "Theed Palace"
@@ -268,7 +264,7 @@
     "Uniqueness": "*",
     "Destiny": 5,
     "Lore": "\"He's no Jedi.\"",
-    "Gametext": "If Audience Chamber on table, deploy Passenger Deck or a pit from Reserve Deck; reshuffle. OR Deploy an alien leader or Twi'lek to Audience Chamber from Reserve Deck; reshuffle.",
+    "Gametext": "If Audience Chamber on table, deploy from Reserve Deck (reshuffle) Passenger Deck or a pit. OR Deploy from Reserve Deck (reshuffle) an alien leader or Twi'lek to Audience Chamber.",
     "ExpansionV": "Jabba's Palace"
   },
   {
@@ -282,7 +278,8 @@
     "Uniqueness": "*",
     "Destiny": 5,
     "Lore": "Anger and aggression fuel the dark side of the Force.",
-    "Gametext": "For remainder of turn, opponent may not cancel your lightsaber weapon (or 'choke') destiny draws. OR If Vader in battle alone, your total battle destiny is +1 for each character in battle. Or Cancel It's A Trap!",
+    "Gametext": "For remainder of turn, opponent may not cancel your lightsaber weapon (or 'choke') destiny draws. OR If Vader in battle alone, your total battle destiny is +1 for each character in battle. OR Cancel It's A Trap!",
+    "Information": "Re-released in Virtual Set 12 \"Tweak Set\". Original text: \\par If a lightsaber swung by Vader just \"hit\" a character, cancel that character's game text. OR If you just drew Vader for destiny, take him into hand to cancel and redraw that destiny. OR At Vader's site, cancel Blast The Door, Kid!; Dodge; or Rebel Barrier.",
     "ExpansionV": "Tatooine"
   },
   {
@@ -305,8 +302,7 @@
     "Interior": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Cloud City: Casino (Dark)",
-    "ExpansionV": "Cloud City"
+    "Information": "Original card: Cloud City: Casino (Dark)"
   },
   {
     "id": 5350,
@@ -318,7 +314,7 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "May not be separated from Coruscant: Private Platform.   Grievous moves from here for free.",
+    "Gametext": "Your docking bay transit from here requires 2 Force (1 if Obi-Wan present).   Your docking bay transit from here requires 1 Force.",
     "LightSideIcons": 1,
     "DarkSideIcons": 1,
     "LightSideText": "Your docking bay transit from here requires 2 Force (1 if Obi-Wan present).",
@@ -328,8 +324,7 @@
     "Exterior": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Cloud City: East Platform (Docking Bay)",
-    "ExpansionV": "Cloud City"
+    "Information": "Original card: Cloud City: East Platform (Docking Bay)"
   },
   {
     "id": 5351,
@@ -349,8 +344,7 @@
     "Parsec": 5,
     "Icons": "Planet, Episode VII",
     "Planet": 1,
-    "Information": "Original card: Anoat (Dark)",
-    "ExpansionV": "Dagobah"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Anoat (Dark)"
   },
   {
     "id": 5352,
@@ -362,11 +356,11 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Unless your [Clone Army] character here, Force drain -1 here.   Once per game, if you control, may take \\ul Invisible Hand\\ul0  into hand from Reserve Deck; reshuffle.",
+    "Gametext": "Unless your [Clone Army] character here, Force drain -1 here.   Once per game, if you control, may take into hand from Reserve Deck (reshuffle) \\ul Invisible Hand\\ul0.",
     "LightSideIcons": 0,
     "DarkSideIcons": 2,
     "LightSideText": "Unless your [Clone Army] character here, Force drain -1 here.",
-    "DarkSideText": "Once per game, if you control, may take \\ul Invisible Hand\\ul0  into hand from Reserve Deck; reshuffle.",
+    "DarkSideText": "Once per game, if you control, may take into hand from Reserve Deck (reshuffle) \\ul Invisible Hand\\ul0.",
     "Icons": "Mobile, Interior, Scomp Link, Starship, Episode1",
     "Mobile": 1,
     "Interior": 1,
@@ -386,11 +380,11 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Your docking bay transit from here requires 3 Force (free if Palpatine present).   Your docking bay transit from here requires 1 Force (free if yuour [Presence] droid present).",
+    "Gametext": "Your docking bay transit from here requires 3 Force (free if Palpatine present).   Your docking bay transit from here requires 1 Force (free if your [Presence] droid present).",
     "LightSideIcons": 1,
     "DarkSideIcons": 1,
     "LightSideText": "Your docking bay transit from here requires 3 Force (free if Palpatine present).",
-    "DarkSideText": "Your docking bay transit from here requires 1 Force (free if yuour [Presence] droid present).",
+    "DarkSideText": "Your docking bay transit from here requires 1 Force (free if your [Presence] droid present).",
     "Icons": "Mobile, Interior, Exterior, Scomp Link, Starship, Episode 1",
     "Mobile": 1,
     "Interior": 1,
@@ -398,8 +392,7 @@
     "Starship": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Blockade Flagship: Docking Bay (Dark)",
-    "ExpansionV": "Theed Palace"
+    "Information": "Original card: Blockade Flagship: Docking Bay (Dark)"
   },
   {
     "id": 5354,
@@ -422,8 +415,7 @@
     "Starship": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Blockade Flagship: Hallway",
-    "ExpansionV": "Reflections III"
+    "Information": "Original card: Blockade Flagship: Hallway"
   },
   {
     "id": 5355,
@@ -446,8 +438,7 @@
     "Starship": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Executor: Main Corridor",
-    "ExpansionV": "Dagobah"
+    "Information": "Original card: Executor: Main Corridor"
   },
   {
     "id": 5356,
@@ -456,11 +447,11 @@
     "CardType": "Objective",
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Uncommon",
-    "ObjectiveFront": "\\ul Deploy 500 Republica (with Insidious Prisoner there) and Coruscant: Private Platform.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy Sidious, First Order characters, or Imperials. Grievous is immunity to attrition +2. Once per turn, may deploy an \\ul Invisible Hand\\ul0  site or a non-unique [Separatist] droid.\\par \\b Flip\\b0  this card if Insidious Prisoner is at an \\ul Invisible Hand\\ul0  site.",
+    "ObjectiveFront": "\\ul Deploy 500 Republica (with Insidious Prisoner there) and Coruscant: Private Platform.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy Sidious, First Order characters, or Imperials. Grievous is immunity to attrition +2. Once per turn, may deploy from Reserve Deck (reshuffle) an \\ul Invisible Hand\\ul0  site or a non-unique [Separatist] droid.\\par \\b Flip\\b0  this card if Insidious Prisoner is at an \\ul Invisible Hand\\ul0  site.",
     "ObjectiveBack": "\\b While\\b0  this side up, immunity to attrition of opponent's Jedi, starships, and vehicles is limited to < 5. During your control phase, if your [Separatist] character with Insidious Prisoner, opponent loses 1 Force. Once during your turn, may search your Force Pile and reveal any one card; reshuffle. Opponent may lose 2 Force to place that card on bottom of your Used Pile; otherwise, take it into hand.\\par \\b Flip\\b0  this card if Inisidious Prisoner is not at an \\ul Invisible Hand\\ul0  site.",
     "ObjectiveFrontName": "A Stunning Move",
     "ObjectiveBackName": "A Valuable Hostage",
-    "Gametext": "[Front Side]: \\ul Deploy 500 Republica (with Insidious Prisoner there) and Coruscant: Private Platform.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy Sidious, First Order characters, or Imperials. Grievous is immunity to attrition +2. Once per turn, may deploy an \\ul Invisible Hand\\ul0  site or a non-unique [Separatist] droid.\\par \\b Flip\\b0  this card if Insidious Prisoner is at an \\ul Invisible Hand\\ul0  site.\\par [Back Side]: \\b While\\b0  this side up, immunity to attrition of opponent's Jedi, starships, and vehicles is limited to < 5. During your control phase, if your [Separatist] character with Insidious Prisoner, opponent loses 1 Force. Once during your turn, may search your Force Pile and reveal any one card; reshuffle. Opponent may lose 2 Force to place that card on bottom of your Used Pile; otherwise, take it into hand.\\par \\b Flip\\b0  this card if Inisidious Prisoner is not at an \\ul Invisible Hand\\ul0  site.",
+    "Gametext": "[Front Side]: \\ul Deploy 500 Republica (with Insidious Prisoner there) and Coruscant: Private Platform.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy Sidious, First Order characters, or Imperials. Grievous is immunity to attrition +2. Once per turn, may deploy from Reserve Deck (reshuffle) an \\ul Invisible Hand\\ul0  site or a non-unique [Separatist] droid.\\par \\b Flip\\b0  this card if Insidious Prisoner is at an \\ul Invisible Hand\\ul0  site.\\par [Back Side]: \\b While\\b0  this side up, immunity to attrition of opponent's Jedi, starships, and vehicles is limited to < 5. During your control phase, if your [Separatist] character with Insidious Prisoner, opponent loses 1 Force. Once during your turn, may search your Force Pile and reveal any one card; reshuffle. Opponent may lose 2 Force to place that card on bottom of your Used Pile; otherwise, take it into hand.\\par \\b Flip\\b0  this card if Inisidious Prisoner is not at an \\ul Invisible Hand\\ul0  site.",
     "Icons": "Episode 1",
     "Episode1": 1,
     "Information": "Original card: Invasion/In Complete Control",
@@ -472,10 +463,11 @@
     "Grouping": "Dark",
     "CardType": "Starship",
     "Subtype": "Capital",
-    "ModelType": "Providence-Class Dreadnaught",
+    "ModelType": "Providence-class Dreadnaught",
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Premium",
     "Uniqueness": "*",
+    "Characteristics": "Trade Federation (starship), Separatist",
     "Destiny": 2,
     "Power": 6,
     "Deploy": 6,
@@ -490,8 +482,7 @@
     "ScompLink": 1,
     "TradeFederation": 1,
     "Episode1": 1,
-    "Information": "Original card: Dreadnaught-Class Heavy Cruiser",
-    "ExpansionV": "Official Tournament Sealed Deck"
+    "Information": "This card has a Separatist icon. \\par \\par Original card: Dreadnaught-Class Heavy Cruiser"
   },
   {
     "id": 5358,
@@ -499,7 +490,7 @@
     "Grouping": "Dark",
     "CardType": "Starship",
     "Subtype": "Capital",
-    "ModelType": "Imperial-Class Star Destroyer",
+    "ModelType": "Imperial-class Star Destroyer",
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
     "Uniqueness": "*",
@@ -511,6 +502,7 @@
     "Armor": 6,
     "Ability": 2,
     "Hyperspeed": 3,
+    "Lore": "Part of Darth Vader's Death Squadron. Support vessel for the fleet's starfighters. Cargo areas converted into hangar space for additional TIE fighters.",
     "Gametext": "May add 6 pilots, 8 passengers, 1 vehicle, and 6 TIEs. Permanent pilot provides ability of 2. Whenever you win a battle here, opponent loses 1 Force.",
     "Icons": "Pilot, Astromech, Scomp Link",
     "Pilot": 1,
@@ -525,7 +517,7 @@
     "CardType": "Weapon",
     "Subtype": "Character",
     "Expansion": "Virtual Card Set #11",
-    "Rarity": "Uncommon",
+    "Rarity": "Uncommon1",
     "Characteristics": "lightsaber",
     "Destiny": 2,
     "Lore": "Multifaceted jewels focus light into a deadly blade. Projects a meter-long beam of pure energy. A lightsaber is constructed personally by a Jedi as a part of training.",
@@ -543,7 +535,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common",
     "Uniqueness": "*",
-    "Characteristics": "female",
+    "Characteristics": "\\b Togruta\\b0, female",
     "Destiny": 1,
     "Power": 5,
     "Deploy": 5,
@@ -552,11 +544,10 @@
     "ForceAptitude": "Jedi Knight",
     "Lore": "Female Togruta.",
     "Gametext": "Subtracts 1 from opponent's battle destiny draws here. During any deploy phase, if a Padawan or a Sith character at an adjacent site, Ahsoka may move to that site (using landspeed) as a regular move. Immune to [Permanent Weapon] weapons and attrition < 5.",
-    "Icons": "Pilot, Warrior",
+    "Icons": "Pilot, Warrior x 2",
     "Pilot": 1,
-    "Warrior": 1,
-    "Information": "Original card: Anoat Operative (Light)",
-    "ExpansionV": "Special Edition"
+    "Warrior": 2,
+    "Information": "Original card: Anoat Operative (Light)"
   },
   {
     "id": 5361,
@@ -567,14 +558,14 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Uncommon2",
     "Uniqueness": "*",
-    "Characteristics": "\\b commander\\b0, \\b leader\\b0, \\b spy\\b0",
+    "Characteristics": "\\b Alderaanian\\b0, \\b commander\\b0, \\b leader\\b0, \\b spy\\b0",
     "Destiny": 2,
     "Power": 2,
     "Deploy": 2,
     "Forfeit": 4,
     "Ability": 2,
     "Lore": "\\b Leader\\b0  of Rebel forces on Yavin 4. Formerly Suolriep sector HQ commander. As a Rebel \\b spy\\b0, aided Princess Leia and Bail Organa in the years prior to the Senate's dissolution.",
-    "Gametext": "Alderaanian. Once per game, may place your just lost Alderaanian in USed Pile. Once per turn, if Stolen Data Tapes 'delivered,' a system 'liberated,' or Stardust on your spy, may place a card from hand on Used Pile to draw top card of Reserve Deck.",
+    "Gametext": "Alderaanian. Once per game, may place your just lost Alderaanian in Used Pile. Once per turn, if Stolen Data Tapes 'delivered,' a system 'liberated,' or Stardust on your spy, may place a card from hand on Used Pile to draw top card of Reserve Deck.",
     "Icons": "Warrior",
     "Warrior": 1,
     "ExpansionV": "A New Hope"
@@ -588,7 +579,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common2",
     "Uniqueness": "*",
-    "Characteristics": "female",
+    "Characteristics": "\\b information broker\\b0 , \\b leader\\b0, female",
     "Destiny": 2,
     "Power": 2,
     "Deploy": 2,
@@ -600,8 +591,7 @@
     "Icons": "Pilot, Warrior, Episode VII",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Electrobinoculars",
-    "ExpansionV": "Premiere"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Electrobinoculars"
   },
   {
     "id": 5363,
@@ -612,18 +602,18 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common1",
     "Uniqueness": "***",
+    "Characteristics": "\\b trooper\\b0",
     "Destiny": 3,
     "Power": 3,
     "Deploy": 4,
     "Forfeit": 5,
     "Armor": 4,
     "Ability": 2,
-    "Lore": "Rebels rely on hiden 'cells' of undercover operatives Striking from hidden bases, troops or starfighters can arrive in a battle zone at any time.",
+    "Lore": "Rebels rely on hiden 'cells' of undercover operatives. Striking from hidden bases, troops or starfighters can arrive in a battle zone at any time.",
     "Gametext": "May deploy as a 'react' to a site. Deploys -2 to a site where opponent has more characters than you. Ambush is a Used Interrupt.",
     "Icons": "Warrior",
     "Warrior": 1,
-    "Information": "Original card: Rebel Reinforcements",
-    "ExpansionV": "Premiere"
+    "Information": "Original card: Rebel Reinforcements"
   },
   {
     "id": 5364,
@@ -634,7 +624,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common2",
     "Uniqueness": "*",
-    "Characteristics": "female",
+    "Characteristics": "\\b admiral\\b0, \\b leader\\b0, female",
     "Destiny": 2,
     "Power": 1,
     "Deploy": 3,
@@ -644,11 +634,10 @@
     "ForceAptitude": "Force-Attuned",
     "Lore": "Female \\b leader\\b0.",
     "Gametext": "Adds 2 to power of any capital starship she pilots. During battle, if piloting a capital starship, may place it and Holdo out of play to add X to your total battle destiny, where X is that starship's armor + hyperspeed.",
-    "Icons": "Pilot, Warrior",
+    "Icons": "Pilot, Warrior, Episode VII",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Collision!",
-    "ExpansionV": "Premiere"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Collision!"
   },
   {
     "id": 5365,
@@ -660,12 +649,9 @@
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": "Biotech's latest model, the Aj^g, boasts greater storage capacity than all other models combined. Advertised as, \"Artificial intelligence worth shaving your head for.\"",
-    "Gametext": "Deploy on an alien of ability < 3. While at a Scomp link, Computer Interface is a Used Interrupt, and once per turn may use 1 Force to take Computer Interface into hand from Reserve Deck; reshuffle. Once per turn, if on Lobot, may deploy a trooper here from Reserve Deck; reshuffle.",
+    "Gametext": "Deploy on an alien of ability < 3. While at a Scomp link, Computer Interface is a Used Interrupt, and once per turn may use 1 Force to take into hand from Reserve Deck (reshuffle) Computer Interface. Once per turn, if on Lobot, may deploy from Reserve Deck (reshuffle) a trooper here.",
     "Icons": 0,
     "IsPulled": " Corporal Beezer\\par Lobot (V)\\par Portable Scanner",
-    "Rules": "(AR 1.7.1, B-5)\\par If your opponent takes control of your Cyborg Construct, any cards underneath it are placed on top of your Used Pile.",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Cloud City"
   },
   {
@@ -680,9 +666,7 @@
     "Gametext": "Deploy on table. Once per game, if Quiet Mining Colony on table, may search your hand and/or Reserve Deck and reveal an [Independent] starfighter and matching pilot; place both in hand, reshuffle; they each deploy -1 this turn. Once per game, if a battle just initiated at Bespin system with \\ul Executor\\ul0  there, may cancel that battle unless opponent uses 15 Force. (Immune to Alter.)",
     "Icons": 0,
     "Information": "Original card: Beldon's Eye",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Cloud City"
+    "CardNameV": "*Beldon's Eye & *All My Urchins"
   },
   {
     "id": 5367,
@@ -693,12 +677,11 @@
     "Rarity": "Common2",
     "Uniqueness": "*",
     "Destiny": 4,
+    "Lore": " ",
     "Gametext": "Use 4 Force to deploy on table. During your draw phase, may stack a non-unique clone from your Lost Pile here face down. At the start of your turn, turn all cards here face up. You may deploy any face up card stacked here (as if from hand). (Immune to Alter.)",
-    "Icons": 0,
-    "Information": "Original card: Solomahal",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "A New Hope"
+    "Icons": "Episode 1",
+    "Episode1": 1,
+    "Information": "Original card: Solomahal"
   },
   {
     "id": 5368,
@@ -709,12 +692,10 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 5,
-    "Gametext": "If Stardust on table, deploy on table. Saw is a Resistance Agent and spy. Once per game, may deploy Saw from Reserve Deck; reshuffle. Rebel spies are deploy -1. Once per battle, if you just drew a Rebel spy for destiny, may retrieve 1 Force. Nightfall is canceled. (Immune to Alter.)",
+    "Lore": " ",
+    "Gametext": "If Stardust on table, deploy on table. Saw is a Resistance Agent and spy. Once per game, may deploy from Reserve Deck (reshuffle) Saw. Rebel spies are deploy -1 to Scarif. Once per battle, if you just drew a Rebel spy for destiny, may retrieve 1 Force. Nightfall is canceled. (Immune to Alter.)",
     "Icons": 0,
-    "Information": "Original card: Firefight",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Endor"
+    "Information": "Original card: Firefight\\par \\par Errata. Original text: \\par If Stardust on table, deploy on table. Saw is a Resistance Agent and spy. Once per game, may deploy from Reserve Deck (reshuffle) Saw. Rebel spies are deploy -1. Once per battle, if you just drew a Rebel spy for destiny, may retrieve 1 Force. Nightfall is canceled. (Immune to Alter.)"
   },
   {
     "id": 5369,
@@ -726,12 +707,10 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 5,
+    "Lore": " ",
     "Gametext": "USED: If [Episode VII] Luke at a site, target all your characters at one other site. They are defense value = 5 this turn. LOST: Once per game, if opponent just drew battle destiny and Luke is out of play, draw destiny and subtract that amount from opponent's total battle destiny.",
-    "Icons": 0,
-    "Information": "Original card: Projection Of A Skywalker",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Jabba's Palace"
+    "Icons": "Episode VII",
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: Projection Of A Skywalker"
   },
   {
     "id": 5370,
@@ -743,12 +722,10 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 5,
+    "Lore": " ",
     "Gametext": "Cancel a just-deployed First Order character's game text until end of turn. OR Destiny draws during battles at sites may not be canceled this turn. OR During any draw phase, place a card from hand under Used Pile to take any one card into hand from Force Pile; reshuffle.",
-    "Icons": 0,
-    "Information": "Original card: The Signal",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Jabba's Palace"
+    "Icons": "Episode VII",
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: The Signal"
   },
   {
     "id": 5371,
@@ -759,11 +736,8 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
     "Destiny": 4,
-    "Gametext": "LOST: Deploy a Tatooine battleground from Reserve Deck; reshuffle. STARTING: If you have deployed a Jabba's Palace site, deploy Seeking An Audience and up to two Effects that deploy on table and are always immune to Alter. Place Interrupt in hand.",
+    "Gametext": "LOST: Deploy from Reserve Deck (reshuffle) a Tatooine battleground. STARTING: If you have deployed a Jabba's Palace site, deploy Seeking An Audience and up to two Effects that deploy on table and are always immune to Alter. Place Interrupt in hand.",
     "Icons": 0,
-    "Information": "Original card: Solomahal",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Cloud City"
   },
   {
@@ -776,12 +750,10 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 4,
-    "Gametext": "USED: Take Han's Dice or non-[Maintenance] Han into hand from Reserve Deck; reshuffle. LOST: If you just lost a gambler, take that gambler into hand. OR Once per game, exchange a card in hand with a Resistance Agent or [Episode VII] Skywalker in Lost Pile.",
-    "Icons": 0,
-    "Information": "Original card: Throw Me Another Charge",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Endor"
+    "Lore": " ",
+    "Gametext": "USED: Take into hand from Reserve Deck (reshuffle) Han's Dice or non-[Maintenance] Han. LOST: If you just lost a gambler, take that gambler into hand. OR Once per game, exchange a card in hand with a Resistance Agent or [Episode VII] Skywalker in Lost Pile.",
+    "Icons": "Episode VII",
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Throw Me Another Charge"
   },
   {
     "id": 5373,
@@ -801,8 +773,7 @@
     "Parsec": 9,
     "Icons": "Planet, Episode VII",
     "Planet": 1,
-    "Information": "Original card: Dagobah (Light)",
-    "ExpansionV": "Cloud City"
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: Dagobah (Light)"
   },
   {
     "id": 5374,
@@ -814,16 +785,15 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "If Luke here or out of play, Force Projection is immune to Sense.   While Luke here, attrition against you everywhere is +1.",
+    "Gametext": "If Luke here or out of play, Force Projection is [Immune to Sense].   While Luke here, attrition against you everywhere is +1.",
     "LightSideIcons": 2,
     "DarkSideIcons": 1,
-    "LightSideText": "If Luke here or out of play, Force Projection is immune to Sense.",
+    "LightSideText": "If Luke here or out of play, Force Projection is [Immune to Sense].",
     "DarkSideText": "While Luke here, attrition against you everywhere is +1.",
     "Icons": "Planet, Exterior, Episode VII",
     "Planet": 1,
     "Exterior": 1,
-    "Information": "Original card: Dagobah: Training Area",
-    "ExpansionV": "Dagobah"
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: Dagobah: Training Area"
   },
   {
     "id": 5375,
@@ -844,8 +814,7 @@
     "Planet": 1,
     "Interior": 1,
     "Exterior": 1,
-    "Information": "Original card: Dagobah: Bog Clearing",
-    "ExpansionV": "Dagobah"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Dagobah: Bog Clearing"
   },
   {
     "id": 5376,
@@ -865,8 +834,7 @@
     "Icons": "Planet, Exterior, Episode VII",
     "Planet": 1,
     "Exterior": 1,
-    "Information": "Original card: Dagobah: Swamp",
-    "ExpansionV": "Dagobah"
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: Dagobah: Swamp"
   },
   {
     "id": 5377,
@@ -878,7 +846,7 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "While Luke here, opponent must first use 1 Force to fire a weapon anywhere.   While Luke here, destiny draws for Sense and Alter are +2.",
+    "Gametext": "While Luke here or out of play, you lose no Force to [Reflections II] objectives.   When deployed, may play a Defensive Shield from under your Starting Effect as if from hand.",
     "LightSideIcons": 1,
     "DarkSideIcons": 0,
     "LightSideText": "While Luke here or out of play, you lose no Force to [Reflections II] objectives.",
@@ -886,8 +854,7 @@
     "Icons": "Planet, Exterior, Episode VII",
     "Planet": 1,
     "Exterior": 1,
-    "Information": "Original card: Dagobah: Jungle",
-    "ExpansionV": "Dagobah"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Dagobah: Jungle"
   },
   {
     "id": 5378,
@@ -899,17 +866,16 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Once per turn, may use 1 Force to deploy a Kamino site from Reserve Deck; reshuffle.   If opponent has two clones on table, Force drain -1 here.",
+    "Gametext": "Once per turn, may use 1 Force to deploy from Reserve Deck (reshuffle) a Kamino site.   If opponent has two clones on table, Force drain -1 here.",
     "LightSideIcons": 2,
     "DarkSideIcons": 2,
-    "LightSideText": "Once per turn, may use 1 Force to deploy a Kamino site from Reserve Deck; reshuffle.",
+    "LightSideText": "Once per turn, may use 1 Force to deploy from Reserve Deck (reshuffle) a Kamino site.",
     "DarkSideText": "If opponent has two clones on table, Force drain -1 here.",
     "Parsec": 7,
     "Icons": "Planet, Episode 1",
     "Planet": 1,
     "Episode1": 1,
-    "Information": "Original card: Aquaris",
-    "ExpansionV": "Death Star II"
+    "Information": "Original card: Aquaris"
   },
   {
     "id": 5379,
@@ -931,8 +897,7 @@
     "Interior": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Death Star: Docking Bay 327 (Light)",
-    "ExpansionV": "Premiere"
+    "Information": "Original card: Death Star: Docking Bay 327 (Light)"
   },
   {
     "id": 5380,
@@ -954,8 +919,7 @@
     "Interior": 1,
     "ScompLink": 1,
     "Episode1": 1,
-    "Information": "Original card: Death Star: Detention Block Control Room (Light)",
-    "ExpansionV": "Premiere"
+    "Information": "Original card: Death Star: Detention Block Control Room (Light)"
   },
   {
     "id": 5381,
@@ -967,16 +931,15 @@
     "Rarity": "Premium",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Once per game, may deploy an [Episode VII] alien here from Reserve Deck; reshuffle.   Force drain -1 here. While you control, Dobra Doompa is suspended.",
+    "Gametext": "Once per game, may deploy from Reserve Deck (reshuffle) an [Episode VII] alien here.   Force drain -1 here. While you control, Dobra Doompa is suspended.",
     "LightSideIcons": 2,
     "DarkSideIcons": 1,
-    "LightSideText": "Once per game, may deploy an [Episode VII] alien here from Reserve Deck; reshuffle.",
+    "LightSideText": "Once per game, may deploy from Reserve Deck (reshuffle) an [Episode VII] alien here.",
     "DarkSideText": "Force drain -1 here. While you control, Dobra Doompa is suspended.",
     "Icons": "Planet, Interior, Episode VII",
     "Planet": 1,
     "Interior": 1,
-    "Information": "Original card: Jabba's Palace: Antechamber",
-    "ExpansionV": "Jabba's Palace Sealed Deck"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Jabba's Palace: Antechamber"
   },
   {
     "id": 5382,
@@ -997,8 +960,7 @@
     "Planet": 1,
     "Interior": 1,
     "Underground": 1,
-    "Information": "Original card: Jabba's Palace: Entrance Cavern (Light)",
-    "ExpansionV": "Jabba's Palace"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Jabba's Palace: Entrance Cavern (Light)"
   },
   {
     "id": 5383,
@@ -1018,8 +980,7 @@
     "Parsec": 5,
     "Icons": "Planet, Episode VII",
     "Planet": 1,
-    "Information": "Original card: Ralltiir (Light)",
-    "ExpansionV": "A New Hope"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Ralltiir (Light)"
   },
   {
     "id": 5384,
@@ -1037,9 +998,8 @@
     "LightSideText": "If Haven is canceled, place it in your Used Pile.",
     "DarkSideText": "Unless you control, you may not deploy Effects on related locations.",
     "Parsec": 4,
-    "Icons": "Planet, Episode VII",
-    "Planet": 1,
-    "ExpansionV": "Premiere"
+    "Icons": "Planet",
+    "Planet": 1
   },
   {
     "id": 5385,
@@ -1048,15 +1008,13 @@
     "CardType": "Objective",
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
-    "ObjectiveFront": "\\ul Deploy Ahch-To system and any [Episode VII] battleground.\\ul0 \\par \\b For\\b0  remainder of game, you may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. Once per game, may take any one card into hand from Force Pile; reshuffle. Luke deploys only to Ahch-To. \\b While\\b0  this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle. \\b May flip\\b0  this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character.",
-    "ObjectiveBack": "\\b Immediately\\b0  place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons. \\b While\\b0  this side up, opponent's immunity to attrition is limited to < 5. Your Force drains are +1 where you have two unique (*) Resistance characters. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Once per turn during battle, may cancel an opponent's just drawn destiny to cause a re-draw.",
+    "ObjectiveFront": "\\ul Deploy Ahch-To system and any [Episode VII] battleground.\\ul0 \\par \\b For\\b0  remainder of game, you may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. Once per game, may take any one card into hand from Force Pile; reshuffle. Luke deploys only to Ahch-To. \\par \\b While\\b0  this side up, once per turn, may use 1 Force to deploy from Reserve Deck (reshuffle) an Ahch-To location or [Episode VII] battleground. \\par \\b May flip\\b0  this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character.",
+    "ObjectiveBack": "\\b Immediately\\b0  place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons. \\par \\b While\\b0  this side up, opponent's immunity to attrition is limited to < 5. Your Force drains are +1 where you have two unique (*) Resistance characters. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Once per turn during battle, may cancel an opponent's just drawn destiny to cause a re-draw.",
     "ObjectiveFrontName": "The Galaxy May Need A Legend",
     "ObjectiveBackName": "We Need Luke Skywalker",
-    "Gametext": "[Front Side]: \\ul Deploy Ahch-To system and any [Episode VII] battleground.\\ul0 \\par \\b For\\b0  remainder of game, you may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. Once per game, may take any one card into hand from Force Pile; reshuffle. Luke deploys only to Ahch-To. \\b While this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle. \\b May flip\\b0  this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character.\\par [Back Side]: \\b Immediately\\b0  place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons. \\b While\\b0  this side up, opponent's immunity to attrition is limited to < 5. Your Force drains are +1 where you have two unique (*) Resistance characters. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Once per turn during battle, may cancel an opponent's just drawn destiny to cause a re-draw.",
+    "Gametext": "[Front Side]: \\ul Deploy Ahch-To system and any [Episode VII] battleground.\\ul0 \\par \\b For\\b0  remainder of game, you may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. Once per game, may take any one card into hand from Force Pile; reshuffle. Luke deploys only to Ahch-To. \\b While\\b0  this side up, once per turn, may use 1 Force to deploy from Reserve Deck (reshuffle) an Ahch-To location or [Episode VII] battleground. \\b May flip\\b0  this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character.\\par [Back Side]: \\b Immediately\\b0  place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons. \\b While\\b0  this side up, opponent's immunity to attrition is limited to < 5. Your Force drains are +1 where you have two unique (*) Resistance characters. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Once per turn during battle, may cancel an opponent's just drawn destiny to cause a re-draw.",
     "Icons": "Episode VII",
-    "Episode1": 1,
-    "Information": "Original card: Mind What You have Learned/Save You It Can",
-    "ExpansionV": "Special Edition"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Mind What You have Learned/Save You It Can"
   },
   {
     "id": 5386,
@@ -1071,13 +1029,12 @@
     "Gametext": "Once per turn, may deploy a Maz's Castle site from Reserve Deck; reshuffle.   If you control, opponent must use 1 Force to use their Takodana: Maz's Castle game text.",
     "LightSideIcons": 2,
     "DarkSideIcons": 1,
-    "LightSideText": "Once per turn, may deploy a Maz's Castle site from Reserve Deck; reshuffle.",
+    "LightSideText": "Once per turn, may deploy from Reserve Deck (reshuffle) a Maz's Castle site.",
     "DarkSideText": "If you control, opponent must use 1 Force to use their Takodana: Maz's Castle game text.",
     "Icons": "Planet, Exterior, Episode VII",
     "Planet": 1,
     "Exterior": 1,
-    "Information": "Original card: Tatooine: Jabba's Palace (Light)",
-    "ExpansionV": "Special Edition"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Tatooine: Jabba's Palace (Light)"
   },
   {
     "id": 5387,
@@ -1089,6 +1046,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Uncommon",
     "Uniqueness": "*",
+    "Characteristics": "Resistance (starship)",
     "Destiny": "pi",
     "Power": 4,
     "Deploy": 3,
@@ -1099,8 +1057,7 @@
     "Icons": "Resistance, Astromech, Episode VII, Scomp Link",
     "Astromech": 1,
     "ScompLink": 1,
-    "Information": "Original card: Red Squadron 4",
-    "ExpansionV": "Death Star II"
+    "Information": "This card has an Episode VII icon and a Resistance (starship) icon. \\par \\par Original card: Red Squadron 4"
   },
   {
     "id": 5388,
@@ -1112,6 +1069,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Uncommon",
     "Uniqueness": "*",
+    "Characteristics": "Independent (starship)",
     "Destiny": 2,
     "Power": 2,
     "Deploy": 2,
@@ -1123,8 +1081,7 @@
     "Astromech": 1,
     "Independent": 1,
     "ScompLink": 1,
-    "Information": "Original card: Free Ride",
-    "ExpansionV": "Endor"
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Free Ride"
   },
   {
     "id": 5389,
@@ -1134,8 +1091,9 @@
     "Subtype": "Starfighter",
     "ModelType": "A-Wing",
     "Expansion": "Virtual Card Set #11",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "Uniqueness": "*",
+    "Characteristics": "Resistance (starship)",
     "Destiny": 3,
     "Power": 4,
     "Deploy": 3,
@@ -1147,8 +1105,7 @@
     "Pilot": 1,
     "Astromech": 1,
     "ScompLink": 1,
-    "Information": "Original card: A-Wing",
-    "ExpansionV": "Death Star II"
+    "Information": "This card has an Episode VII icon and a Resistance (starship) icon. \\par \\par Original card: A-Wing"
   },
   {
     "id": 5390,
@@ -1173,6 +1130,7 @@
     "CardType": "Effect",
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common",
+    "Uniqueness": "*",
     "Destiny": 5,
     "Lore": "Rebel starfighter squadrons take great pride in their proficiency and dedication. Alliance pilots train relentlessly until man and machine function as one.",
     "Gametext": "Deploy on table. During your deploy phase, may reveal one unpiloted Red or Rogue squadron starfighter (or vehicle) from hand to take its matching pilot character (or vice versa) from Reserve Deck and deploy both simultaneously; reshuffle. (Immune to Alter.)",
