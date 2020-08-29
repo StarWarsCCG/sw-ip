@@ -21,7 +21,9 @@
     "Pilot": 1,
     "Warrior": 1,
     "Information": "Original card: Twi'lek Advisor\\par \\par Original concept by Paul McPherson",
-    "IsPulled": "Blizzard 4"
+    "IsPulled": "Blizzard 4",
+    "Inventory": 0,
+    "Needs": 0
   },
   {
     "id": 5295,
@@ -48,8 +50,6 @@
     "IsPulled": "Admiral Piett",
     "Combo": "Commander Brandei + Sienar Fleet Systems + Dreaded Imperial Starfleet",
     "Matching": "\\ul Judicator\\ul0",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Dagobah"
   },
   {
@@ -75,8 +75,6 @@
     "Episode1": 1,
     "Information": "Original concept by Michael Pistone\\par \\par Nute Gunray personas are:\\par Nute Gunray\\par Nute Gunray, Neimoidian Viceroy\\par Nute Gunray (V)",
     "IsPulled": "Lord Sidious\\par The Phantom Menace",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Coruscant"
   },
   {
@@ -91,9 +89,7 @@
     "Lore": "The Death Star has many terminals coupled to the main reactor for power distribution throughout the immense space station.",
     "Gametext": "Deploy on table. X = number of your devices on table. Once during your turn, may peek at the top X cards of your Force Pile and take one into hand, or deploy from Reserve Deck (reshuffle) (or deploy from Lost Pile) a device (except Restraining Bolt or Tractor Beam). (Immune to Alter.)",
     "Information": "Original card: Reactor Terminal\\par \\par Original concept by David Destefanis.",
-    "IsPulled": "Surface Defense (V)\\par Twi'lek Advisor\\par We Must Accelerate Our Plans",
-    "Inventory": 0,
-    "Needs": 0
+    "IsPulled": "Surface Defense (V)\\par Twi'lek Advisor\\par We Must Accelerate Our Plans"
   },
   {
     "id": 5298,
@@ -111,8 +107,6 @@
     "Information": "This card has an Episode VII icon.\\par \\par Original card: Corrosive Damage\\par \\par Original concept by Kevin Japp.\\par \\par Dark Side grabbers are:\\par Allegations Of Corruption\\par Allegations Of Corruption - Defensive Shield\\par I Never Ask That Question\\par Do They Have A Code Clearance? - Defensive Shield\\par Do They Have A Code Clearance?\\par Something Special Planned For Them (V)\\par Tentacle\\par There'll Be Hell To Pay",
     "IsPulled": "Fanfare\\par Fanfare - Defensive Shield\\par Fanfare (V) - Defensive Shield\\par Twi'lek Advisor\\par We Must Accelerate Our Plans",
     "Counterpart": "It's True, All Of It",
-    "Inventory": 0,
-    "Needs": 0,
     "Grabber": 1
   },
   {
@@ -127,8 +121,6 @@
     "Gametext": "Deploy on a site. Once per game, you may re-circulate. Once per turn, may cancel and redraw your destiny to power (or a Dark Hours destiny) here, or use X Force to reveal top X cards of your Reserve Deck; may place one in Used Pile (replace other cards in same order).",
     "Information": "Original concept by Floris de Vries.",
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Premiere"
   },
   {
@@ -144,8 +136,6 @@
     "Information": "Original concept by Jake Kessler.",
     "IsPulled": "Surface Defense (V)\\par Twi'lek Advisor\\par We Must Accelerate Our Plans",
     "IsCanceledBy": "Levitation",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Hoth"
   },
   {
@@ -160,8 +150,6 @@
     "Gametext": "Deploy on table. Add one [Dark Side Force icon] icon at each site where you have a 'Hatred' card. Once per game, target two battleground sites you occupy; one at a time, stack top card of your Lost Pile face down (as a 'Hatred' card) at those locations. (Immune to Alter.)",
     "Information": "Original concept by Hayes Hunter.",
     "IsPulled": "Surface Defense (V)\\par Twi'lek Advisor\\par We Must Accelerate Our Plans",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Dagobah"
   },
   {
@@ -177,8 +165,6 @@
     "Gametext": "USED: Cancel Nabrun Leids. (Immune to Sense.) OR Use 1 Force to take into hand from Reserve Deck (reshuffle) a Rodian (or a non-unique alien of your Rep's species). LOST: During your move phase, \"break cover\" of an Undercover spy.",
     "Counterpart": "Quite A Mercenary (V)",
     "Cancels": "Nabrun Leids",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "A New Hope"
   },
   {
@@ -197,8 +183,6 @@
     "Abbreviation": "RO, Ralltiir Ops, RalOps, ROPS",
     "Information": "Errata December 2019. Original text: \\par [Front Side]: Deploy Ralltiir system. \\par For remainder of game, spaceport sites are immune to He Hasn't Come Back Yet and Ounee Ta. Your Force generation is +1 at each Ralltiir location. Once per battle, when you draw battle destiny, may exchange a card in hand with a card of same card type in Lost Pile. \\par While this side up, once per turn, may deploy from Reserve Deck (reshuffle) a site (or non-unique Imperial) to Ralltiir. \\par Flip this card if Imperials control at least three Ralltiir sites and opponent controls no Ralltiir locations. [Back Side]: Immediately may take into hand from Reserve Deck (reshuffle) any one card. \\par While this side up, opponent's Force drains are -1 at non-Ralltiir locations. Your total battle destiny is +X, where X = number of Ralltiir locations your Imperials occupy. Always Thinking With Your Stomach is canceled. \\par Flip this card and place a card from hand on Used Pile (if possible) if opponent controls at least two Ralltiir locations.",
     "Errata": 1,
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Special Edition"
   },
   {
@@ -222,8 +206,6 @@
     "Information": "Original concept by Bill Kafer.\\par \\par TIE/lns are forfeit +2 at same location as Vengeance.\\par \\par Black 3 personas are:\\par Black 3\\par Black 3 (V)\\par Death Star Assault Squadron",
     "IsPulled": "Commander Brandei\\par Short Range Fighters & Watch Your Back!",
     "Matching": "DS-61-3\\par Reserve Pilot",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Premiere"
   },
   {
@@ -255,8 +237,6 @@
     "Pulls": "Bala-Tik\\par Bib Fortuna\\par Chall Bekan\\par Ephant Mon\\par Jabba\\par Jabba Desilijic Tiure\\par Jabba The Hutt\\par Jabba The Hutt (V)\\par Mighty Jabba\\par Nebit\\par Prince Xizor\\par Sidon Ithano\\par Televan Koreyy\\par URoRRuR'R'R\\par Wittin",
     "IsPulled": "Power Of The Hutt",
     "Matching": "Wooof (V)",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Special Edition"
   },
   {
@@ -282,9 +262,7 @@
     "Astromech": 1,
     "Information": "This card has an Episode VII icon.\\par \\par Original card: TIE Advanced x1",
     "IsPulled": "Commander Brandei\\par Short Range Fighters & Watch Your Back!",
-    "Matching": "Kylo Ren\\par Kylo Ren With Lightsaber",
-    "Inventory": 0,
-    "Needs": 0
+    "Matching": "Kylo Ren\\par Kylo Ren With Lightsaber"
   },
   {
     "id": 5307,
@@ -310,9 +288,7 @@
     "Pilot": 1,
     "ScompLink": 1,
     "Information": "Original card: Blizzard Walker\\par \\par Combat vehicles are deploy -1 at Hoth: Mountains.",
-    "IsPulled": "Battle Deployment\\par Death Squadron Assignment\\par Walker Garrison",
-    "Inventory": 0,
-    "Needs": 0
+    "IsPulled": "Battle Deployment\\par Death Squadron Assignment\\par Walker Garrison"
   },
   {
     "id": 5308,
@@ -334,9 +310,7 @@
     "Planet": 1,
     "Episode1": 1,
     "Information": "Original card: Bespin (Dark)",
-    "Pulls": "Mustafar: Vader's Castle",
-    "Inventory": 0,
-    "Needs": 0
+    "Pulls": "Mustafar: Vader's Castle"
   },
   {
     "id": 5309,
@@ -358,8 +332,6 @@
     "Icons": "Pilot",
     "Pilot": 1,
     "Information": "Original concept by Matt Wadden.",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Premiere"
   },
   {
@@ -386,8 +358,6 @@
     "Information": "Dash Rendar personas:\\par Dash Rendar\\par Dash Rendar (V)\\par Dash In Rogue 12",
     "IsPulled": "Beldon's Eye (V)\\par Soth Petikkin (when at a Jabba's Palace site you control)",
     "Matching": "Outrider",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Reflections II"
   },
   {
@@ -413,8 +383,6 @@
     "Information": "Original concept by the Dutch Community.",
     "IsPulled": "Princess Organa\\par Yavin 4: Massassi War Room (V)",
     "Matching": "Gold 1",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Premiere"
   },
   {
@@ -436,8 +404,6 @@
     "Gametext": "While on Endor, Perimeter Patrol is suspended. Once per game, if in battle with a speeder bike (or two scouts), may relocate Paploo and one opponent's character of ability < 4 present with him (unless either are 'hit') to an adjacent site.",
     "Information": "Original concept by Jake Kessler.",
     "IsPulled": "General Crix Madine\\par Soth Petikkin (when at a Jabba's Palace site you control)",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Endor"
   },
   {
@@ -464,8 +430,6 @@
     "Episode1": 1,
     "IsPulled": "Speak With The Jedi Council\\par Tatooine: City Outskirts",
     "Combo": "Plo Koon + Are You Brain Dead?!",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Coruscant"
   },
   {
@@ -489,9 +453,7 @@
     "Icons": "Warrior, Clone Army, Episode 1",
     "Warrior": 1,
     "Episode1": 1,
-    "Information": "This card has a Clone Army icon.\\par \\par Original card: Rebel Squad Leader",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has a Clone Army icon.\\par \\par Original card: Rebel Squad Leader"
   },
   {
     "id": 5315,
@@ -512,9 +474,7 @@
     "Icons": "Warrior, Clone Army, Episode 1",
     "Warrior": 1,
     "Episode1": 1,
-    "Information": "This card has a Clone Army icon.\\par \\par Original card: Blast The Door, Kid!",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has a Clone Army icon.\\par \\par Original card: Blast The Door, Kid!"
   },
   {
     "id": 5316,
@@ -537,9 +497,7 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Narrow Escape\\par \\par Original concept by Mike Gemme.",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "Original card: Narrow Escape\\par \\par Original concept by Mike Gemme."
   },
   {
     "id": 5317,
@@ -565,9 +523,7 @@
     "Episode1": 1,
     "Information": "Original card: Rep Been\\par \\par Original concept by Chris Menzel & Dirk Friedrichs",
     "IsPulled": "Speak With The Jedi Council\\par Tatooine: City Outskirts",
-    "Combo": "Kit Fisto + Are You Brain Dead?!",
-    "Inventory": 0,
-    "Needs": 0
+    "Combo": "Kit Fisto + Are You Brain Dead?!"
   },
   {
     "id": 5318,
@@ -591,9 +547,7 @@
     "Information": "This card has an Episode VII icon.\\par \\par Original card: Luke's Back\\par \\par Luke Skywalker personas are:\\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Luke\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Last Jedi\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Son Of Skywalker",
     "IsPulled": "Luke's Back\\par Tatooine: City Outskirts",
     "Matching": "Artoo-Detoo In Red 5\\par Red 5\\par Luke's T-16 Skyhopper\\par Rogue 1",
-    "MatchingWeapon": "Anakin's Lightsaber\\par Luke's Blaster Pistol\\par Luke's Blaster Pistol (V)\\par Luke's Hunting Rifle\\par Luke's Hunting Rifle (V)\\par Luke's Lightsaber",
-    "Inventory": 0,
-    "Needs": 0
+    "MatchingWeapon": "Anakin's Lightsaber\\par Luke's Blaster Pistol\\par Luke's Blaster Pistol (V)\\par Luke's Hunting Rifle\\par Luke's Hunting Rifle (V)\\par Luke's Lightsaber"
   },
   {
     "id": 5319,
@@ -608,9 +562,7 @@
     "Gametext": "Deploy on table. Maz and your Rep are immune to attrition. While you have alien characters of five different species on table: your Force drains are +1, your total battle destiny is +1 (+2 if Maz or your Rep in battle), and your aliens are forfeit +1. (Immune to Alter.)",
     "Icons": 0,
     "Information": "This card has an Episode VII icon.\\par \\par Original card: Bargaining Table\\par \\par Original concept by Emil Wallin.",
-    "IsPulled": "Don't Tread On Me (V)\\par The Signal\\par We Wish To Board At Once",
-    "Inventory": 0,
-    "Needs": 0
+    "IsPulled": "Don't Tread On Me (V)\\par The Signal\\par We Wish To Board At Once"
   },
   {
     "id": 5320,
@@ -627,9 +579,7 @@
     "Icons": "Episode VII, Grabber",
     "Information": "This card has an Episode VII icon.\\par \\par Original card: Let's Keep A Little Optimism Here (Death Star II)\\par \\par Original concept by Kevin Japp.\\par \\par Light Side grabbers are:\\par A Tragedy Has Occurred\\par A Tragedy Has Occurred - Defensive Shield\\par Grappling Hook\\par It's True, All Of It\\par Strikeforce (V)\\par What're You Tryin' To Push On Us?",
     "IsPulled": "Don't Do That Again\\par Don't Do That Again - Defensive Shield\\par Don't Do That Again (V) - Defensive Shield\\par Harc Seff (V)\\par The Signal\\par We Wish To Board At Once",
-    "Counterpart": "I Never Ask That Question",
-    "Inventory": 0,
-    "Needs": 0
+    "Counterpart": "I Never Ask That Question"
   },
   {
     "id": 5321,
@@ -646,9 +596,7 @@
     "Episode1": 1,
     "Information": "Original card: An Unusual Amount Of Fear",
     "Pulls": "Anakin's Lightsaber (V)\\par Mace Windu's Lightsaber\\par Obi-Wan's Lightsaber (EP1)\\par Qui-Gon Jinn's Lightsaber\\par Qui-Gon's Lightsaber\\par Malastare\\par Tatooine: Mos Espa\\par Coruscant: Night Club",
-    "IsPulled": "Don't Tread On Me (V)\\par The Signal\\par We Wish To Board At Once",
-    "Inventory": 0,
-    "Needs": 0
+    "IsPulled": "Don't Tread On Me (V)\\par The Signal\\par We Wish To Board At Once"
   },
   {
     "id": 5322,
@@ -665,8 +613,6 @@
     "Icons": "Episode 1",
     "Episode1": 1,
     "Information": "Errata March 2020: the Episode 1 icon was added.",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Cloud City",
     "Errata": 1
   },
@@ -686,8 +632,6 @@
     "Information": "Original concept by Mitch Nieland.",
     "Counterpart": "Projective Telepathy",
     "Cancels": "A battle or Force drain initiated by opponent.",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Jabba's Palace"
   },
   {
@@ -705,8 +649,6 @@
     "Pulls": "[Reflections II] Chewie\\par Mercenary Armor",
     "Counterpart": "Oo-ta Goo-ta, Solo? (V)",
     "Cancels": "Elis Helrot\\par A smuggler's game text for remainder of turn",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "A New Hope"
   },
   {
@@ -723,8 +665,6 @@
     "Icons": 0,
     "Information": "Original card: Rug Hug\\par \\par Original concept by Stephen Fulner.",
     "IsPulled": "The Signal\\par We Wish To Board At Once",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Endor"
   },
   {
@@ -745,9 +685,7 @@
     "Planet": 1,
     "Exterior": 1,
     "Information": "This card has an Episode VII icon.\\par \\par Orignal card: Dagobah: Yoda's Hut",
-    "Pulls": "Luke Skywalker, The Last Jedi",
-    "Inventory": 0,
-    "Needs": 0
+    "Pulls": "Luke Skywalker, The Last Jedi"
   },
   {
     "id": 5327,
@@ -769,8 +707,6 @@
     "Exterior": 1,
     "Information": "1st Marker Site\\par \\par Original concept by James Barnes.",
     "Rules": "(AR 3.0, B-8)\\par See Hoth energy shield rules\\par Whenever you deploy this location (even as a starting location or using an objective), you must check to see if the 4th, 5th or 6th marker site is also on the table. If not, you must immediately deploy the 4th marker from your reserve deck (if you are unable to deploy the North Ridge, you may not deploy the Main Power Generators). If you are unable to fulfill this requirement when using the Main Power Generators as your starting location, you must temporarily set this card aside and choose a different starting location.",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Hoth"
   },
   {
@@ -788,8 +724,6 @@
     "Icons": "Episode 1",
     "Episode1": 1,
     "Abbreviation": "THGG, Hyperdrive",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Coruscant"
   },
   {
@@ -810,8 +744,6 @@
     "Information": "This card has an Episode VII icon.\\par \\par Luke's lightsabers are:\\par Anakin's Lightsaber\\par Anakin's Lightsaber (V)\\par Luke's Lightsaber\\par Luke With Lightsaber\\par \\par Note: Anakin's Lightsaber and Luke's Lightsaber are not the same persona.",
     "IsPulled": "Gift Of The Mentor\\par Jedi Business\\par Son Of Skywalker",
     "MatchingWeapon": "Anakin Skywalker, Padawan Learner\\par Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Last Jedi\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Rey\\par Rey With Lightsaber\\par Son Of Skywalker\\par Young Skywalker",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Hoth"
   },
   {
@@ -837,9 +769,7 @@
     "ScompLink": 1,
     "Information": "This card has an Episode VII icon and a Resistance (starship) icon. \\par \\par Original card: Red 10",
     "IsPulled": "All Wings Report In & Darklighter Spin",
-    "Matching": "Temmin 'Snap' Wexley",
-    "Inventory": 0,
-    "Needs": 0
+    "Matching": "Temmin 'Snap' Wexley"
   },
   {
     "id": 5331,
@@ -862,8 +792,6 @@
     "IsPulled": "Combined Fleet Action",
     "Matching": "Chewie With Bowcaster\\par Ello Asty\\par Lieutenant Kaydel Connix\\par Poe Dameron\\par Rey\\par Rey With Lightsaber\\par Rose Tico\\par Solo\\par Temmin 'Snap' Wexley",
     "Rules": "(Errata) The game text 'when targeted by an Interrupt or weapon' changed to 'if targeted by Force Lightning, Trample, or a weapon'.",
-    "Inventory": 0,
-    "Needs": 0,
     "Errata": 1
   },
   {
@@ -878,8 +806,6 @@
     "Lore": "\"Your fleet is lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice.\"",
     "Gametext": "If Ralltiir Operations on table, deploy on table. Forfeit values are not modified by Do They Have A Code Clearance?. Once per battle, when you draw battle destiny, may exchange a card in hand with a card of same card type in Lost Pile. (Immune to Alter.)",
     "Icons": 0,
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Death Star II"
   }
 ]
