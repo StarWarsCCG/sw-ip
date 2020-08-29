@@ -602,7 +602,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Common1",
     "Uniqueness": "***",
-    "Characteristics": "\\b trooper\\b0",
+    "Characteristics": "\\b Rebel trooper\\b0, \\b trooper\\b0",
     "Destiny": 3,
     "Power": 3,
     "Deploy": 4,
