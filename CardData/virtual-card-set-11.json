@@ -736,6 +736,7 @@
     "Expansion": "Virtual Card Set #11",
     "Rarity": "Rare",
     "Destiny": 4,
+    "Lore": "\"When we find Jabba the Hutt and that bounty hunter, we'll contact you.\"",
     "Gametext": "LOST: Deploy from Reserve Deck (reshuffle) a Tatooine battleground. STARTING: If you have deployed a Jabba's Palace site, deploy Seeking An Audience and up to two Effects that deploy on table and are always immune to Alter. Place Interrupt in hand.",
     "Icons": 0,
     "ExpansionV": "Cloud City"
@@ -911,7 +912,7 @@
     "Destiny": 0,
     "Gametext": "While you control, your non-unique clone troopers are power and forfeit +1.   Fetts deploy -1 here.",
     "LightSideIcons": 2,
-    "DarkSideIcons": 0,
+    "DarkSideIcons": 1,
     "LightSideText": "While you control, your non-unique clone troopers are power and forfeit +1.",
     "DarkSideText": "Fetts deploy -1 here.",
     "Icons": "Planet, Interior, Scomp Link, Episode 1",
