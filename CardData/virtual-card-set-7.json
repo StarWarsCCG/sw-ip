@@ -20,10 +20,8 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Commander Desanne",
-    "IsPulled": "Admiral Piett\\par Blizzard 4\\par Operational As Planned (V)",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "Original card: Commander Desanne\\par \\par Original concept by Chris Kelly",
+    "IsPulled": "Admiral Piett\\par Blizzard 4\\par Operational As Planned (V)"
   },
   {
     "id": 5155,
@@ -49,8 +47,6 @@
     "IsPulled": "Blizzard 4\\par Endor Shield (V)\\par Imperial Command",
     "Combo": "Grand Admiral Thrawn at a system or site + Imperial Command",
     "Matching": "Chimaera",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Reflections II"
   },
   {
@@ -60,23 +56,21 @@
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Common",
+    "Rarity": "Rare",
     "Uniqueness": "*",
-    "Characteristics": "\\b pirate\\b0",
+    "Characteristics": "\\b Gabdorin\\b0, \\b pirate\\b0",
     "Destiny": 3,
     "Power": 3,
     "Deploy": 3,
     "Forfeit": 3,
     "Ability": 2,
     "Lore": "Gabdorin \\b Pirate\\b0 .",
-    "Gametext": "Adds 2 to power of anything he pilots. While piloting Meson Martinet, it is defense value +2. Forfeit +2 while present with Sidon. If your Rep is a pirate (or you did not deploy an Objective), Force drain +1 here.",
+    "Gametext": "Adds 2 to power of anything he pilots. While piloting \\ul Meson Martinet\\ul0, it is defense value +2. Forfeit +2 while present with Sidon. If your Rep is a pirate (or you did not deploy an Objective), Force drain +1 here.",
     "Icons": "Episode VII, Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Hermi Odle",
-    "Matching": "Meson Martinet",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Hermi Odle",
+    "Matching": "Meson Martinet"
   },
   {
     "id": 5157,
@@ -87,7 +81,7 @@
     "Expansion": "Virtual Card Set #7",
     "Rarity": "Fixed",
     "Uniqueness": "*",
-    "Characteristics": "\\b assassin\\b0",
+    "Characteristics": "\\b Dathomirian\\b0, \\b assassin\\b0",
     "Destiny": 1,
     "Power": 8,
     "Deploy": 8,
@@ -100,9 +94,7 @@
     "Pilot": 1,
     "Warrior": 1,
     "Episode1": 1,
-    "Information": "Original card: Makurth\\par \\par Original concept by Chris Menzel.",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has a Separatist icon. \\par \\par Original card: Makurth\\par \\par Original concept by Chris Menzel."
   },
   {
     "id": 5158,
@@ -113,7 +105,7 @@
     "Expansion": "Virtual Card Set #7",
     "Rarity": "Common",
     "Uniqueness": "*",
-    "Characteristics": "\\b pirate, leader\\b0",
+    "Characteristics": "\\b Delphidian\\b0, \\b leader\\b0, \\b pirate\\b0",
     "Destiny": 4,
     "Power": 3,
     "Deploy": 3,
@@ -121,14 +113,12 @@
     "Ability": 3,
     "ForceAptitude": "Force-Attuned",
     "Lore": "Delphidian \\b pirate\\b0 . \\b Leader\\b0 .",
-    "Gametext": "Adds 2 to power of anything he pilots (3 if \\ul Meson Martinet\\ul0 . Once per turn, may place opponent's character just lost from here out of play unless opponent loses 1 Force (2 if your Rep is a pirate or you did not deploy an Objective).",
+    "Gametext": "Adds 2 to power of anything he pilots (3 if \\ul Meson Martinet\\ul0 ). Once per turn, may place opponent's character just lost from here out of play unless opponent loses 1 Force (2 if your Rep is a pirate or you did not deploy an Objective).",
     "Icons": "Episode VII, Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Whipid",
-    "Matching": "Meson Martinet",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Whiphid",
+    "Matching": "Meson Martinet"
   },
   {
     "id": 5159,
@@ -138,7 +128,7 @@
     "Subtype": "Starfighter",
     "ModelType": "Modified Freighter",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Rare",
+    "Rarity": "Common2",
     "Uniqueness": "*",
     "Characteristics": "Independent (starship)",
     "Destiny": 3,
@@ -152,12 +142,9 @@
     "Astromech": 1,
     "Independent": 1,
     "ScompLink": 1,
-    "Information": "Original card: TIE Scout",
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: TIE Scout",
     "IsPulled": "Short Range Fighters & Watch Your Back!",
-    "Matching": "Quiggold\\par Sidon Ithano",
-    "Inventory": 0,
-    "Needs": 0,
-    "UniquenessV": "*"
+    "Matching": "Quiggold\\par Sidon Ithano"
   },
   {
     "id": 5160,
@@ -181,13 +168,10 @@
     "Icons": "Astromech, Independent",
     "Astromech": 1,
     "Independent": 1,
-    "Information": "Punishing One personas are:\\par \\par Dengar In Punishing One\\par Punishing One\\par Punishing One (V)",
+    "Information": "Original concept by Bill Kafer.\\par -----\\par Punishing One personas are:\\par \\par Dengar In Punishing One\\par Punishing One\\par Punishing One (V)",
     "IsPulled": "Short Range Fighters & Watch Your Back!",
     "Matching": "Dengar\\par Dengar With Blaster Carbine\\par Dengar With Blaster Carbine (V)",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Dagobah",
-    "UniquenessV": "*"
+    "ExpansionV": "Dagobah"
   },
   {
     "id": 5161,
@@ -199,13 +183,11 @@
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": "The Empire's remote bases develop new technology and hide sensitive projects from potential Rebel saboteurs.",
-    "Gametext": "Deploy on Bunker if you control that site. Your Force generation at Endor system may not be canceled. Once per turn, may [Download] an Endor site. Place Effect in Used Pile if opponent controls this site. [Immune to Alter.]",
+    "Gametext": "Deploy on Bunker if you control that site. Your Force generation at Endor system may not be canceled. Once per turn, may deploy from Reserve Deck (reshuffle) an Endor site. Place Effect in Used Pile if opponent controls this site. (Immune to Alter.)",
     "Icons": 0,
     "Information": "Original concept by Matt Sokol.",
     "IsPulled": "Endor Operations\\par Twi'lek Advisor\\par We Must Accelerate Our Plans\\par You Cannot Hide Forever\\par You Cannot Hide Forever & Mobilization Points",
-    "Rules": "(Errata) The game text 'Your Force generation at Endor system may not be canceled.' added.",
-    "Inventory": 0,
-    "Needs": 0,
+    "Rules": "(Errata, August 31, 2018) The game text 'Your Force generation at Endor system may not be canceled.' added.",
     "ExpansionV": "Endor",
     "Errata": 1
   },
@@ -219,12 +201,9 @@
     "Uniqueness": "*",
     "Destiny": 5,
     "Lore": "\"I think I got it.\"",
-    "Gametext": "Deploy on a location. Your Force generation is +1  here. Once per game, you may restore a just 'hit' starship to normal. Unless opponent occupies a  battleground site, Corellian Engineering Corporation is suspended. (Immune to Alter.)",
+    "Gametext": "Deploy on a location. Your Force generation is +1 here. Once per game, you may restore a just 'hit' starship to normal. Unless opponent occupies a  battleground site, Corellian Engineering Corporation is suspended. (Immune to Alter.)",
     "Icons": 0,
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans\\par You Cannot Hide Forever\\par You Cannot Hide Forever & Mobilization Points",
-    "Combo": "Hidden Base Objective + Twi'ilek Advisor + Security Precautions\\par -----\\par Security Precautions + Crossfire + Battle Order",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Endor"
   },
   {
@@ -233,20 +212,18 @@
     "Grouping": "Dark",
     "CardType": "Effect",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Rare",
+    "Rarity": "Common",
     "Uniqueness": "*",
     "Characteristics": "hologram",
     "Destiny": 7,
     "Lore": "\\b Hologram\\b0 .",
-    "Gametext": "Deploy on table. The Phantom Menace is canceled. You lose no Force to Kylo or Kylo's Lightsaber. If Kylo (or Kylo's Lightsaber) just lost, may place this Effect in Lost Pile to take that card into hand. [Immune to Alter.]",
+    "Gametext": "Deploy on table. The Phantom Menace is canceled. You lose no Force to Kylo or Kylo's Lightsaber. If Kylo (or Kylo's Lightsaber) just lost, may place this Effect in Lost Pile to take that card into hand. (Immune to Alter.)",
     "Icons": "Episode VII",
-    "Information": "Startable with Prepared Defenses.\\par \\par Original card: You Want This, Don't You?",
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: You Want This, Don't You?\\par \\par Startable with Prepared Defenses.",
     "IsPulled": "Masterful Move\\par Masterful Move & Endor Occupation\\par Twi'lek Advisor\\par We Must Accelerate Our Plans",
     "Rules": "(Errata) Instances of 'Kylo Ren' in game text changed to 'Kylo'.",
     "Cancels": "The Phantom Menace",
     "IsCanceledBy": "Out Of Commission & Transmission Terminated\\par Transmission Terminated",
-    "Inventory": 0,
-    "Needs": 0,
     "Errata": 1
   },
   {
@@ -264,17 +241,15 @@
     "Forfeit": 5,
     "Armor": 5,
     "Ability": 3,
-    "Gametext": "If about to be lost, may fire Bazes Cannon. Permanent weapon is Bazes Cannon (may target a character for free; draw destiny; add 1 if targeting a character of ability < 3; target hit, and its forfeit = 0, if destiny + 1 > defense value)",
+    "Gametext": "If about to be lost, may fire Bazes Cannon. Permanent weapon is [*)Bazes Cannon (may target a character for free; draw destiny; add 1 if targeting a character of ability < 3; target hit, and its forfeit = 0, if destiny + 1 > defense value)",
     "Icons": "Warrior, Permanent Weapon",
     "Warrior": 1,
     "PermanentWeapon": 1,
-    "Information": "Original card: Dresselian Commando",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "Original card: Dresselian Commando"
   },
   {
     "id": 5165,
-    "CardName": "Chirrut Imwe",
+    "CardName": "Chirrut Îmwe",
     "Grouping": "Light",
     "CardType": "Character",
     "Subtype": "Rebel",
@@ -287,23 +262,21 @@
     "Forfeit": 5,
     "Ability": 4,
     "ForceAptitude": "Force-Sensitive",
-    "Gametext": "If a battle was just initiated here, may peek at the top card of any Reserve Deck; return it or place it on top of owners Force Pile. If just lost, may take into hand from Reserve Deck (or retrieve) Baze reshuffle. Once per game, you may recirculate.",
+    "Gametext": "If a battle was just initiated here, may peek at the top card of any Reserve Deck; return it or place it on top of owner's Force Pile. If just lost, may take into hand from Reserve Deck (reshuffle) or retrieve Baze. Once per game, you may re-circulate.",
     "Icons": "Warrior",
     "Warrior": 1,
-    "Information": "Original card: Great Warrior ",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "Original card: Great Warrior "
   },
   {
     "id": 5166,
     "CardName": "Depa Billaba (V)",
     "Grouping": "Light",
     "CardType": "Character",
-    "Subtype": "Jedi",
+    "Subtype": "Jedi Master",
     "Expansion": "Virtual Card Set #7",
     "Rarity": "Rare",
     "Uniqueness": "*",
-    "Characteristics": "Jedi Council Member, female",
+    "Characteristics": "\\b Chalactan\\b0, \\b Jedi Council Member\\b0, female",
     "Destiny": 1,
     "Power": 4,
     "Deploy": 4,
@@ -311,11 +284,12 @@
     "Ability": 7,
     "ForceAptitude": "Jedi Master",
     "Lore": "Chalactan Jedi Master who was rescued by Mace Windu from space pirates when she was six months old. \\b Jedi Council member\\b0  who is renowned for her insights.",
-    "Gametext": "If at least two LS icons here, once during your control phase may draw top card of Reserve Deck. If at least two DS icons here, may forfeit in place of your hit non-Jedi character present with Depa (forfeit = 0), restoring that character to normal.",
-    "Icons": "Warrior",
+    "Gametext": "If at least two [Light Side Force icon] icons here, once during your control phase may draw top card of Reserve Deck. If at least two [Dark Side Force icon] icons here, may forfeit in place of your 'hit' non-Jedi character present with Depa (forfeit = 0), restoring that character to normal.",
+    "Icons": "Warrior, Episode 1",
     "Warrior": 1,
-    "Inventory": 0,
-    "Needs": 0
+    "Episode1": 1,
+    "Information": "Original concept by Camden Yanaga",
+    "ExpansionV": "Coruscant"
   },
   {
     "id": 5167,
@@ -324,9 +298,9 @@
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Rare",
+    "Rarity": "Rare2",
     "Uniqueness": "*",
-    "Characteristics": "female",
+    "Characteristics": "\\b Florn lamproid\\b0, female",
     "Destiny": 2,
     "Power": 2,
     "Deploy": 3,
@@ -334,9 +308,9 @@
     "Ability": 3,
     "ForceAptitude": "Force-Attuned",
     "Lore": "Female companion of Lak Sivrak. A Florn lamproid. Dangerous predator with a poison stinger. Rumored to have mysterious time-shifting attunement to the Force.",
-    "Gametext": "Power +2 at a Jabbas Palace or Endor site. If just lost, place Dice in Used Pile. If opponent is about to draw destiny for an Interrupt targetting your character here, opponent must first lose 1 force, then shuffle their Reserve Deck..",
-    "Inventory": 0,
-    "Needs": 0
+    "Gametext": "Power +2 at a Jabbas Palace or Endor site. If just lost, place Dice in Used Pile. If opponent is about to draw destiny for an Interrupt targeting your character here, opponent must first lose 1 Force, then shuffle their Reserve Deck.",
+    "Information": "Original concept by Darren Malins",
+    "ExpansionV": "Premiere"
   },
   {
     "id": 5168,
@@ -347,7 +321,7 @@
     "Expansion": "Virtual Card Set #7",
     "Rarity": "Rare",
     "Uniqueness": "*",
-    "Characteristics": "Alderaanian, \\b general, leader\\b0 , female",
+    "Characteristics": "\\b Alderaanian\\b0, \\b general\\b0 , \\b leader\\b0 , female",
     "Destiny": 1,
     "Power": 4,
     "Deploy": 4,
@@ -355,13 +329,11 @@
     "Ability": 5,
     "ForceAptitude": "Force-Sensitive",
     "Lore": "\\b Leader.\\b0",
-    "Gametext": "While at a war room or battleground, game text of Admirals Orders is suspended and whenever you initiate a battle with a Resistance character, retrieve 1 Force (2 if initiating against a First Order character). Immune to attrition < 4.",
-    "Icons": "Warrior",
+    "Gametext": "While at a war room or battleground, game text of Admiral's Orders is suspended and whenever you initiate a battle with a Resistance character, retrieve 1 Force (2 if initiating against a First Order character). Immune to attrition < 4.",
+    "Icons": "Warrior, Episode VII",
     "Warrior": 1,
-    "Information": "Original card: Reflection\\par -----\\par Leia Organa personas are:\\par \\par Boushh\\par Daughter Of Skywalker\\par Daughter Of Skywalker (V)\\par General Leia Organa\\par Leia\\par Leia (V)\\par Leia Organa\\par Leia Organa (V)\\par Leia With Blaster Rifle\\par Leia, Rebel Princess\\par Princess Leia\\par Princess Leia (V)\\par Princess Leia Organa\\par Princess Organa\\par Prisoner 2187",
-    "IsPulled": "Balanced Attack\\par I Know\\par Leia's Back\\par Rebel Leadership (V)\\par Seeking An Audience (V)\\par Strike Planning",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: Reflection\\par -----\\par Leia Organa personas are:\\par \\par Boushh\\par Daughter Of Skywalker\\par Daughter Of Skywalker (V)\\par General Leia Organa\\par Leia\\par Leia (V)\\par Leia Organa\\par Leia Organa (V)\\par Leia With Blaster Rifle\\par Leia, Rebel Princess\\par Princess Leia\\par Princess Leia (V)\\par Princess Leia Organa\\par Princess Organa\\par Prisoner 2187",
+    "IsPulled": "Balanced Attack\\par I Know\\par Leia's Back\\par Rebel Leadership (V)\\par Seeking An Audience (V)\\par Strike Planning"
   },
   {
     "id": 5169,
@@ -370,7 +342,7 @@
     "CardType": "Character",
     "Subtype": "Resistance",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Uncommon",
+    "Rarity": "Uncommon1",
     "Uniqueness": "*",
     "Destiny": 2,
     "Power": 4,
@@ -378,12 +350,10 @@
     "Forfeit": 5,
     "Ability": 3,
     "ForceAptitude": "Force-Attuned",
-    "Gametext": "May deploy -2 as a react to an Episode 7 site. At the end of each turn, you must use 2 Force, lose 2 Force, or return Ematt to your hand.",
-    "Icons": "Warrior",
+    "Gametext": "May deploy -2 as a react to an [Episode VII] site. At the end of each turn, you must use 2 Force, lose 2 Force, or return Ematt to your hand.",
+    "Icons": "Warrior, Episode VII",
     "Warrior": 1,
-    "Information": "Original card: General Dodonna",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: General Dodonna"
   },
   {
     "id": 5170,
@@ -399,12 +369,10 @@
     "Deploy": 2,
     "Forfeit": 4,
     "Ability": 2,
-    "Gametext": "If opponent just looked at cards in their deck or pile, after replacing, you may peek at the top card of that deck or pile. At the start of your control phase, if the top card of your Lost Pile is a Resistance character ot Republic starship, opponent loses 1 force.",
-    "Icons": "Warrior",
+    "Gametext": "If opponent just looked at cards in their deck or pile, after replacing, you may peek at the top card of that deck or pile. At the start of your control phase, if the top card of your Lost Pile is a Resistance character or [Resistance] starship, opponent loses 1 force.",
+    "Icons": "Warrior, Episode VII",
     "Warrior": 1,
-    "Information": "Original card: Major Olander Brit",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has an Episode VII icon. \\par \\par Original card: Major Olander Brit"
   },
   {
     "id": 5171,
@@ -413,9 +381,9 @@
     "CardType": "Character",
     "Subtype": "Rebel",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Common",
+    "Rarity": "Uncommon",
     "Uniqueness": "*",
-    "Characteristics": "\\b gunner\\b0 , Rogue Squadron pilot",
+    "Characteristics": "\\b gunner\\b0 , Gray squadron, Rogue squadron",
     "Destiny": 3,
     "Power": 2,
     "Deploy": 2,
@@ -427,8 +395,7 @@
     "Pilot": 1,
     "Warrior": 1,
     "Matching": "Artoo-Detoo In Red 5\\par Blue Squadron 5\\par Gold 1\\par Gold 2\\par Gold 3\\par Gold 4\\par Gold 5\\par Gold 6\\par Gray Squadron 1\\par Gray Squadron 2\\par Green Squadron 1\\par Green Squadron 3\\par Overseer\\par Red 1\\par Red 1 (V)\\par Red 2\\par Red 3\\par Red 5\\par Red 6\\par Red 7\\par Red 8\\par Red 9\\par Red 10\\par Red Squadron 1\\par Red Squadron 4\\par Red Squadron 7\\par Tala 1\\par Tala 2",
-    "Inventory": 0,
-    "Needs": 0,
+    "Information": "Original concept by Bill Kafer",
     "ExpansionV": "Death Star II"
   },
   {
@@ -436,7 +403,7 @@
     "CardName": "Yoda (V)",
     "Grouping": "Light",
     "CardType": "Character",
-    "Subtype": "Jedi",
+    "Subtype": "Jedi Master",
     "Expansion": "Virtual Card Set #7",
     "Rarity": "Rare",
     "Uniqueness": "*",
@@ -449,8 +416,7 @@
     "Lore": "Help you I can, yes. For 800 years have I trained Jedi. Judge me by my size do you? Mm? And well you should not! For my ally is the Force... and a powerful ally it is.",
     "Gametext": "May deploy to Dagobah. Prevents attacks at same Dagobah site. Your training destiny draws are +1. If Great Warrior on table, once per turn may take your just-drawn destiny into hand to cancel and redraw that destiny. Immune to attrition.",
     "Icons": 0,
-    "Inventory": 0,
-    "Needs": 0,
+    "Information": "Original concept by Jonathan Wilkerson",
     "ExpansionV": "Dagobah"
   },
   {
@@ -463,13 +429,12 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 4,
-    "Lore": "'Not this ship, sister.'",
-    "Gametext": "Cancel Program Trap; droid it was deployed on may be taken into owner's hand. (immune to sense) OR Add or subtract 1 from opponents just drawn destiny. OR Activate 1 Force.",
+    "Lore": "\"Not this ship, sister.\"",
+    "Gametext": "Cancel Program Trap; droid it was deployed on may be taken into owner's hand. (Immune to Sense.) OR Add or subtract 1 from opponent's just drawn destiny. OR Activate 1 Force.",
     "Icons": 0,
     "Counterpart": "A Dark Time For The Rebellion (V)",
     "Cancels": "Program Trap",
-    "Inventory": 0,
-    "Needs": 0,
+    "Information": "Original concept by Tom Kelly",
     "ExpansionV": "Special Edition"
   },
   {
@@ -479,9 +444,9 @@
     "CardType": "Character",
     "Subtype": "Rebel",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Common",
+    "Rarity": "Common2",
     "Uniqueness": "*",
-    "Characteristics": "Mandalorian, \\b scout\\b0 , female",
+    "Characteristics": "\\b Mandalorian\\b0 , \\b scout\\b0 , female",
     "Destiny": 2,
     "Power": 4,
     "Deploy": 3,
@@ -492,11 +457,9 @@
     "Gametext": "Once per turn, when firing a blaster or rifle, may target for free and add 2 to total weapon destiny. While with an Imperial (or two Rebels), whenever you win a battle here, opponent loses 2 Force. Immune to Hidden Weapons.",
     "Icons": "Pilot, Warrior x 2",
     "Pilot": 1,
-    "Warrior": 1,
+    "Warrior": 2,
     "Information": "Original card: Infantry Mine",
-    "IsPulled": "General Crix Madine",
-    "Inventory": 0,
-    "Needs": 0
+    "IsPulled": "General Crix Madine"
   },
   {
     "id": 5175,
@@ -507,11 +470,10 @@
     "Rarity": "Rare",
     "Uniqueness": "*",
     "Destiny": 3,
-    "Gametext": "Deploy on table. Your Force generation is +1 at docking bays you occupy. Once per game, may take one Dantooine, Mon Calamari, or Yavin 4 system or Profundity into hand from Reserve Deck; reshuffle. Staging Areas is canceled. (Immune to Alter)",
+    "Lore": " ",
+    "Gametext": "Deploy on table. Your Force generation is +1 at docking bays you occupy. Once per game, may take into hand from Reserve Deck (reshuffle) one Dantooine, Mon Calamari, or Yavin 4 system or \\ul Profundity\\ul0 . Staging Areas is canceled. (Immune to Alter.)",
     "Information": "Original card: Haven",
-    "Pulls": "Dantooine\\par Mon Calamari\\par Yavin 4\\par Profundity",
-    "Inventory": 0,
-    "Needs": 0
+    "Pulls": "Dantooine\\par Mon Calamari\\par Yavin 4\\par Profundity"
   },
   {
     "id": 5176,
@@ -520,15 +482,14 @@
     "CardType": "Interrupt",
     "Subtype": "Used",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Common",
+    "Rarity": "Common2",
     "Uniqueness": "*",
     "Destiny": 4,
+    "Lore": " ",
     "Gametext": "If your female character is defending a battle alone at a site, add one destiny to total power (if Rey, she is also immune to attrition). OR Cancel a weapon destiny targeting your female character. OR Add 1 to your Force drain where you have a female character.",
     "Icons": "Episode VII",
-    "Information": "Original card: It Could Be Worse",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Premiere"
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: It Could Be Worse\\par \\par Errata March 2019, renamed from I Can Take Care Of Myself",
+    "Errata": 1
   },
   {
     "id": 5177,
@@ -540,12 +501,11 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 4,
-    "Gametext": "USED: Deploy Ghost and Hera simultaneously from your hand and/or Reserve Deck (for -1 Force each). LOST: If Chopper, Ezra, Hera, Kanan, Sabine, or Zeb in a battle, they each add 1 to your total battle destiny.",
+    "Lore": " ",
+    "Gametext": "USED: Deploy \\ul Ghost\\ul0 and Hera simultaneously (for -1 Force each) from your hand and/or Reserve Deck; reshuffle. LOST: If Chopper, Ezra, Hera, Kanan, Sabine, or Zeb in a battle, they each add 1 to your total battle destiny.",
     "Icons": 0,
     "Information": "Original card: Moving To Attack Position",
-    "Pulls": "Captain Hera Syndulla\\par Ghost",
-    "Inventory": 0,
-    "Needs": 0
+    "Pulls": "Captain Hera Syndulla\\par Ghost"
   },
   {
     "id": 5178,
@@ -555,9 +515,9 @@
     "Subtype": "Starfighter",
     "ModelType": "Modified VCX Freighter",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Common",
+    "Rarity": "Uncommon",
     "Uniqueness": "*",
-    "Characteristics": "Rebel (starship)",
+    "Characteristics": "Rebel (starship), ship-docking capability, Phoenix squadron",
     "Destiny": 2,
     "Power": 4,
     "Deploy": 3,
@@ -565,16 +525,14 @@
     "Hyperspeed": 5,
     "Maneuver": 4,
     "Lore": "Phoenix Squadron.",
-    "Gametext": "May add 2 pilots, 3 passengers, and \\ul Phantom\\ul0 . Has ship-docking capability. May deploy \\ul Phantom\\ul0  here from Reserve Deck; reshuffle. While Hera piloting, immune to attrition < 5 (may not be canceled).",
+    "Gametext": "May add 2 pilots, 3 passengers, and \\ul Phantom\\ul0 . Has ship-docking capability. May deploy from Reserve Deck (reshuffle) \\ul Phantom\\ul0 here. While Hera piloting, immune to attrition < 5 (may not be canceled).",
     "Icons": "Astromech, Scomp Link",
     "Astromech": 1,
     "ScompLink": 1,
     "Information": "Original card: Gold 3",
     "Pulls": "Phantom",
     "IsPulled": "All Wings Report In & Darklighter Spin\\par This Is MY Ship!",
-    "Matching": "Captain Hera Syndulla",
-    "Inventory": 0,
-    "Needs": 0
+    "Matching": "Captain Hera Syndulla"
   },
   {
     "id": 5179,
@@ -594,15 +552,13 @@
     "Armor": 7,
     "Ability": 2,
     "Hyperspeed": 3,
-    "Gametext": "Deploys -2 to a system opponent occupies (-4 if opponents' system). May add 6 pilots, 8 passengers, 3 starfighters, 3 vehicles, and 1 corvette. Permanent pilot provides ability of 2.",
+    "Gametext": "Deploys -2 to a system opponent occupies (-4 if opponent's system). May add 6 pilots, 8 passengers, 3 starfighters, 3 vehicles, and 1 corvette. Permanent pilot provides ability of 2.",
     "Icons": "Pilot, Astromech, Scomp Link",
     "Pilot": 1,
     "Astromech": 1,
     "ScompLink": 1,
     "Information": "Original card: Nebulon-B Frigate",
-    "IsPulled": "Rebellions Are Built On Hope",
-    "Inventory": 0,
-    "Needs": 0
+    "IsPulled": "Rebellions Are Built On Hope"
   },
   {
     "id": 5180,
@@ -623,10 +579,8 @@
     "Planet": 1,
     "Exterior": 1,
     "ScompLink": 1,
-    "Information": "Original card: Tatooine: Desert",
-    "IsPulled": "Firin Morett\\par Insurrection\\par Insurrection & Aim High\\par Mindful Of The Future\\par Security Control",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "This card has an Episode VII icon.\\par \\par Original card: Tatooine: Desert",
+    "IsPulled": "Firin Morett\\par Insurrection\\par Insurrection & Aim High\\par Mindful Of The Future\\par Old Allies\\par Security Control"
   },
   {
     "id": 5181,
@@ -635,16 +589,15 @@
     "CardType": "Weapon",
     "Subtype": "Character",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Uncommon",
+    "Rarity": "Uncommon1",
     "Uniqueness": "*",
     "Characteristics": "rifle",
     "Destiny": 5,
     "Lore": "Czerka 6-2Aug2. Extended barrel provides long-range targeting without expensive laser sight. Sturdy construction, but no match for a Tusken Raider's gaderffi stick.",
     "Gametext": "Deploy on your alien or Rebel. May target a character or creature for free. Draw destiny. Target hit if destiny +2 > defense value. If hit by Luke or Owen, target's forfeit = 0 and you retrieve 1 Force. Once during your move phase, may fire at a Jawa or Undercover spy.",
     "Icons": 0,
-    "MatchingWeapon": "Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Luke\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Son Of Skywalker\\par Young Skywalker\\par Owen Lars\\par Owen & Beru Lars",
-    "Inventory": 0,
-    "Needs": 0,
+    "Information": "Original concept by Troy Biesterfeld",
+    "MatchingWeapon": "Commander Luke Skywalker\\par Commander Luke Skywalker (V)\\par Luke\\par Luke Skywalker\\par Luke Skywalker (V)\\par Luke Skywalker, Jedi Knight\\par Luke Skywalker, Rebel Scout\\par Luke Skywalker, Rebel Scout (V)\\par Luke Skywalker, The Rebellion's Hope\\par Luke With Lightsaber\\par Master Luke\\par Son Of Skywalker\\par Owen Lars\\par Owen & Beru Lars"
     "ExpansionV": "A New Hope"
   },
   {
@@ -654,15 +607,14 @@
     "CardType": "Interrupt",
     "Subtype": "Lost",
     "Expansion": "Virtual Card Set #7",
-    "Rarity": "Rare",
-    "Uniqueness": "*",
+    "Rarity": "Rare1",
     "Characteristics": "hologram",
     "Destiny": 3,
     "Lore": "Leia sent a \\b hologram\\b0  plea, \"General Kenobi, years ago you served my father in the Clone Wars. Now he begs you to help him in his struggle against the Empire.\"",
-    "Gametext": "During battle, target an opponent's character of ability < 2 present with your Jedi; target is excluded from battle. OR Cancel a 'react.' OR If Obi-Wan is at a battleground site, and your Rebel or Republic character (or Leia) is in battle at another location, add one battle destiny. ",
+    "Gametext": "During battle, target an opponent's character of ability < 2 present with your Jedi; target is excluded from battle. OR Cancel a 'react.' OR If Obi-Wan is at a battleground site, and your Rebel or Republic character (or Leia) is in battle at another location, add one battle destiny.",
     "Icons": 0,
     "IsPulled": "Holoprojector",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "Original concept by Michael Erisman",
+    "ExpansionV": "Premiere"
   }
 ]
