@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.Immutable;
 using System.Data.SQLite;
 using System.IO;
 using System.Linq;
@@ -30,6 +31,9 @@ namespace SwIpDumper
                         using (var reader = command.ExecuteReader())
                         {
                             var cardData = new Dictionary<string, List<Dictionary<string, object>>>();
+                            var skipColumns = ImmutableHashSet.Create(
+                                reader.GetOrdinal("Inventory"),
+                                reader.GetOrdinal("Needs"));
 
                             while (reader.Read())
                             {
@@ -37,14 +41,17 @@ namespace SwIpDumper
 
                                 for (int i = 0; i < reader.FieldCount; ++i)
                                 {
-                                    var content = reader[i].ToString() ?? string.Empty;
-                                    
-                                    if (!string.IsNullOrWhiteSpace(content))
+                                    if (!skipColumns.Contains(i))
                                     {
-                                        if (double.TryParse(content, out var asDouble))
-                                            row.Add(reader.GetName(i), asDouble);
-                                        else
-                                            row.Add(reader.GetName(i), content);
+                                        var content = reader[i].ToString() ?? string.Empty;
+                                        
+                                        if (!string.IsNullOrWhiteSpace(content))
+                                        {
+                                            if (double.TryParse(content, out var asDouble))
+                                                row.Add(reader.GetName(i), asDouble);
+                                            else
+                                                row.Add(reader.GetName(i), content);
+                                        }
                                     }
                                 }
 
