@@ -16,17 +16,15 @@
     "Armor": 5,
     "Ability": 3,
     "Lore": "Feared \\b bounty hunter\\b0. Collected bounties on Solo from both the Empire and Jabba the Hutt. Took exquisite pleasure in using Solo's friend to capture him.",
-    "Gametext": "Adds 3 to power of anything he pilots. Deploys -1 aboard Slave I. Adds one battle destiny with Vader (or while piloting Slave I). Once per game, if a battle was just initiated here, may exchange a card in hand with a card in Reserve Deck; reshuffle.",
+    "Gametext": "Adds 3 to power of anything he pilots. Deploys -1 aboard \\ul Slave I\\ul0 . Adds one battle destiny with Vader (or while piloting \\ul Slave I\\ul0 ). Once per game, if a battle was just initiated here, may exchange a card in hand with a card in Reserve Deck; reshuffle.",
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Boba Fett personas are:\\par \\par Boba Fett\\par Boba Fett (CC)\\par Boba Fett (CC) (V)\\par [Boba Fett In Slave I]\\par [Boba Fett In Slave I (V)]\\par Boba Fett With Blaster Rifle\\par Boba Fett, Bounty Hunter",
+    "Information": "Boba Fett personas are:\\par \\par Boba Fett\\par Boba Fett (CC)\\par Boba Fett (CC) (V)\\par Boba Fett In Slave I\\par Boba Fett In Slave I (V)\\par Boba Fett With Blaster Rifle\\par Boba Fett, Bounty Hunter",
     "IsPulled": "Double Back\\par Double Back (V)\\par Jango Fett",
     "Combo": "Boba Fett + Lyn Me\\par Free deployment of Boba Fett at her site.\\par -----\\par Boba Fett + Res Luk Ra'auf\\par Add two battle destinies if Boba Fett is defending a battle alone.",
     "Matching": "Slave I\\par Slave I, Symbol of Fear",
     "MatchingWeapon": "Boba Fett's Blaster Rifle\\par Boba Fett's Blaster Rifle (V)",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Cloud City"
   },
   {
@@ -38,7 +36,7 @@
     "Expansion": "Virtual Card Set #6",
     "Rarity": "Uncommon",
     "Uniqueness": "***",
-    "Characteristics": "\\b stormtrooper, trooper\\b0",
+    "Characteristics": "\\b death trooper\\b0, \\b stormtrooper\\b0, \\b trooper\\b0",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -50,9 +48,7 @@
     "Icons": "Warrior",
     "Warrior": 1,
     "Information": "Original card: Major Rhymer.\\par \\par Original concept by Ryan R.",
-    "IsPulled": "Blizzard 4",
-    "Inventory": 0,
-    "Needs": 0
+    "IsPulled": "Blizzard 4"
   },
   {
     "id": 5142,
@@ -63,7 +59,7 @@
     "Expansion": "Virtual Card Set #6",
     "Rarity": "Premium",
     "Uniqueness": "*",
-    "Characteristics": "ISB agent, \\b general, leader\\b0",
+    "Characteristics": "\\b ISB agent\\b0, \\b general\\b0, \\b leader\\b0, Blizzard squadron",
     "Destiny": 1,
     "Power": 3,
     "Deploy": 3,
@@ -71,15 +67,13 @@
     "Ability": 3,
     "ForceAptitude": "Force-Attuned",
     "Lore": "General of the AT-AT assault armor division sent by Darth Vader to crush the Rebellion on Hoth. Cold and ruthless.",
-    "Gametext": "Adds 3 to power of anything he pilots. Leader. \\ul Once per turn, may reveal from hand to deploy 6th Marker or Blizzard 1 to Hoth from Reserve Deck; reshuffle.\\ul0  Deploys free aboard Blizzard 1. While piloting Blizzard 1, adds one destiny to total power.",
+    "Gametext": "Adds 3 to power of anything he pilots. Leader. \\ul Once per turn, may reveal from hand to deploy from Reserve Deck (reshuffle) 6th Marker or Blizzard 1 to Hoth.\\ul0  Deploys free aboard Blizzard 1. While piloting Blizzard 1, adds one destiny to total power.",
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Veers personas are:\\par \\par General Veers\\par General Veers (V)\\par Veers\\par Veers (V)",
+    "Information": "Re-released in Virtual Set 12 \"Tweak Set\". Original text: \\par Adds 3 to power of anything he pilots. Leader. Once per game, if at a Hoth location, may take into hand from Reserve Deck (reshuffle) Prepare For A Surface Attack, a [Hoth] combat vehicle, or an exterior marker site.\\par \\par Original concept by James Barnes\\par -----\\par Veers personas are:\\par \\par General Veers\\par General Veers (V)\\par Veers\\par Veers (V)",
     "Pulls": "Prepare For A Surface Attack\\par Blizzard 1\\par Blizzard 2\\par Blizzard 2 (V)\\par Blizzard Scout 1\\par Blizzard Scout 2 (V)\\par Blizzard Walker\\par Hoth: Defensive Perimeter\\par Hoth: Ice Plains\\par Hoth: Ice Plains (V)\\par Hoth: Mountains\\par Hoth: North Ridge",
     "IsPulled": "Blizzard 4\\par Endor Shield (V)\\par Imperial Command",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Hoth 2 Player"
   },
   {
@@ -92,7 +86,7 @@
     "Expansion": "Virtual Card Set #6",
     "Rarity": "Rare1",
     "Uniqueness": "*",
-    "Characteristics": "Imperial (starship)",
+    "Characteristics": "Imperial (starship), Black squadron",
     "Destiny": 2,
     "Power": 2,
     "Deploy": 2,
@@ -103,11 +97,10 @@
     "Gametext": "May add 1 pilot. Vader deploys -2 aboard. While Vader piloting, immune to attrition < 5, and during battle, may cancel game text of a passenger (or pilot of ability < 4) here.",
     "Icons": "Astromech",
     "Astromech": 1,
-    "Information": "Original concept by Troy Biesterfeld.\\par \\par Evader relocates Vader's Custom TIE to Used Pile if just lost.\\par -----\\par Vader's Custom TIE personas are:\\par \\par Death Star Assault Squadron\\par Vader's Custom TIE \\par Vader's Custom TIE (V)",
+    "Information": "Original concept by Troy Biesterfeld.\\par \\par Re-released in Virtual Set 12 \"Tweak Set\". Original text: \\par May add 1 pilot. Non-[Virtual Set 0] Vader deploys -2 aboard. While Vader piloting, immune to attrition < 5 and once per battle, may cancel game text of opponent's pilot aboard a starfighter here.\\par \\par Evader relocates Vader's Custom TIE to Used Pile if just lost.\\par -----\\par Vader's Custom TIE personas are:\\par \\par Death Star Assault Squadron\\par Vader's Custom TIE \\par Vader's Custom TIE (V)",
     "IsPulled": "Commander Brandei\\par Short Range Fighters & Watch Your Back!",
     "Matching": "Darth Vader\\par Darth Vader (V)\\par Darth Vader With Lightsaber\\par Darth Vader, Dark Lord Of The Sith\\par Darth Vader, Emperor's Enforcer\\par Lord Vader",
-    "Inventory": 0,
-    "Needs": 0
+    "ExpansionV": "Premiere"
   },
   {
     "id": 5144,
@@ -119,13 +112,12 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 3,
-    "Gametext": "Use 1 Force to deploy on opponent's just deployed character at same site as a Black Sun agent; character may not battle this turn. If character is about to leave table or be captured, peek at opponent's hand, retrieve 1 Force, and lose Immediate Effect.",
+    "Lore": " ",
+    "Gametext": "Use 1 Force to deploy on opponent's just deployed character at same site as a Black Sun agent; character may not battle this turn. If character is about to leave table or be captured, peek at opponent's hand, retrieve 1 Force, and lose this Immediate Effect.",
     "Icons": 0,
-    "Information": "Original concept by Marvin Tegeler.",
+    "Information": "Original card: Fear\\par \\par Original concept by Marvin Tegeler.",
     "IsPulled": "Fanfare\\par Fanfare - Defensive Shield\\par Fanfare (V) - Defensive Shield\\par Sonic Bombardment (V)\\par Twi'lek Advisor\\par We Must Accelerate Our Plans",
-    "IsCanceledBy": "Control\\par Control & Tunnel Vision",
-    "Inventory": 0,
-    "Needs": 0
+    "IsCanceledBy": "Control\\par Control & Tunnel Vision"
   },
   {
     "id": 5145,
@@ -138,12 +130,10 @@
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": "Darth Vader authorized the bounty hunters to use any means at their disposal to find and capture the \\ul Millennium Falcon\\ul0  - not that they needed any encouragement.",
-    "Gametext": "If Jodo Kast or your Fett was just targeted by a weapon, cancel the targeting. Place weapon (unless [Permanent Weapon]) in owner's Used Pile. OR Take into hand (or deploy as a 'react') from Reserve deck: Binders, Jet Pack, Mandalorian Armor, or a blaster rifle; reshuffle.",
+    "Gametext": "If Jodo Kast or your Fett was just targeted by a weapon, cancel the targeting and place weapon (unless a [Permanent Weapon]) in owner's Used Pile. OR Take into hand from Reserve Deck (reshuffle) (or deploy from Reserve Deck (reshuffle) as a 'react'): Binders, Jet Pack, Mandalorian Armor, or a blaster rifle.",
     "Icons": 0,
-    "Information": "Original concept by Jeremy Gardener.",
+    "Information": "Original concept by Jeremy Gardner.",
     "Pulls": "Binders\\par Jet Pack\\par Mandalorian Armor\\par 4-LOM's Concussion Rifle\\par Assault Rifle\\par Aurra Sing's Blaster Rifle\\par Battle Droid Blaster Rifle\\par Blaster Rifle\\par Blaster Rifle (V)\\par Boba Fett's Blaster Rifle\\par Boba Fett's Blaster Rifle (V)\\par F-11D Blaster Rifle\\par Light Repeating Blaster Rifle\\par Naboo Blaster Rifle",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Enhanced Cloud City"
   },
   {
@@ -153,23 +143,22 @@
     "CardType": "Character",
     "Subtype": "Rebel",
     "Expansion": "Virtual Card Set #6",
-    "Rarity": "Rare2",
+    "Rarity": "Common",
     "Uniqueness": "*",
-    "Characteristics": "\\b gambler\\b0, Rogue Squadron pilot, \\b spy\\b0",
+    "Characteristics": "\\b gambler\\b0, \\b spy\\b0, Rogue squadron",
     "Destiny": 2,
     "Power": 2,
     "Deploy": 2,
     "Forfeit": 4,
     "Ability": 2,
     "Lore": "\\b Gambler\\b0  and \\b spy\\b0.",
-    "Gametext": "Adds 2 to power of anything he pilots, 3 if Rogue One or a stolen starship. May be deployed simultaneously with a piloted starship from hand to a system, even without presence or Force icons. If about to be lost, your Rebel or Rebel starship at a related location may make a regular move.",
+    "Gametext": "Adds 2 to power of anything he pilots, 3 if Rogue One or a stolen starship. May be deployed simultaneously with a piloted starship from hand to a system even without presence or Force icons. If about to be lost, your Rebel or Rebel starship at a related location may make a regular move.",
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
+    "Information": "Original card: Bothan Spy",
     "Matching": "Rogue One\\par Stolen First Order TIE\\par Tydirium",
-    "Rules": "Note that any vehicle or starship with the word 'stolen' in title is always considered to be a stolen vehicle or starship respectively, regardless of owner. Also, any card with 'Stolen' in title is still considered to be 'just stolen' whenever a player steals it.",
-    "Inventory": 0,
-    "Needs": 0
+    "Rules": "Note that any vehicle or starship with the word 'stolen' in title is always considered to be a stolen vehicle or starship respectively, regardless of owner. Also, any card with 'Stolen' in title is still considered to be 'just stolen' whenever a player steals it."
   },
   {
     "id": 5147,
@@ -193,8 +182,6 @@
     "Information": "Original concept by Keith Brown.",
     "IsPulled": "General Crix Madine",
     "Counterpart": "Greedo (V)",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Hoth"
   },
   {
@@ -206,7 +193,7 @@
     "Expansion": "Virtual Card Set #6",
     "Rarity": "Common2",
     "Uniqueness": "*",
-    "Characteristics": "\\b information broker, spy\\b0",
+    "Characteristics": "\\b information broker\\b0, \\b spy\\b0",
     "Destiny": 2,
     "Power": 4,
     "Deploy": 4,
@@ -217,8 +204,7 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "Original card: Rebel Commander"
   },
   {
     "id": 5149,
@@ -240,9 +226,7 @@
     "Gametext": "May deploy to a site as an Undercover spy. Draws one battle destiny if unable to otherwise. If just lost, may peek at opponent's hand.",
     "Icons": "Warrior",
     "Warrior": 1,
-    "Information": "Original concept by Casey Anis.",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "Original card: Beru Lars\\par \\par Original concept by Casey Anis."
   },
   {
     "id": 5150,
@@ -261,14 +245,13 @@
     "Forfeit": 4,
     "Armor": 4,
     "Lore": "\\b Spy\\b0 .",
-    "Gametext": "Adds 2 to power of anything he pilots. Draws one battle destiny if unable to otherwise. While with Cassian, attrition against opponent is +1 here. If just lost, place out of play; if lost from a site, opponent may not move from there for remainder of turn. ",
+    "Gametext": "Adds 2 to power of anything he pilots. Draws one battle destiny if unable to otherwise. While with Cassian, attrition against opponent is +1 here. If just lost, place out of play; if lost from a site, opponent may not move from there for remainder of turn.",
     "Icons": "Pilot, Presence, Warrior",
     "Pilot": 1,
     "Warrior": 1,
     "Droid": 1,
     "IsPulled": "I've Got A Bad Feeling About...",
-    "Inventory": 0,
-    "Needs": 0
+    "Information": "Original card: ASP-707 (Ayesspee)"
   },
   {
     "id": 5151,
@@ -279,13 +262,12 @@
     "Rarity": "Rare",
     "Uniqueness": "*",
     "Destiny": 5,
+    "Lore": " ",
     "Gametext": "Deploy on table. Whenever you lose Force (except from a Force drain or your card) during opponent's control phase, unless opponent occupies more battlegrounds than you, may reduce loss (to a minimum of 1) by the number of battlegrounds you occupy. (Immune to Alter.)",
     "Icons": 0,
-    "Information": "Startable with Heading For The Medical Frigate.",
+    "Information": "Original card: Imperial Atrocity\\par \\par Startable with Heading For The Medical Frigate.",
     "IsPulled": "The Signal\\par We Wish To Board At Once",
-    "Counterpart": "Imperial Decree (V)",
-    "Inventory": 0,
-    "Needs": 0
+    "Counterpart": "Imperial Decree (V)"
   },
   {
     "id": 5152,
@@ -297,7 +279,7 @@
     "Expansion": "Virtual Card Set #6",
     "Rarity": "Uncommon2",
     "Uniqueness": "*",
-    "Characteristics": "Rebel (starship)",
+    "Characteristics": "Rebel (starship), Rogue squadron",
     "Destiny": 3,
     "Power": 2,
     "Deploy": 3,
@@ -308,11 +290,9 @@
     "Icons": "Scomp Link, Astromech",
     "Astromech": 1,
     "ScompLink": 1,
-    "Information": "Original card: Medium Transport.",
+    "Information": "Original card: Medium Transport",
     "IsPulled": "All Wings Report In & Darklighter Spin",
-    "Matching": "Bodhi Rook",
-    "Inventory": 0,
-    "Needs": 0
+    "Matching": "Bodhi Rook\\par Admiral Raddus"
   },
   {
     "id": 5153,
@@ -332,13 +312,11 @@
     "Hyperspeed": 6,
     "Maneuver": 4,
     "Gametext": "May add 2 pilots and 2 passengers. Once per game, during your move phase, may make an additional move. While [Episode VII] Chewie, [Episode VII] Han, or Rey piloting, maneuver = 6 and immune to attrition < 5.",
-    "Icons": "Astromech, Episode VII, Scomp Link",
+    "Icons": "Astromech, Episode VII, Scomp Link, Resistance",
     "Astromech": 1,
     "ScompLink": 1,
-    "Information": "Original card: Gold Squadron 1.\\par \\par This card has an [Episode VII] and a Resistance icon.Millennium Falcon personas are:\\par \\par Gold Squadron 1\\par [Han, Chewie, And The Falcon]\\par [Han, Chewie, And The Falcon (V)]\\par Lando In Millennium Falcon\\par Millennium Falcon\\par The Falcon\\par The Falcon, Junkyard Garbage (Starship)\\par The Falcon, Junkyard Garbage (Vehicle)\\par -----\\par Surface Defense Cannon deploys free aboard Millennium Falcon.",
+    "Information": "This card has an [Episode VII] icon and a Resistance (starship) icon.\\par \\par Original card: Gold Squadron 1\\par \\par Millennium Falcon personas are:\\par \\par Gold Squadron 1\\par Han, Chewie, And The Falcon\\par Han, Chewie, And The Falcon (V)\\par Lando In Millennium Falcon\\par Millennium Falcon\\par The Falcon\\par The Falcon, Junkyard Garbage (Starship)\\par The Falcon, Junkyard Garbage (Vehicle)\\par -----\\par Surface Defense Cannon deploys free aboard Millennium Falcon.",
     "IsPulled": "All Wings Report In & Darklighter Spin\\par Life Debt",
-    "Matching": "Artoo & Threepio\\par Captain Han Solo\\par Chewbacca\\par Chewbacca Of Kashyyyk\\par Chewbacca, Protector\\par Chewie\\par Chewie (V)\\par Chewie With Blaster Rifle\\par Chewie With Bowcaster\\par Chewie, Enraged\\par General Solo\\par General Solo (V)\\par Han\\par Han (V)\\par Han Solo\\par Han With Heavy Blaster Pistol\\par Lando Calrissian\\par Lando Calrissian, Scoundrel\\par Rey\\par Solo",
-    "Inventory": 0,
-    "Needs": 0
+    "Matching": "Artoo & Threepio\\par Captain Han Solo\\par Chewbacca\\par Chewbacca Of Kashyyyk\\par Chewbacca, Protector\\par Chewie\\par Chewie (V)\\par Chewie With Blaster Rifle\\par Chewie With Bowcaster\\par Chewie, Enraged\\par General Solo\\par General Solo (V)\\par Han\\par Han (V)\\par Han Solo\\par Han With Heavy Blaster Pistol\\par Lando Calrissian\\par Lando Calrissian, Scoundrel\\par Rey\\par Rey With Lightsaber\\par Solo"
   }
 ]
