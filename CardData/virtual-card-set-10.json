@@ -225,6 +225,7 @@
     "Forfeit": 6,
     "Armor": 5,
     "Hyperspeed": 4,
+    "Ability": 2,
     "Lore": "Flying fortress of Jabba Desilijic Tiure. Reaches speeds of 800 kph in atmosphere. The crime lord installed hidden gunports as an unpleasant surprise for would-be pirates.",
     "Gametext": "May add 1 alien pilot and 6 passengers. Permanent pilot provides ability of 2. When deployed, you may deploy from Reserve Deck (reshuffle) an alien leader aboard for free. Immune to attrition < 5.",
     "Icons": "Independent, Pilot, Astromech, Scomp Link",
