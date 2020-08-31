@@ -1102,6 +1102,7 @@
     "Forfeit": 5,
     "Hyperspeed": 4,
     "Maneuver": 5,
+    "Ability": 2,
     "Gametext": "Permanent pilot is (*]Tallie, who provides ability of 2. May move as a 'react' to same location as your [Episode VII] character. Characters here may not have their forfeit increased above their printed value.",
     "Icons": "Astromech, Episode VII, Scomp Link, Resistance, Pilot",
     "Pilot": 1,
