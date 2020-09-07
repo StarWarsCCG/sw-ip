@@ -246,10 +246,10 @@
     "Armor": 4,
     "Lore": "\\b Spy\\b0 .",
     "Gametext": "Adds 2 to power of anything he pilots. Draws one battle destiny if unable to otherwise. While with Cassian, attrition against opponent is +1 here. If just lost, place out of play; if lost from a site, opponent may not move from there for remainder of turn.",
-    "Icons": "Pilot, Presence, Warrior",
+    "Icons": "Pilot, Droid, Warrior",
+    "Droid": 1,
     "Pilot": 1,
     "Warrior": 1,
-    "Droid": 1,
     "IsPulled": "I've Got A Bad Feeling About...",
     "Information": "Original card: ASP-707 (Ayesspee)"
   },
