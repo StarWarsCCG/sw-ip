@@ -17,9 +17,9 @@
     "Armor": 4,
     "Lore": "Assassin. Trade Federation.",
     "Gametext": "Grievous is defense value +2 here. While aboard \\ul Invisible Hand\\ul0 , draws one battle destiny if unable to otherwise and characters here are immune to Clash Of Sabers.",
-    "Icons": "Warrior, Presence, Separatist, Episode 1",
-    "Warrior": 1,
+    "Icons": "Warrior, Droid, Separatist, Episode 1",
     "Droid": 1,
+    "Warrior": 1,
     "Episode1": 1,
     "Information": "This card has a Separatist icon.\\par \\par Original card: CZ-4",
     "IsPulled": "A Stunning Move\\par Naboo: Theed Palace Hallway\\par There They Are!"
