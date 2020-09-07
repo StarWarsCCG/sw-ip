@@ -546,8 +546,8 @@
     "Gametext": "Subtracts 1 from opponent's battle destiny draws here. During any deploy phase, if a Padawan or a Sith character at an adjacent site, Ahsoka may move to that site (using landspeed) as a regular move. Immune to [Permanent Weapon] weapons and attrition < 5.",
     "Icons": "Pilot, Warrior x 2",
     "Pilot": 1,
-    "Warrior": 2,
-    "Information": "Original card: Anoat Operative (Light)"
+    "Warrior": 1,
+    "Information": "This card has 2 Warrior icons.\\par \\par Original card: Anoat Operative (Light)"
   },
   {
     "id": 5361,
