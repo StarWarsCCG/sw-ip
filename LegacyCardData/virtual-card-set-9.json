@@ -1,6 +1,6 @@
 [
   {
-    "id": 3613,
+    "id": 3618,
     "CardName": "Captain Khurgee (V9)",
     "Grouping": "Dark",
     "CardType": "Character",
@@ -26,7 +26,7 @@
     "ExpansionV": "A New Hope"
   },
   {
-    "id": 3613,
+    "id": 3619,
     "CardName": "Count Dooku (V9)",
     "Grouping": "Dark",
     "CardType": "Character",
@@ -58,7 +58,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3620,
     "CardName": "DSD1 Dwarf Spider Droid (V9)",
     "Grouping": "Dark",
     "CardType": "Character",
@@ -84,7 +84,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3621,
     "CardName": "Durge (V9)",
     "Grouping": "Dark",
     "CardType": "Character",
@@ -112,7 +112,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3622,
     "CardName": "Nute Gunray (V9)",
     "Grouping": "Dark",
     "CardType": "Character",
@@ -137,7 +137,7 @@
     "ExpansionV": "Coruscant"
   },
   {
-    "id": 3613,
+    "id": 3623,
     "CardName": "Sate Pestage (V9)",
     "Grouping": "Dark",
     "CardType": "Character",
@@ -163,7 +163,7 @@
     "ExpansionV": "Death Star II"
   },
   {
-    "id": 3613,
+    "id": 3624,
     "CardName": "Arena Pillars (V9)",
     "Grouping": "Dark",
     "CardType": "Effect",
@@ -181,7 +181,7 @@
     "ExpansionV": "Jabba's Palace"
   },
   {
-    "id": 3613,
+    "id": 3625,
     "CardName": "Maul's Cloak (V9)",
     "Grouping": "Dark",
     "CardType": "Effect",
@@ -200,7 +200,7 @@
     "ExpansionV": "Coruscant"
   },
   {
-    "id": 3613,
+    "id": 3626,
     "CardName": "War Has Begun (V9)",
     "Grouping": "Dark",
     "CardType": "Effect",
@@ -218,7 +218,7 @@
     "ExpansionV": "Theed Palace"
   },
   {
-    "id": 3613,
+    "id": 3627,
     "CardName": "Everything Is Going As Planned (V9)",
     "Grouping": "Dark",
     "CardType": "Interrupt",
@@ -236,7 +236,7 @@
     "ExpansionV": "Coruscant"
   },
   {
-    "id": 3613,
+    "id": 3628,
     "CardName": "Join Me! (V9)",
     "Grouping": "Dark",
     "CardType": "Interrupt",
@@ -252,7 +252,7 @@
     "ExpansionV": "Tatooine"
   },
   {
-    "id": 3613,
+    "id": 3629,
     "CardName": "Geonosis (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -277,7 +277,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3630,
     "CardName": "Geonosis: Docking Bay (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -303,7 +303,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3631,
     "CardName": "Geonosis: Petranaki Arena (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -328,7 +328,7 @@
     "ExpansionV": "Tatooine"
   },
   {
-    "id": 3613,
+    "id": 3632,
     "CardName": "Geonosis: Rocky Plains (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -353,7 +353,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3633,
     "CardName": "Geonosis: Separatist Council Room (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -380,7 +380,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3634,
     "CardName": "Muunilinst (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -405,7 +405,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3635,
     "CardName": "Muunilinst: Banking Clan Headquarters (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -430,7 +430,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3636,
     "CardName": "Muunilinst: City Of Harnaidan (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -455,7 +455,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3637,
     "CardName": "Muunilinst: Docking Bay (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -481,7 +481,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3638,
     "CardName": "Muunilinst: Separatist Command Center (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -506,7 +506,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3639,
     "CardName": "Tatooine: Imperial Outpost (V9)",
     "Grouping": "Dark",
     "CardType": "Location",
@@ -530,7 +530,7 @@
     "ExpansionV": "Special Edition"
   },
   {
-    "id": 3613,
+    "id": 3640,
     "CardName": "Arena Execution (V9)",
     "Grouping": "Dark",
     "CardType": "Effect",
@@ -548,7 +548,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3641,
     "CardName": "Defense Of Muunilinst (V9)",
     "Grouping": "Dark",
     "CardType": "Effect",
@@ -566,7 +566,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3642,
     "CardName": "Rally To Our Cause (V9)",
     "Grouping": "Dark",
     "CardType": "Effect",
@@ -584,7 +584,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3643,
     "CardName": "Separatist Uprising/At War With Itself (V9)",
     "Grouping": "Dark",
     "CardType": "Objective",
@@ -600,7 +600,7 @@
     "ExpansionV": "Theed Palace"
   },
   {
-    "id": 3613,
+    "id": 3644,
     "CardName": "Dooku's Solar Sailer (V9)",
     "Grouping": "Dark",
     "CardType": "Starship",
@@ -630,7 +630,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3645,
     "CardName": "Fanblade Starfighter (V9)",
     "Grouping": "Dark",
     "CardType": "Starship",
@@ -658,7 +658,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3646,
     "CardName": "IG-227 \"Hailfire\" Droid Tank (V9)",
     "Grouping": "Dark",
     "CardType": "Vehicle",
@@ -686,7 +686,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3613,
+    "id": 3647,
     "CardName": "Dooku's Lightsaber (V9)",
     "Grouping": "Dark",
     "CardType": "Weapon",
@@ -707,7 +707,7 @@
     "ExpansionV": "Premiere"
   },
   {
-    "id": 3618,
+    "id": 3648,
     "CardName": "Much To Learn, You Still Have (V9)",
     "Grouping": "Light",
     "CardType": "Effect",
@@ -724,7 +724,7 @@
     "ExpansionV": "Coruscant"
   },
   {
-    "id": 3619,
+    "id": 3649,
     "CardName": "Republic Gunship Wing (V9)",
     "Grouping": "Light",
     "CardType": "Vehicle",
@@ -748,7 +748,7 @@
     "Needs": 0
   },
   {
-    "id": 3620,
+    "id": 3650,
     "CardName": "The Dark Path & Begin Landing Your Troops (V9)",
     "Grouping": "Dark",
     "CardType": "Effect",
@@ -763,7 +763,7 @@
     "ExpansionV": "Coruscant"
   },
   {
-    "id": 3621,
+    "id": 3651,
     "CardName": "Ominous Rumors (V)",
     "Grouping": "Dark",
     "CardType": "Effect",
