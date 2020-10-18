@@ -11,9 +11,7 @@
     "Lore": "\"What was that?\" The Jedi power known as \"affect mind\" is often used to create minor distractions, allowing Jedi to elude enemies rather than engage them in battle.",
     "Gametext": "Plays on table. Bad Feeling Have I is canceled. Unless Inner Strength on table, opponent may use only one combat card per turn. Let Them Make The First Move may target only Undercover spies and R2-D2",
     "Icons": 0,
-    "Counterpart": "I Find Your Lack Of Faith Disturbing (V) - Defensive Shield",
-    "Inventory": 0,
-    "Needs": 0,
+    "Counterpart": "I Find Your Lack Of Faith Disturbing (V)",
     "ExpansionV": "Reflections III"
   },
   {
@@ -30,10 +28,7 @@
     "Icons": 0,
     "Counterpart": "Yavin Sentry (V)",
     "Cancels": "Colo Claw Fish",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Reflections III",
-    "Errata": 1
+    "ExpansionV": "Reflections III"
   },
   {
     "id": 946,
@@ -47,12 +42,9 @@
     "Lore": "\"About twenty guns. Some on the surface, some on the towers.\"",
     "Gametext": "Plays on table. If opponent moves from a location you occupy during your turn (unless 'moving through' the location), they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and system) and opponent deployed a card with ability and did not initiate a battle, may retrieve 1 Force.",
     "Icons": 0,
-    "Information": "Article at DeckTech, November 1st, 2005\\par Top 5 Damage-Controlling V-Cards (Dark Side) by Armaedes and Shewski\\par \\par Much ballyhooed when first released, these \"offensive\" Defensive Shields became a popular staple among most Shield lists. It's very easy to play since its initiation conditions are similar to another standby, Battle Order/Plan. These shields work to discourage cowardly play, like running away from battles on your turn (Watch out for Honor reducing this!) or not fighting you when they deploy to the table. Many decks have been built so that they can take full advantage of this gametext. [...]\\par \\par ARMAEDES' TAKE:\\par Excellent choice, this was actually #6 on my list. It barely missed the cut because the second portion of the text requires that you control a site and a system to make it work, and hardcore battling decks rarely do this. The part of the card that makes the opponent lose Force can be good, but frankly if your opponent has a choice between taking a beating and losing a measley two cards (which, as you point out, is reduced by Honor Of The Jedi), they're going to lose the 2 no questions asked. In other words, those this is a card that should be played in every battling deck, it doesn't actually help your big battles happen because the opponent is still able to use their \"escape\" cards, they just have to lose a couple of Force to do so - which oftentimes is a fair trade.",
+    "Information": "Errata March 2017. Previous text:\\par Plays on table. If opponent moves from a location you occupy during your turn, they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and system) and opponent deployed a card with ability and did not initiate a battle, may retrieve 1 Force.\\par \\par Article at DeckTech, November 1st, 2005\\par Top 5 Damage-Controlling V-Cards (Dark Side) by Armaedes and Shewski\\par \\par Much ballyhooed when first released, these \"offensive\" Defensive Shields became a popular staple among most Shield lists. It's very easy to play since its initiation conditions are similar to another standby, Battle Order/Plan. These shields work to discourage cowardly play, like running away from battles on your turn (Watch out for Honor reducing this!) or not fighting you when they deploy to the table. Many decks have been built so that they can take full advantage of this gametext. [...]\\par \\par ARMAEDES' TAKE:\\par Excellent choice, this was actually #6 on my list. It barely missed the cut because the second portion of the text requires that you control a site and a system to make it work, and hardcore battling decks rarely do this. The part of the card that makes the opponent lose Force can be good, but frankly if your opponent has a choice between taking a beating and losing a measley two cards (which, as you point out, is reduced by Honor Of The Jedi), they're going to lose the 2 no questions asked. In other words, those this is a card that should be played in every battling deck, it doesn't actually help your big battles happen because the opponent is still able to use their \"escape\" cards, they just have to lose a couple of Force to do so - which oftentimes is a fair trade.",
     "Counterpart": "Weapons Display (V)",
-    "Combo": "Firepower (V) + Ability, Ability, Ability\\par During opponent's deploy phase, opponent must choose to deploy a card with ability or lose 2 Force.\\par -----\\par Firepower (V) - Defensive Shield + Set Your Course For Alderaan/The Ultimate Power In The Universe",
-    "Rules": "(Errata) The game text '(unless 'moving through' the location)' added.",
-    "Inventory": 0,
-    "Needs": 0,
+    "Combo": "Firepower (V) + Ability, Ability, Ability\\par During opponent's deploy phase, opponent must choose to deploy a card with ability or lose 2 Force.",
     "ExpansionV": "Reflections III",
     "Errata": 1
   },
@@ -67,10 +59,8 @@
     "Lore": "Darth Vader ruthlessly used the Force to strike down enemies and soldiers who displeased him. He could choke victims from afar without touching them.",
     "Gametext": "Plays on table. Goo Nee Tay is canceled. Unless Deep Hatred on table, opponent may use only one combat card per turn. We'll Handle This may target only Undercover spies and 5D6-RA-7.",
     "Icons": 0,
-    "Counterpart": "Affect Mind (V) - Defensive Shield",
+    "Counterpart": "Affect Mind (V)",
     "Cancels": "Goo Nee Tay",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Reflections III"
   },
   {
@@ -83,11 +73,9 @@
     "Uniqueness": "*",
     "Destiny": 0,
     "Lore": "The X-wing's display panel allows for different firing patterns for different weapons. This gives the pilot the ability to switch weapon types with minimum time and energy loss.",
-    "Gametext": "Plays on table. Whenever opponent excludes any character(s) from battle, they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and a system) and opponent deployed a card with ability and did not inititate a battle, you may retrieve 1 Force.",
+    "Gametext": "Plays on table. Whenever opponent excludes any character(s) from battle, they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and a system) and opponent deployed a card with ability and did not inititate a battle, may retrieve 1 Force.",
     "Icons": 0,
     "Counterpart": "Firepower (V)",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Reflections III"
   },
   {
@@ -104,10 +92,7 @@
     "Icons": 0,
     "Rules": "(AR 1.7.1, B-16)\\par See Ch. 1F. Free.",
     "Cancels": "Colo Claw Fish",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Reflections III",
-    "Errata": 1
+    "ExpansionV": "Reflections III"
   },
   {
     "id": 4400,
@@ -121,10 +106,9 @@
     "Lore": "\"Give yourself to the dark side. It is the only way you can save your friends.\"",
     "Gametext": "Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
     "Icons": 0,
-    "Counterpart": "Your Insight Serves You Well (V) - Defensive Shield",
+    "Information": "This virtual slip may also be used on the Death Star II Uncommon",
+    "Counterpart": "Your Insight Serves You Well (V)",
     "Cancels": "any 'insert' card:\\par 3,720 to 1\\par A Disturbance In The Force\\par A Tremor In The Force\\par Access Denied\\par Anger, Fear, Aggression\\par Knowledge And Defense\\par Never Tell Me The Odds\\par Restricted Access",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Reflections III"
   },
   {
@@ -133,15 +117,15 @@
     "Grouping": "Dark",
     "CardType": "Defensive Shield",
     "Expansion": "Virtual Defensive Shields",
-    "Rarity": "Common",
+    "Rarity": "Premium",
     "Uniqueness": "*",
     "Destiny": 0,
     "Lore": "Imperial officers aboard the Death Star considered the Rebellion a minor threat.",
-    "Gametext": "Plays on table unless A Useless Gesture on table.. In order to play an Interrupt from Lost Pile, opponent must first stack it here (if possible) and use +1 Force for each card here, even if Interrupt is normally free. Revolution is canceled.",
+    "Gametext": "Plays on table. In order to play an Interrupt from Lost Pile, opponent must first stack it here (if possible) and use +1 Force for each card here, even if Interrupt is normally free. Revolution is canceled.",
     "Icons": "Grabber",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Jabba's Palace"
+    "Grabber": 1,
+    "Cancels": "Revolution",
+    "ExpansionV": "Reflections III"
   },
   {
     "id": 4402,
@@ -153,15 +137,15 @@
     "Uniqueness": "*",
     "Destiny": 0,
     "Lore": "The Boonta Eve crowds are always looking for new and exciting developments at every Podrace.",
-    "Gametext": "Plays on table. Ice Storm, Lost In The Wilderness, Order To Engage, Sandwhirl, and Scramble are canceled. Once per game, may take an Immediate Effect in hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Staging Areas is suspended.",
+    "Gametext": "Plays on table. Ice Storm, Lost In The Wilderness, Order To Engage, Sandwhirl, and Scramble are canceled. Once per game, may take into hand from Reserve Deck (reshuffle) an Immediate Effect. Unless opponent occupies a battleground system, Staging Areas is suspended.",
     "Icons": "Episode 1",
     "Episode1": 1,
     "Pulls": "After Her!\\par Alert My Star Destroyer!\\par All Too Easy\\par Breached Defenses\\par Cane Adiss\\par Despair\\par Energy Walls\\par Enter The Bureaucrat\\par Frozen Dinnerg\\par High Anxiety\\par I Am Your Father\\par Imperial Propaganda\\par Lost In Space\\par Mostly Armless\\par Mournful Roar\\par Pride Of The Empire\\par Qui-Gon's End\\par Tentacle\\par There'll Be Hell To Pay",
-    "Counterpart": "Don't Do That Again (V) - Defensive Shield",
-    "Cancels": "Order To Engage\\par Scramble\\par Suspends Staging Areas while opponent occupies no battleground systems.",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Reflections III"
+    "Counterpart": "Don't Do That Again (V)",
+    "Cancels": "Ice Storm\\par Lost In The Wilderness\\par Sandwhirl\\par Order To Engage\\par Scramble\\par Suspends Staging Areas while opponent occupies no battleground systems.",
+    "Information": "This virtual slip may also be used on the Tatooine Common\\par \\par Re-released in Virtual Set 12 \"Tweak Set\". Original text:\\par Plays on table. Cancels Order To Engage and Scramble. Once per game, may take into hand from Reserve Deck (reshuffle) an Immediate Effect. While opponent occupies no battleground systems, Staging Areas is suspended. \"Missing\" on Lost In The Wilderness is treated as \"landspeed = 0 for remainder of turn.\"",
+    "ExpansionV": "Reflections III",
+    "Errata": 1
   },
   {
     "id": 4404,
@@ -173,13 +157,12 @@
     "Uniqueness": "*",
     "Destiny": 0,
     "Lore": "The Jedi won't tolerate silly behavior for very long.",
-    "Gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
+    "Gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take into hand from Reserve Deck (reshuffle) an Immediate Effect. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
     "Icons": "Episode 1",
     "Episode1": 1,
     "Pulls": "A Gift\\par A Vergence In The Force\\par Advantage\\par At Peace\\par Descent Into The Dark\\par Disarming Creature\\par \\Energy Walls\\par Grappling Hook\\par Heroic Sacrifice\\par I Can't Believe He's Gone\\par Imperial Atrocity\\par Legendary Starfighter\\par The Time For Our Attack Has Come\\par They Win This Round\\par Weapon Of A Fallen Mentor\\par What Was It?\\par What're You Tryin' To Push On Us?",
-    "Counterpart": "Fanfare (V) - Defensive Shield",
-    "Inventory": 0,
-    "Needs": 0,
+    "Counterpart": "Fanfare (V)",
+    "Information": "This virtual slip may also be used on the Tatooine Common\\par \\par Re-released in Virtual Set 12 \"Tweak Set\". Original text:\\par Plays on table. Once per game, may take into hand from Reserve Deck (reshuffle) an Immediate Effect. While opponent occupies no battleground systems, Mobilization Points is suspended. \"Missing\" on Always Thinking With Your Stomach is treated as \"landspeed = 0 for remainder of turn.\"",
     "ExpansionV": "Reflections III"
   },
   {
@@ -191,15 +174,13 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), target a [Coruscant] Politcal Effect; it is suspended for remainder of the turn.",
+    "Lore": " ",
+    "Gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), target a [Coruscant] Politcal Effect; it is suspended for the remainder of the turn.",
     "Icons": "Episode 1",
     "Episode1": 1,
-    "Information": "Can use either Coruscant or Reflections III card under the v-slip.",
-    "Counterpart": "Wipe Them Out, All Of Them - Defensive Shield",
+    "Information": "Original card: Baseless Accusations",
+    "Counterpart": "Vote Of No Confidence",
     "Rules": "AR Update November 3, 2016\\par This Defensive Shield protects against attempts to remove cards from a player's hand (such as Defensive Fire, Scanning Crew, or I Will Make It Legal) and also against attempts to force you to lose specific cards from hand (such as with M'iiyoom Onith). It does not protect against cards like Fear that could require you to lose Force from hand.",
-    "Cancels": "M'iiiyoom Onith's game text",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Reflections III"
   },
   {
@@ -216,9 +197,7 @@
     "Icons": 0,
     "Information": "Original card: You Will Take Me To Jabba Now",
     "Cancels": "Opponent's Force drains at non-battlegrounds\\par Opponent's Force retrieval",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Jabba's Palace"
+    "ExpansionV": "Reflections III"
   },
   {
     "id": 4407,
@@ -232,11 +211,9 @@
     "Lore": "Luke knew that while the dark side was quicker and more seductive, eventually evil would turn on itself.",
     "Gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
     "Icons": 0,
-    "Information": "Can use either Death Star II or Reflections III card under the v-slip.",
-    "Counterpart": "You Cannot Hide Forever (V) - Defensive Shield",
+    "Information": "This virtual slip may also be used on the Death Star II Uncommon",
+    "Counterpart": "You Cannot Hide Forever (V)",
     "Cancels": "Scanning Crew\\par any 'insert' card:\\par 3,720 to 1\\par A Disturbance In The Force\\par A Tremor In The Force\\par Access Denied\\par Anger, Fear, Aggression\\par Knowledge And Defense\\par Never Tell Me The Odds\\par Restricted Access",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Reflections III"
   },
   {
@@ -248,12 +225,12 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 0,
+    "Lore": " ",
     "Gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Grimtaash).  Once per turn (even at start of turn), target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
-    "Icons": 0,
+    "Icons": "Episode 1",
+    "Episode1": 1,
     "Counterpart": "The Republic No Longer Functions",
     "Rules": "AR Update November 3, 2016\\par This Defensive Shield protects against attempts to remove cards from a player's hand (such as Defensive Fire, Scanning Crew, or I Will Make It Legal) and also against attempts to force you to lose specific cards from hand (such as with M'iiyoom Onith). It does not protect against cards like Fear that could require you to lose Force from hand.",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Reflections III"
   },
   {
@@ -265,13 +242,12 @@
     "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Play on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 force.",
+    "Lore": " ",
+    "Gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force.",
     "Icons": 0,
-    "Information": "Original Card: Restricted Access",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Reflections III",
-    "Errata": 1
+    "Counterpart": "Goldenrod",
+    "Information": "Original card: Restricted Access",
+    "ExpansionV": "Reflections III"
   },
   {
     "id": 4410,
@@ -282,14 +258,12 @@
     "Rarity": "Rare",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Plays on table. For opponent to deploy a character, starship or vehicle for free (except by that card's own game text), opponent must first use 2 force.",
+    "Lore": " ",
+    "Gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 force.",
     "Icons": 0,
-    "Information": "Primarily this card is designed to hinder (not kill) these strategies:\\par \\par Blizzard 4 pulling Vader\\par Free Executor\\par Free Maul to the Landing site\\par Jabba's Space Cruiser reacts\\par -----\\par Good against the Watto-Objective No Money, No Parts, No Deal! / You're A Slave?\\par -----\\par Player Created Card\\par Original concept by Michael Pistone, Kashyyyk Regional Winner 2004.",
+    "Information": "Original card: The Professor\\par \\par Primarily this card is designed to hinder (not kill) these strategies:\\par \\par Blizzard 4 pulling Vader\\par Free Executor\\par Free Maul to the Landing site\\par Jabba's Space Cruiser reacts\\par -----\\par Good against the Watto-Objective No Money, No Parts, No Deal! / You're A Slave?\\par -----\\par Legacy Player Created Card\\par Original concept by Michael Pistone, Kashyyyk Regional Winner 2004.",
     "Counterpart": "Imperial Detention",
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Reflections III",
-    "Errata": 1
+    "ExpansionV": "Reflections III"
   },
   {
     "id": 5293,
@@ -304,8 +278,6 @@
     "Gametext": "Plays on table. Cancels A Dangerous Time and Imperial Supply. Each player may play only one card with \"sabacc\" in title each turn. You may cancel an opponent's card with \"sabacc\" in title by losing 1 Force from hand.",
     "Icons": 0,
     "Cancels": "A Dangerous Time, Imperial Supply",
-    "Inventory": 0,
-    "Needs": 0,
     "ExpansionV": "Reflections III"
   }
 ]

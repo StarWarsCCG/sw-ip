@@ -8,6 +8,7 @@
     "Expansion": "Virtual Premium Set",
     "Rarity": "Common2",
     "Uniqueness": "*",
+    "Characteristics": "Green squadron, Red squadron",
     "Destiny": 7,
     "Power": 2,
     "Deploy": 2,
@@ -18,9 +19,8 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Premiere"
+    "Matching": "Red 12",
+    "Information": "Destiny is choice of 7 or 1.\\par \\par Original card: Rebel Pilot\\par \\par In memory of John Anderson, 1982-2018"
   },
   {
     "id": 5395,
@@ -28,9 +28,10 @@
     "Grouping": "Light",
     "CardType": "Starship",
     "Subtype": "Starfighter",
-    "ModelType": "X-Wing",
+    "ModelType": "X-wing",
     "Expansion": "Virtual Premium Set",
     "Rarity": "Uncommon1",
+    "Characteristics": "Red squadron",
     "Uniqueness": "*",
     "Destiny": 2,
     "Power": 3,
@@ -40,9 +41,8 @@
     "Icons": "Astromech, Scomp Link",
     "Astromech": 1,
     "ScompLink": 1,
-    "Inventory": 0,
-    "Needs": 0,
-    "ExpansionV": "Premiere"
+    "Matching": "Puck",
+    "Information": "Original card: Red 1\\par \\par In memory of John Anderson, 1982-2018"
   },
   {
     "id": 5396,
@@ -51,7 +51,8 @@
     "CardType": "Character",
     "Subtype": "Imperial",
     "Expansion": "Virtual Premium Set",
-    "Rarity": "Common2",
+    "Rarity": "Uncommon1",
+    "Characteristics": "\\b leader\\b0",
     "Uniqueness": "*",
     "Destiny": 2,
     "Power": 2,
@@ -63,8 +64,8 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Inventory": 0,
-    "Needs": 0,
+    "Matching": "Thunderflare",
+    "Information": "In memory of John Anderson, 1982-2018",
     "ExpansionV": "A New Hope"
   }
 ]
