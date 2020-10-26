@@ -31,24 +31,6 @@
     "ExpansionV": "Reflections III"
   },
   {
-    "id": 946,
-    "CardName": "Firepower (V)",
-    "Grouping": "Dark",
-    "CardType": "Defensive Shield",
-    "Expansion": "Virtual Defensive Shields",
-    "Rarity": "Common",
-    "Uniqueness": "*",
-    "Destiny": 0,
-    "Lore": "\"About twenty guns. Some on the surface, some on the towers.\"",
-    "Gametext": "Plays on table. If opponent moves from a location you occupy during your turn (unless 'moving through' the location), they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and system) and opponent deployed a card with ability and did not initiate a battle, may retrieve 1 Force.",
-    "Icons": 0,
-    "Information": "Errata March 2017. Previous text:\\par Plays on table. If opponent moves from a location you occupy during your turn, they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and system) and opponent deployed a card with ability and did not initiate a battle, may retrieve 1 Force.\\par \\par Article at DeckTech, November 1st, 2005\\par Top 5 Damage-Controlling V-Cards (Dark Side) by Armaedes and Shewski\\par \\par Much ballyhooed when first released, these \"offensive\" Defensive Shields became a popular staple among most Shield lists. It's very easy to play since its initiation conditions are similar to another standby, Battle Order/Plan. These shields work to discourage cowardly play, like running away from battles on your turn (Watch out for Honor reducing this!) or not fighting you when they deploy to the table. Many decks have been built so that they can take full advantage of this gametext. [...]\\par \\par ARMAEDES' TAKE:\\par Excellent choice, this was actually #6 on my list. It barely missed the cut because the second portion of the text requires that you control a site and a system to make it work, and hardcore battling decks rarely do this. The part of the card that makes the opponent lose Force can be good, but frankly if your opponent has a choice between taking a beating and losing a measley two cards (which, as you point out, is reduced by Honor Of The Jedi), they're going to lose the 2 no questions asked. In other words, those this is a card that should be played in every battling deck, it doesn't actually help your big battles happen because the opponent is still able to use their \"escape\" cards, they just have to lose a couple of Force to do so - which oftentimes is a fair trade.",
-    "Counterpart": "Weapons Display (V)",
-    "Combo": "Firepower (V) + Ability, Ability, Ability\\par During opponent's deploy phase, opponent must choose to deploy a card with ability or lose 2 Force.",
-    "ExpansionV": "Reflections III",
-    "Errata": 1
-  },
-  {
     "id": 1209,
     "CardName": "I Find Your Lack Of Faith Disturbing (V)",
     "Grouping": "Dark",
@@ -61,21 +43,6 @@
     "Icons": 0,
     "Counterpart": "Affect Mind (V)",
     "Cancels": "Goo Nee Tay",
-    "ExpansionV": "Reflections III"
-  },
-  {
-    "id": 2777,
-    "CardName": "Weapons Display (V)",
-    "Grouping": "Light",
-    "CardType": "Defensive Shield",
-    "Expansion": "Virtual Defensive Shields",
-    "Rarity": "Common",
-    "Uniqueness": "*",
-    "Destiny": 0,
-    "Lore": "The X-wing's display panel allows for different firing patterns for different weapons. This gives the pilot the ability to switch weapon types with minimum time and energy loss.",
-    "Gametext": "Plays on table. Whenever opponent excludes any character(s) from battle, they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and a system) and opponent deployed a card with ability and did not inititate a battle, may retrieve 1 Force.",
-    "Icons": 0,
-    "Counterpart": "Firepower (V)",
     "ExpansionV": "Reflections III"
   },
   {
