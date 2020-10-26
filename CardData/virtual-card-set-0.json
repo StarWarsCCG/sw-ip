@@ -990,7 +990,8 @@
     "IsPulled": "Don't Tread On Me (V)\\par The Signal\\par We Wish To Board At Once\\par Your Insight Serves You Well\\par Your Insight Serves You Well & Staging Areas",
     "Rules": "(AR 1.7.1, B-16)\\par The \"once per game\" function of this Effect may not be used to take into hand an Effect that lists any deploy cost in its game text (such as Beggar).",
     "Combo": "Pulls Launching The Assault which pulls Home One.",
-    "ExpansionV": "Endor"
+    "ExpansionV": "Endor",
+    "Errata": 1
   },
   {
     "id": 3208,
@@ -1449,7 +1450,8 @@
     "Icons": 0,
     "Information": "Original card: Daroe\\par \\par In memory of Eric White, 1983-2011\\par \\par Errata October 2020. Original text: \\par Once per game, may take into hand from Reserve Deck (reshuffle) Jawa Blaster or a card with \"sandcrawler\" in title or gametext. Once per turn, if present at a Tatooine battleground and there is more than 1 Force in opponent's Force Pile, you may use 1 Force in opponent's Force Pile.",
     "Pulls": "Double Laser Cannon\\par Dune Sea Sabacc\\par Jawa Blaster\\par Magnetic Suction Tube\\par Sandcrawler\\par Sandcrawler: Droid Junkheap\\par Wittin's Sandcrawler",
-    "ExpansionV": "Tatooine"
+    "ExpansionV": "Tatooine",
+    "Errata": 1
   },
   {
     "id": 4033,
