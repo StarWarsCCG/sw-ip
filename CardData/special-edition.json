@@ -2176,6 +2176,7 @@
     "Icons": 0,
     "Pulls": "One starship weapon, vehicle weapon or artillery weapon from Lost Pile to deploy it for free.",
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans",
+    "Information": "October 2020 Errata: Firepower (V) blanked",
     "Inventory": 0,
     "Needs": 0
   },
@@ -6656,6 +6657,7 @@
     "Pulls": "One starship weapon from Lost Pile.\\par One vehicle weapon from Lost Pile.\\par One artillery weapon from Lost Pile.",
     "IsPulled": "The Signal\\par We Wish To Board At Once",
     "Rules": "AR Update November 3, 2016\\par This Defensive Shield targets characters that were 'just excluded from battle.' Thus it will see characters excluded from battle that would otherwise be considered inactive. In addition, if excluding said characters from battle removes all presence from one side of the battle's location (causing the battle to end immediately) this card will still target those characters as 'just excluded from battle.'",
+    "Information": "October 2020 Errata: Weapons Display (V) blanked",
     "Inventory": 0,
     "Needs": 0
   },
