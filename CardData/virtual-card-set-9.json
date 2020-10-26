@@ -633,7 +633,8 @@
     "Gametext": "Attrition against opponent is +1 here for each of their characters present. Opponent may not reduce your Force drains here. Cancels Trooper Assault here.",
     "Icons": "Warrior",
     "Warrior": 1,
-    "Information": "Original card: Stay Sharp!\\par \\par Errata October 2020. Original text: \\par Attrition against opponent is +1 here for each of their characters present. Opponent may not reduce your Force drains here. Once per game, if in battle with an Imperial or Rebel, may lose top card of Reserve Deck to cancel a non-[Immune to Sense] Interrupt."
+    "Information": "Original card: Stay Sharp!\\par \\par Errata October 2020. Original text: \\par Attrition against opponent is +1 here for each of their characters present. Opponent may not reduce your Force drains here. Once per game, if in battle with an Imperial or Rebel, may lose top card of Reserve Deck to cancel a non-[Immune to Sense] Interrupt.",
+    "Errata": 1
   },
   {
     "id": 5273,
@@ -736,7 +737,8 @@
     "Gametext": "Deploy on Data Vault. At any time, may relocate Stardust to your spy present. During your control phase, in on your spy at a battleground you occupy, opponent loses 1 Force. If about to leave table, relocate to Data Vault (if possible). (Immune to Alter.)",
     "Icons": 0,
     "IsPulled": "The Signal\\par We Wish To Board At Once",
-    "Information": "Original card: Portable Scanner\\par \\par Errata October 2020. Original text: \\par Deploy on Data Vault. At any time, may relocate Stardust to your spy present. During your control phase, in on your spy at a battleground you occupy, opponent loses 2 Force. If about to leave table, relocate to Data Vault (if possible). (Immune to Alter.)"
+    "Information": "Original card: Portable Scanner\\par \\par Errata October 2020. Original text: \\par Deploy on Data Vault. At any time, may relocate Stardust to your spy present. During your control phase, in on your spy at a battleground you occupy, opponent loses 2 Force. If about to leave table, relocate to Data Vault (if possible). (Immune to Alter.)",
+    "Errata": 1
   },
   {
     "id": 5279,
