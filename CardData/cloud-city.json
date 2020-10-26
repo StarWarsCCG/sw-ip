@@ -11,7 +11,7 @@
     "Lore": "\"Ben. . . Ben, please! Ben. . . Leia! Hear me, Leia!\"",
     "Gametext": "Deploy on opponent's side of table. At the end of opponent's deploy phase, if they did not deploy a card with ability, opponent loses 2 Force. Effect lost if opponent has more cards with ability on table than you. (Immune to Alter.)",
     "Icons": 0,
-    "Information": "With this card you can force your opponent to make a decision he does not want to make. Sometimes opponent will deploy a card just not to loose the 2 Force. Maybe he will deploy some lone character - good opportunity for a beatdown.\\par -----\\par A very efficient card for  battle orientaed deck and a very good counter for a Dagobah based Force drain deck (these decks normally don't runn many characters).\\par -----\\par Play this card in combination with LLL to force opponent (and yourself) to constantly  deploy locations or lose 1 Force. Opponent will have to draw up a lot. Good opportunity for a well timed Monnok.",
+    "Information": "October 2020 Errata: Ability, Ability, Ability (V) blanked\\par \\par With this card you can force your opponent to make a decision he does not want to make. Sometimes opponent will deploy a card just not to loose the 2 Force. Maybe he will deploy some lone character - good opportunity for a beatdown.\\par -----\\par A very efficient card for  battle orientaed deck and a very good counter for a Dagobah based Force drain deck (these decks normally don't runn many characters).\\par -----\\par Play this card in combination with LLL to force opponent (and yourself) to constantly  deploy locations or lose 1 Force. Opponent will have to draw up a lot. Good opportunity for a well timed Monnok.",
     "Abbreviation": "Ability x3, AAA",
     "IsPulled": "Twi'lek Advisor\\par We Must Accelerate Our Plans",
     "Counterpart": "Civil Disorder",
@@ -697,6 +697,7 @@
     "Abbreviation": "CD",
     "IsPulled": "The Signal\\par We Wish To Board At Once",
     "Counterpart": "Ability, Ability, Ability",
+    "Information": "October 2020 Errata: Civil Disorder (V) blanked",
     "Inventory": 0,
     "Needs": 0,
     "Errata": 1
