@@ -20,13 +20,14 @@ class Program
             }
             else if (value.ValueKind == JsonValueKind.Number)
             {
-                return value.GetDouble().ToString();
+                return value.GetRawText();
             }
             else
             {
                 var text = value
                     .GetString()
                     .Replace("'", "''")
+                    .Replace("’", "''")
                     //.Replace('é', (char)65533) // Fixed by using the proper encoding.
                     ;
                 return $"'{text}'";
