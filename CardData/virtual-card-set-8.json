@@ -898,7 +898,7 @@
     "Gametext": "Deploy on a site. While at a battleground, adds one [Dark Side Force icon] icon and one [Light Side Force icon] icon here. Once per turn, if a player just Force drained at a site with total ability > 5, relocate this Effect to that site. Once per game, may retrieve a card with \"Anakin\" in title into hand. (Immune to Alter.)",
     "Icons": 0,
     "Information": "Original card: End Of A Reign",
-    "IsPulled": "The Signal\\par We Wish To Board At Once\\par Wokling (V)",
+    "IsPulled": "The Signal\\par We Wish To Board At Once\\par Wokling (V)"
   },
   {
     "id": 5228,
@@ -1165,7 +1165,7 @@
     "CardName": "Yavin 4 Base Operations/The Time To Fight Is Now",
     "Grouping": "Light",
     "CardType": "Objective",
-    "Rarity": "Uncommon"
+    "Rarity": "Uncommon",
     "Expansion": "Virtual Card Set #8",
     "ObjectiveFront": "\\ul Deploy Yavin 4 system and Massassi War Room. May deploy Restore Freedom To The Galaxy.\\ul0 \\par \\b While\\b0  this side up, once per turn, may use 1 Force to deploy from Reserve Deck (reshuffle) a battleground system. \\par \\b Flip\\b0  this card if Rebels control two battleground systems (or if four Rebels are on table).",
     "ObjectiveBack": "\\b While\\b0  this side up, during battle at sites related to systems you occupy, for each piloted unique (*) snub fighter present at that system, your total power is +2. Once during your draw phase, if a system is 'liberated,' may place a card from your Lost Pile out of play to retrieve 1 Force.\\par \\b Flip\\b0  this card if you do not occupy two battlegrounds (unless four Rebels are on table).",
