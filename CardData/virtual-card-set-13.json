@@ -18,8 +18,8 @@
     "Gametext": "Adds 2 to power of anything he pilots. Matching pilot for any Death Squadron Star Destroyer and, while piloting one, instead of Force draining here, may draw top card of Reserve Deck or raise your same or related converted location to the top.",
     "Icons": "Pilot",
     "Pilot": 1,
+    "Information": "Original concept by Jan W, Tom H, Reid S, Caleb F, John A, Jonathan W",
     "IsPulled": "Endor Shield (V)\\par Imperial Command",
-    "Combo": "Admiral Ozzel + Commander Nemet",
     "ExpansionV": "Hoth"
   },
   {
@@ -29,9 +29,9 @@
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Rare",
     "Uniqueness": "*",
-    "Characteristics": "\\b Hylobon\\b0, \\b guard\\b0, \\b leader\\b0",
+    "Characteristics": "\\b Hylobon\\b0, \\b Crimson Dawn\\b0 \\b guard\\b0, \\b leader\\b0",
     "Destiny": 2,
     "Power": 3,
     "Deploy": 3,
@@ -42,7 +42,7 @@
     "Icons": "Warrior, Permanent Weapon",
     "Warrior": 1,
     "PermanentWeapon": 1,
-    "Information": "Original card: TK"
+    "Information": "Original card: Ortugg"
   },
   {
     "id": 5405,
@@ -56,17 +56,17 @@
     "Characteristics": "\\b Serennian\\b0, \\b Trade Federation\\b0, \\b leader\\b0",
     "Destiny": 1,
     "Power": 5,
-    "Deploy": 6,
+    "Deploy": 7,
     "Forfeit": 8,
     "Ability": 7,
     "ForceAptitude": "Dark Jedi Master",
     "Lore": "Serennian \\b leader\\b0. Trade Federation.",
-    "Gametext": "Defense value +1 while armed with a lightsaber. Jedi here are power and immunity to attrition -1. During battle or lightsaber combat involving Dooku, may cancel and redraw an opponent's just drawn destiny. Immune to Sorry About The Mess and attrition < 6.",
+    "Gametext": "Deploys -1 to an [Episode 1] location. Jedi here are power and immunity to attrition -1. During battle or lightsaber combat involving Dooku, may cancel and redraw an opponent's just drawn destiny. Immune to Sorry About The Mess and attrition < 6.",
     "Icons": "Pilot, Warrior, Separatist, Episode 1",
     "Pilot": 1,
     "Warrior": 1,
     "Episode1": 1,
-    "Information": "This card has a Separatist icon.\\par \\par Original card: Precise Attack",
+    "Information": "This card has a Separatist icon.\\par \\par Original card: Precise Attack\\par \\par Original concept by Darren Malins",
     "MatchingWeapon": "Dooku's Lightsaber" 
   },
   {
@@ -76,9 +76,9 @@
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common1",
     "Uniqueness": "*",
-    "Characteristics": "\\b gangster\\b0, \\b leader\\b0",
+    "Characteristics": "\\b Crimson Dawn\\b0, \\b gangster\\b0, \\b leader\\b0",
     "Destiny": 1,
     "Power": 4,
     "Deploy": 6,
@@ -90,7 +90,7 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: TK\\par \\par Defense value is Teräs Käsi, not Armor"
+    "Information": "Original card: Kintan Strider\\par \\par Defense value is Teräs Käsi, not Armor"
   },
   {
     "id": 5407,
@@ -99,7 +99,7 @@
     "CardType": "Character",
     "Subtype": "Imperial",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Rare",
     "Uniqueness": "*",
     "Characteristics": "\\b Terrelian Jango Jumper\\b0, \\b inquisitor\\b0",
     "Destiny": 3,
@@ -113,7 +113,7 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: TK"
+    "Information": "Original card: Obsidian 8\\par \\par Original concept by Jake Kessler"
   },
   {
     "id": 5408,
@@ -122,7 +122,7 @@
     "CardType": "Character",
     "Subtype": "Imperial",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common2",
     "Uniqueness": "*",
     "Characteristics": "\\b inquisitor\\b0",
     "Destiny": 2,
@@ -136,18 +136,18 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: TK"
+    "Information": "Original card: R5-A2 (Arfive-Aytoo)"
   },
   {
     "id": 5409,
-    "CardName": "Hylobon Enforcers",
+    "CardName": "Hylobon Enforcer",
     "Grouping": "Dark",
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common",
     "Uniqueness": "**",
-    "Characteristics": "\\b Hylobon\\b0, \\b guard\\b0",
+    "Characteristics": "\\b Hylobon\\b0, \\b Crimson Dawn\\b0, \\b guard\\b0",
     "Destiny": 3,
     "Power": 3,
     "Deploy": 4,
@@ -158,7 +158,7 @@
     "Icons": "Warrior, Permanent Weapon",
     "Warrior": 1,
     "PermanentWeapon": 1,
-    "Information": "Original card: TK"
+    "Information": "Original card: Gamorrean Guard"
   },
   {
     "id": 5410,
@@ -168,7 +168,7 @@
     "Subtype": "Droid",
     "ModelType": "Probe Droid",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common2",
     "Uniqueness": "***",
     "Characteristics": "\\b spy\\b0",
     "Destiny": 3,
@@ -179,7 +179,7 @@
     "Lore": "\\b Spy\\b0.",
     "Gametext": "During your deploy phase, may use 2 Force to relocate an Inquisitor to same site and place this droid in Used Pile. While present with Seventh Sister, opponent may not target Seventh Sister with weapons unless this card 'hit.'",
     "Icons": 0,
-    "Information": "Original card: TK"
+    "Information": "Original card: Probe Telemetry"
   },
   {
     "id": 5411,
@@ -188,9 +188,9 @@
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Rare",
     "Uniqueness": "*",
-    "Characteristics": "\\b Imroosian\\b0, female",
+    "Characteristics": "\\b Imroosian\\b0, \\b Crimson Dawn\\b0, female",
     "Destiny": 2,
     "Power": 2,
     "Deploy": 2,
@@ -199,7 +199,7 @@
     "Lore": "Female Imroosian. Crimson Dawn.",
     "Gametext": "Once during opponent's deploy phase, may use 1 Force to choose: 'break cover' of opponent's Undercover spy here or draw destiny; if destiny = number of opponent's characters at same site, to initiate battle here this turn requires +1 Force.",
     "Icons": 0,
-    "Information": "Original card: TK"
+    "Information": "Original card: Bib Fortuna (Jabba's Palace)"
   },
   {
     "id": 5412,
@@ -208,9 +208,9 @@
     "CardType": "Character",
     "Subtype": "Sith",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon",
     "Uniqueness": "*",
-    "Characteristics": "\\b gangster\\b0, \\b leader\\b0",
+    "Characteristics": "\\b Crimson Dawn\\b0, \\b gangster\\b0, \\b leader\\b0",
     "Destiny": "1/2",
     "Power": 4,
     "Deploy": 4,
@@ -221,7 +221,7 @@
     "Gametext": "Never deploys to a battleground. Opponent may not cancel your destiny draws. Once per turn, may add 1 to a just drawn battle or weapon destiny. Once per turn, may subtract 1 from a just drawn battle or weapon destiny. Immune to attrition < 5.",
     "Icons": "Warrior",
     "Warrior": 1,
-    "Information": "Original card: TK",
+    "Information": "Original card: Imbalance",
     "IsPulled": "Dathomir: Maul's Chambers\\par Sith Fury (V)",
     "Combo": "Maul + Maul Strikes\\par -----\\par Maul + The Phantom Menace\\par While present with an opponent's Jedi, Maul is defense value +2 and immune to attrition.\\par -----\\par Maul + I Have You Now\\par Add one battle destiny (two if Rebel is Luke) if a Dark Jedi and a Rebel with ability > 2 are involved in the same battle.\\par -----\\par Maul + Force Field\\par Cancels an attempt to target a Dark Jedi with a character weapon.",
     "Matching": "Maul's Sith Infiltrator",
@@ -234,7 +234,7 @@
     "CardType": "Character",
     "Subtype": "Imperial",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common2",
     "Uniqueness": "*",
     "Characteristics": "\\b Dowutin\\b0, \\b inquisitor\\b0, female",
     "Destiny": 2,
@@ -244,11 +244,11 @@
     "Ability": 5,
     "ForceAptitude": "Force-Sensitive",
     "Lore": "Female Dowutin. Inquisitor.",
-    "Gametext": "Defense value -2 while opponent has a weapon present. Unless opponent's character of ability > 3 at same site, reset opponent's total battle destiny here to 0.",
+    "Gametext": "Defense value -2 while opponent has a weapon present. While at a site, unless opponent's character of ability > 3 here, reset opponent's total battle destiny here to 0.",
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: TK"
+    "Information": "Original card: R4-M9 (Arfour-Emmnine)"
   },
   {
     "id": 5413,
@@ -257,9 +257,9 @@
     "CardType": "Character",
     "Subtype": "Imperial",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Rare",
     "Uniqueness": "*",
-    "Characteristics": "\\b Mirialan\\b0, \\b inquisitor\\b0",
+    "Characteristics": "\\b Mirialan\\b0, \\b inquisitor\\b0, female",
     "Destiny": 2,
     "Power": 4,
     "Deploy": 5,
@@ -271,7 +271,7 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: TK"
+    "Information": "Original card: Obsidian 7\\par \\par Original concept by Adam Fletcher"
   },
   {
     "id": 5414,
@@ -283,9 +283,8 @@
     "Uniqueness": "*",
     "Destiny": 0,
     "Lore": "\"That place is strong with the dark side of the Force. A domain of evil it is. In you must go.\"",
-    "Gametext": "Plays on table. Opponent's Undercover spies are immune to Double Agent. While a Jedi Test on table, Projection Of A Skywalker is canceled. If Grimtaash just revealed your hand, you may place up to two cards in your Used Pile.",
-    "Icons": 0,
-    "ExpansionV": "Dagobah"
+    "Gametext": "Plays on table. Opponent's Undercover spies are immune to Double Agent. While a Jedi Test on table, Projection Of A Skywalker is canceled. If Grimtaash just revealed your hand, you may place up to two cards from hand in your Used Pile.",
+    "Icons": 0
   },
   {
     "id": 5415,
@@ -298,9 +297,9 @@
     "Destiny": 4,
     "Lore": "\"We're gonna get pulverized if we stay out here much longer.\"",
     "Gametext": "Deploy on a battleground planet system. Adds one [Light Side Force icon] icon at your related Big One. If a sector was just drawn for asteroid destiny, cancel and redraw that destiny. Once per turn, may deploy from Reserve Deck (reshuffle) a sector to this system. (Immune to Alter.)",
-    "Icons": 0,
+    "Icons": "Episode 1",
     "Information": "Original card: Rogue Asteroid",
-    "ExpansionV": "Dagobah"
+    "Episode1": 1
   },
   {
     "id": 5416,
@@ -308,13 +307,13 @@
     "Grouping": "Dark",
     "CardType": "Effect",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": " ",
     "Gametext": "Deploy on table. Once during your turn, may stack top card of Lost Pile face down (as a 'Hatred' card) on an opponent's character with your Inquisitor. Opponent must choose to lose 1 Force or that character's game text is canceled for remainder of turn. (Immune to Alter.)",
     "Icons": 0,
-    "Information": "Original card: TK"
+    "Information": "Original card: Relentless Pursuit\\par \\par Original concept by Tom Marlin"
   },
   {
     "id": 5417,
@@ -327,7 +326,7 @@
     "Characteristics": "hologram",
     "Destiny": 7,
     "Lore": "Palpatine's \\b hologram\\b0. Imposing. Ominous. Intimidating. Instrument for the evil Emperor's sinister reach across the galaxy. Used on a secret frequency of the Imperial HoloNet.",
-    "Gametext": "Lose 2 Force to deploy on Vader's Castle. Your Force generation here may not be limited. Each player loses 1 Force at the end of their own turn. Once per turn, may deploy from Reserve Deck (reshuffle) a lightsaber on an Inquisitor. May not be canceled.",
+    "Gametext": "Lose 2 Force to deploy on Vader's Castle. Your Force generation here may not be limited. Each player loses 1 Force at the end of their own turn. Once per game, may take into hand from Reserve Deck (reshuffle) a lightsaber. (Immune to Alter.)",
     "Icons": 0,
     "IsPulled": "HoloNet Transmission\\par Masterful Move\\par Masterful Move & Endor Occupation\\par Twi'lek Advisor\\par We Must Accelerate Our Plans",
     "ExpansionV": "Dagobah",
@@ -339,13 +338,13 @@
     "CardType": "Interrupt",
     "Subtype": "Used",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": " ",
     "Gametext": "Lose 2 Force to retrieve a Crimson Dawn leader. OR If you just fired a [Virtual Set 13] blaster during a battle, add one battle destiny. OR During any control phase, if Maul or Vos at a battleground site, flip Shadow Collective (or You Know Who I Answer To).",
     "Icons": 0,
-    "Information": "Original card: TK"
+    "Information": "Original card: Information Exchange"
   },
   {
     "id": 5419,
@@ -354,13 +353,13 @@
     "CardType": "Interrupt",
     "Subtype": "Used Or Lost",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": " ",
     "Gametext": "USED: Stack top card of Lost Pile face down (as a 'Hatred' card) on opponent's leader (or character of ability > 3) at a battleground. LOST: If your Inquisitor in battle with a Jedi, Padawan, or 'Hatred' card, add one battle destiny (add two if with all three).",
     "Icons": 0,
-    "Information": "Original card: TK"
+    "Information": "Original card: Fear\\par \\par Original concept by Stephen Fulner"
   },
   {
     "id": 5420,
@@ -369,13 +368,14 @@
     "CardType": "Interrupt",
     "Subtype": "Used Or Lost",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Rare",
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": " ",
-    "Gametext": "USED: Take into hand from Reserve Deck (reshuffle) \\ul First Light\\ul0 or Vos. OR Place a character from hand in Used Pile to activate 1 Force (2 if Vos on table). LOST: Once per game, exchange two cards in hand with any one card in Lost Pile. (Immune to Sense.)",
+    "Gametext": "USED: Take into hand from Reserve Deck (reshuffle) \\ul First Light \\ul0 or Vos. OR Place a character from hand in Used Pile to activate 1 Force (2 if Vos on table). LOST: Once per game, exchange two cards in hand with any one card in Lost Pile. (Immune to Sense.)",
     "Icons": 0,
-    "Information": "Original card: TK"
+    "Pulls": "First Light\\par Dryden Vos",
+    "Information": "Original card: Aiiii! Aaa! Agggggggggg!"
   },
   {
     "id": 5421,
@@ -384,12 +384,12 @@
     "CardType": "Interrupt",
     "Subtype": "Used Or Lost",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon",
     "Destiny": 5,
     "Lore": " ",
     "Gametext": "USED: If opponent's character is about to be lost, place all 'Hatred' cards (if any) on that character in owner's Used Pile. LOST: Lose Vader or an Inquisitor from hand to take into hand from Reserve Deck (reshuffle) up to two Inquisitors.",
     "Icons": 0,
-    "Information": "Original card: TK"
+    "Information": "Original card: You Cannot Hide Forever (Death Star II)"
   },
   {
     "id": 5422,
@@ -403,7 +403,7 @@
     "Lore": "Imperial officers are issued coded cylinders which access computer information via Scomp links. Each cylinder is coded to the officer's own security clearance.",
     "Gametext": "Take into hand from Reserve Deck (reshuffle) Krennic or a non-spy captain. OR Peek at the bottom card of any deck or pile. OR During the power segment of a battle, if your captain in battle with your leader, cancel one destiny just drawn (except a battle destiny).",
     "Icons": 0,
-    "Information": "Original card: TK",
+    "Pulls": "Captain Bewil\\par Captain Bewil (V)\\par Captain Daultay Dofine\\par Captain Gilad Pellaeon\\par Captain Godherdt\\par Captain Jonus\\par Captain Khurgee\\par Captain Khurgee (V)\\par Captain Lennox\\par Captain Needa\\par Captain Peavey\\par Captain Phasma\\par Captain Piett\\par Captain Yorr\\par Daultay Dofine\\par Director Orson Krennic\\par Imperial Squad Leader\\par Krennic, Death Star Commandant\\par Trooper Jerrol Blendin",
     "ExpansionV": "Premiere"
   },
   {
@@ -415,13 +415,12 @@
     "Uniqueness": "*",
     "Characteristics": "hologram",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon",
     "Destiny": 3,
-    "Lore": "\\b Hologram\\b0. ",
+    "Lore": "\\b Hologram\\b0.",
     "Gametext": "If you have two Crimson Dawn characters in battle together, draw destiny and subtract that amount from attrition against you. OR Deploy from Reserve Deck (reshuffle) up to two Crimson Dawn characters. OR Cancel a hologram.",
     "Icons": 0,
-    "Information": "Original card: TK",
-    "ExpansionV": "Premiere"
+    "Information": "Original card: HoloNet Transmission"
   },
   {
     "id": 5424,
@@ -430,7 +429,7 @@
     "CardType": "Location",
     "Subtype": "Site",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon2",
     "Uniqueness": "*",
     "Destiny": 0,
     "Gametext": "Jar Jar and your spies (except Ezra) may not deploy here. Opponent may not Force drain here.   May deploy from Reserve Deck (reshuffle) [Virtual Set 13] Maul here.",
@@ -442,9 +441,8 @@
     "Planet": 1,
     "Interior": 1,
     "ScompLink": 1,
-    "Information": "Original card: TK",
-    "Pulls": "Maul",
-    "ExpansionV": "TK"
+    "Information": "Original card: Dark Hours",
+    "Pulls": "Maul"
   },
   {
     "id": 5425,
@@ -456,11 +454,11 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Force drain -1 here. If you initiate battle here, add one battle destiny.   While your Imperial here, [Dagobah] Executor is deploy -7 (except to Fondor).",
+    "Gametext": "Force drain -1 here. If you initiate battle here, add one battle destiny.   While your Imperial here, [Dagobah] \\ul Executor \\ul0 is deploy -7 (except to Fondor).",
     "LightSideIcons": 0,
     "DarkSideIcons": 2,
     "LightSideText": "Force drain -1 here. If you initiate battle here, add one battle destiny.",
-    "DarkSideText": "While your Imperial here, [Dagobah] Executor is deploy -7 (except to Fondor).",
+    "DarkSideText": "While your Imperial here, [Dagobah] \\ul Executor \\ul0 is deploy -7 (except to Fondor).",
     "Icons": "Interior, Starship, Mobile, Scomp Link",
     "Mobile": 1,
     "Interior": 1,
@@ -476,7 +474,7 @@
     "CardType": "Location",
     "Subtype": "Site",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Rare2",
     "Uniqueness": "*",
     "Destiny": 0,
     "Gametext": "Force drain -1 here (if your musician here, Force drain +1 instead).   Once per game, may deploy from Reserve Deck (reshuffle) Margo, Wuher, or a musician here.",
@@ -489,7 +487,7 @@
     "Interior": 1,
     "Starship": 1,
     "ScompLink": 1,
-    "Information": "Original card: TK",
+    "Information": "Original card: Tatooine: Cantina (Dark)",
     "IsPulled": "Shadow Collective"
   },
   {
@@ -499,7 +497,7 @@
     "CardType": "Location",
     "Subtype": "Site",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Fixed",
     "Uniqueness": "*",
     "Destiny": 0,
     "Gametext": "Add 1 to your blaster weapon destiny draws here. Unless Vos on table, Force drain -1 here.   During your move phase, your Crimson Dawn leader may move between here and a site.",
@@ -512,7 +510,7 @@
     "Interior": 1,
     "Starship": 1,
     "ScompLink": 1,
-    "Information": "Original card: TK",
+    "Information": "Original card: Spaceport Prefect's Office",
     "IsPulled": "Shadow Collective"
   },
   {
@@ -522,7 +520,7 @@
     "CardType": "Location",
     "Subtype": "Site",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
     "Gametext": "Force drain -1 here (if your smuggler here, Force drain +1 instead).   While your unique (*) alien here, your Force generation is +1 here (+2 if Margo).",
@@ -535,17 +533,17 @@
     "Interior": 1,
     "Starship": 1,
     "ScompLink": 1,
-    "Information": "Original card: TK",
+    "Information": "Original card: Den Of Thieves",
     "IsPulled": "Shadow Collective"
   },
   {
     "id": 5429,
-    "CardName": "Malachor: Sith Temple",
+    "CardName": "Malachor: Sith Temple Upper Chamber",
     "Grouping": "Dark",
     "CardType": "Location",
     "Subtype": "Site",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
     "Gametext": "While Ahsoka alone (or with Ezra) here, she is power +2.   Force drain +1 here. While Vader alone here, he is power +2.",
@@ -557,7 +555,7 @@
     "Underground": 1,
     "Interior": 1,
     "Planet": 1,
-    "Information": "Original card: TK",
+    "Information": "Original card: Jabba's Palace: Audience Chamber (Dark)",
     "IsPulled": "Hunt Down And Destroy The Jedi (V)"
   },
   {
@@ -567,7 +565,7 @@
     "CardType": "Location",
     "Subtype": "Site",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Destiny": 0,
     "Gametext": "Once per game, you may deploy from Reserve Deck (reshuffle) a Padawan (except Anakin) here.   You initiate battles here for free. Unless you occupy, Inquisitors deploy -1 here.",
@@ -580,7 +578,7 @@
     "Interior": 1,
     "Exterior": 1,
     "Planet": 1,
-    "Information": "Original card: TK",
+    "Information": "Original card: Jabba's Palace: Entrance Cavern (Dark)",
     "IsPulled": "Hunt Down And Destroy The Jedi (V)"
   },
   {
@@ -602,8 +600,7 @@
     "Icons": "Planet",
     "Planet": 1,
     "IsPulled": "Mobilization Points\\par You Cannot Hide Forever & Mobilization Points",
-    "Combo": "Wakeelmui (V) + Sienar Fleet Systems\\par Retrieve 1 Force each time you deploy a TIE. Once per turn may relocate a TIE just lost from table to Used Pile.",
-    "ExpansionV": "Special Edition"
+    "Combo": "Wakeelmui (V) + Sienar Fleet Systems\\par Retrieve 1 Force each time you deploy a TIE. Once per turn may relocate a TIE just lost from table to Used Pile."
   },
   {
     "id": 5432,
@@ -627,15 +624,14 @@
     "Grouping": "Dark",
     "CardType": "Objective",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
-    "ObjectiveFront": "\\ul Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Virtual Set 13] Maul to Maul's Chambers.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with "Black Sun," "Crimson Dawn," or "Hutt" in lore, assassins, gangsters, [Episode I] bounty hunters, and [Independent] starships. Once per turn, may deploy from Reserve Deck (reshuffle) a non-unique blaster (or a card with "First Light" in title). \\par \\b Flip\\b0  this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds).",
+    "Rarity": "Common2",
+    "ObjectiveFront": "\\ul Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Virtual Set 13] Maul to Maul's Chambers.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with \"Black Sun,\" \"Crimson Dawn,\" or \"Hutt\" in lore, assassins, gangsters, [Episode 1] bounty hunters, and [Independent] starships. Once per turn, may deploy from Reserve Deck (reshuffle) a non-unique blaster (or a card with \"First Light\" in title). \\par \\b Flip\\b0  this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds).",
     "ObjectiveBack": "\\b May immediately\\b0  re-circulate and shuffle your Reserve Deck. \\par \\b While\\b0  this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. \\par \\b Flip\\b0  this card at end of turn. \\par \\ul If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force.\\ul0 ",
     "ObjectiveFrontName": "Shadow Collective",
     "ObjectiveBackName": "You Know Who I Answer To",
-    "Gametext": "[Front Side]: \\ul Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Virtual Set 13] Maul to Maul's Chambers.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with "Black Sun," "Crimson Dawn," or "Hutt" in lore, assassins, gangsters, [Episode I] bounty hunters, and [Independent] starships. Once per turn, may deploy from Reserve Deck (reshuffle) a non-unique blaster (or a card with "First Light" in title). \\par \\b Flip\\b0  this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds). \\par [Back Side]: \\b May immediately\\b0  re-circulate and shuffle your Reserve Deck. \\par \\b While\\b0  this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. \\par \\b Flip\\b0  this card at end of turn. \\par \\ul If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force.\\ul0 ",
+    "Gametext": "[Front Side]: \\ul Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Virtual Set 13] Maul to Maul's Chambers.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with \"Black Sun,\" \"Crimson Dawn,\" or \"Hutt\" in lore, assassins, gangsters, [Episode 1] bounty hunters, and [Independent] starships. Once per turn, may deploy from Reserve Deck (reshuffle) a non-unique blaster (or a card with \"First Light\" in title). \\par \\b Flip\\b0  this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds). \\par [Back Side]: \\b May immediately\\b0  re-circulate and shuffle your Reserve Deck. \\par \\b While\\b0  this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. \\par \\b Flip\\b0  this card at end of turn. \\par \\ul If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force.\\ul0 ",
     "Icons": 0,
-    "Information": "Original card: TK",
-    "ExpansionV": "TK",
+    "Information": "Original card: Ket Maliss/Undercover (Dark) (Uncommon2)"
   },
   {
     "id": 5434,
@@ -649,8 +645,7 @@
     "Lore": "Highly specialized weapon used for disintegration. Commonly found on the black market and in criminal arsenals. One of the favored weapons of the Black Sun.",
     "Gametext": "Use 1 Force to deploy on your alien warrior (free if your Black Sun agent leader on table). May target a character or vehicle for free. Draw destiny. If destiny +1 > defense value, target hit and you may activate 1 Force.",
     "Icons": 0,
-    "Information": "Original card: Disruptor Pistol (Dark)",
-    "ExpansionV": "Special Edition",
+    "Information": "Original card: Disruptor Pistol (Dark)"
   },
   {
     "id": 5435,
@@ -660,12 +655,12 @@
     "Subtype": "Character",
     "Uniqueness": "***",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common",
     "Destiny": 3,
     "Lore": " ",
     "Gametext": "Use 1 Force to deploy on your warrior (free if your Crimson Dawn leader on table). May target a character or vehicle for free. Draw destiny. If destiny +1 > defense value, target hit and may not be used to satisfy attrition.",
     "Icons": 0,
-    "Information": "Original card: TK",
+    "Information": "Original card: Mos Eisley Blaster (Dark)",
     "ExpansionV": "TK"
   },
   {
