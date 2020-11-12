@@ -211,7 +211,7 @@
     "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Characteristics": "\\b Crimson Dawn\\b0, \\b gangster\\b0, \\b leader\\b0",
-    "Destiny": "1/2",
+    "Destiny": 1,
     "Power": 4,
     "Deploy": 4,
     "Forfeit": 8,
@@ -221,11 +221,11 @@
     "Gametext": "Never deploys to a battleground. Opponent may not cancel your destiny draws. Once per turn, may add 1 to a just drawn battle or weapon destiny. Once per turn, may subtract 1 from a just drawn battle or weapon destiny. Immune to attrition < 5.",
     "Icons": "Warrior",
     "Warrior": 1,
-    "Information": "Original card: Imbalance",
+    "Information": "Destiny number is 1/2 (one half).\\par \\par Original card: Imbalance",
     "IsPulled": "Dathomir: Maul's Chambers\\par Sith Fury (V)",
     "Combo": "Maul + Maul Strikes\\par -----\\par Maul + The Phantom Menace\\par While present with an opponent's Jedi, Maul is defense value +2 and immune to attrition.\\par -----\\par Maul + I Have You Now\\par Add one battle destiny (two if Rebel is Luke) if a Dark Jedi and a Rebel with ability > 2 are involved in the same battle.\\par -----\\par Maul + Force Field\\par Cancels an attempt to target a Dark Jedi with a character weapon.",
     "Matching": "Maul's Sith Infiltrator",
-    "MatchingWeapon": "Maul's Double-Bladed Lightsaber\\par Maul's Lightsaber",
+    "MatchingWeapon": "Maul's Double-Bladed Lightsaber\\par Maul's Lightsaber"
   },
   {
     "id": 5413,
@@ -329,7 +329,7 @@
     "Gametext": "Lose 2 Force to deploy on Vader's Castle. Your Force generation here may not be limited. Each player loses 1 Force at the end of their own turn. Once per game, may take into hand from Reserve Deck (reshuffle) a lightsaber. (Immune to Alter.)",
     "Icons": 0,
     "IsPulled": "HoloNet Transmission\\par Masterful Move\\par Masterful Move & Endor Occupation\\par Twi'lek Advisor\\par We Must Accelerate Our Plans",
-    "ExpansionV": "Dagobah",
+    "ExpansionV": "Dagobah"
   },
   {
     "id": 5418,
@@ -465,7 +465,7 @@
     "Starship": 1,
     "ScompLink": 1,
     "IsPulled": "Commander Gherant",
-    "ExpansionV": "Dagobah",
+    "ExpansionV": "Dagobah"
   },
   {
     "id": 5426,
@@ -616,7 +616,7 @@
     "Gametext": "[Front Side]: \\ul Deploy Vader's Castle and [Virtual Set 13] Visage Of The Emperor.\\ul0 \\par \\b For\\b0  remainder of game, you may not deploy characters except bounty hunters, droids, and Imperials. Where you have an Inquisitor, your total battle destiny is +1 (+2 if with a 'Hatred' card). Inquisitors are destiny +2. \\b While\\b0  this side up, once per turn, may deploy from Reserve Deck (reshuffle) a [Cloud City] or Malachor battleground site. \\par \\b Flip\\b0  this card if Vader is at a battleground site unless Luke, a Jedi, or a Padawan at a battleground site. \\par [Back Side]: \\b While\\b0  this side up, you lose no Force from Visage Of The Emperor. While Vader armed with a lightsaber, opponent's Force drain bonuses are canceled. \\par \\b Flip\\b0  this card if Luke, a Jedi, or a Padawan at a battleground site; once per game, may take Vader and your cards on him into hand from a site you control.",
     "Icons": 0,
     "Abbreviation": "HDADTJ-V, Hunt Down V, HDv",
-    "ExpansionV": "Special Edition",
+    "ExpansionV": "Special Edition"
   },
   {
     "id": 5433,
@@ -660,8 +660,7 @@
     "Lore": " ",
     "Gametext": "Use 1 Force to deploy on your warrior (free if your Crimson Dawn leader on table). May target a character or vehicle for free. Draw destiny. If destiny +1 > defense value, target hit and may not be used to satisfy attrition.",
     "Icons": 0,
-    "Information": "Original card: Mos Eisley Blaster (Dark)",
-    "ExpansionV": "TK"
+    "Information": "Original card: Mos Eisley Blaster (Dark)"
   },
   {
     "id": 5436,
@@ -670,7 +669,7 @@
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Characteristics": "\\b gambler\\b0, \\b smuggler\\b0",
     "Destiny": 3,
@@ -680,15 +679,14 @@
     "Ability": 3,
     "ForceAptitude": "Force-Attuned",
     "Lore": "\\b Smuggler\\b0  and \\b gambler\\b0.",
-    "Gametext": "Adds 2 to power of anything he pilots. If a battle was just initiated here, may exchange a card in hand with an Interrupt of destiny = 4 from Reserve Deck; reshuffle. Once per game, if Kessel Run on table, may return Lando (and your cards on him) to hand.",
+    "Gametext": "Adds 2 to power of anything he pilots. If a battle was just initiated here, may exchange a card in hand with an Interrupt of destiny = 4 from Reserve Deck; reshuffle. Once per game, if you have completed a Kessel Run, may return Lando to hand.",
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: TK\\par \\par Lando Calrissian personas are:\\par \\par Captain Lando Calrissian\\par General Calrissian\\par Lando Calrissian\\par Lando Calrissian (V)\\par Lando Calrissian, Scoundrel\\par [Lando In Millennium Falcon]\\par Lando With Blaster Pistol\\par Lando With Vibro-Ax\\par Tamtel Skreej\\par \\par Lando Calrissian (Dark Side)",
-    "IsPulled": "Lobot (V) as a 'react'.\\par Seeking An Audience (V)",
+    "Information": "Original card: Cloud City Sabacc (Light)\\par \\par Lando Calrissian personas are:\\par \\par Captain Lando Calrissian\\par General Calrissian\\par Lando Calrissian\\par Lando Calrissian (V)\\par Lando Calrissian, Scoundrel\\par [Lando In Millennium Falcon]\\par Lando With Blaster Pistol\\par Lando With Vibro-Ax\\par Tamtel Skreej\\par \\par Lando Calrissian (Dark Side)",
+    "IsPulled": "Lobot (V) as a 'react'\\par Seeking An Audience (V)",
     "Matching": "Gold Squadron 1\\par Millennium Falcon",
-    "MatchingWeapon": "Lando's Blaster Rifle",
-    "ExpansionV": "TK"
+    "MatchingWeapon": "Lando's Blaster Rifle"
   },
   {
     "id": 5437,
@@ -699,7 +697,7 @@
     "Expansion": "Virtual Card Set #13",
     "Rarity": "Rare2",
     "Uniqueness": "*",
-    "Characteristics": "\\b smuggler\\b0, \\b Wookiee\\b0",
+    "Characteristics": "\\b Wookiee\\b0, \\b smuggler\\b0",
     "Destiny": 1,
     "Power": 7,
     "Deploy": 4,
@@ -715,11 +713,11 @@
     "IsPulled": "Beldon's Eye (V)\\par Life Debt\\par Seeking An Audience (V)\\par Soth Petikkin (when at a Jabba's Palace site you control).\\par Wookiee Roar",
     "Matching": "Chewie's AT-ST\\par Gold Squadron 1\\par Lando In Millennium Falcon\\par Millennium Falcon\\par The Falcon\\par The Falcon, Junkyard Garbage",
     "MatchingWeapon": "Chewbacca's Bowcaster",
-    "ExpansionV": "A New Hope",
+    "ExpansionV": "A New Hope"
   },
   {
     "id": 5438,
-    "CardName": "Han . . . Solo",
+    "CardName": "Han... Solo",
     "Grouping": "Light",
     "CardType": "Character",
     "Subtype": "Alien",
@@ -734,18 +732,18 @@
     "ForceAptitude": "Force-Attuned",
     "Characteristics": "\\b Corellian\\b0, \\b gambler\\b0, \\b smuggler\\b0, \\b thief\\b0",
     "Lore": "Corellian \\b gambler\\b0, \\b smuggler\\b0, and \\b thief\\b0.",
-    "Gametext": "Adds 2 to power and maneuver of anything he pilots or drives. If exactly one 'coaxium' card on Kessel Run, may take it into hand. While piloting \\ul Falcon\\ul0 and you have completed a Kessel Run, adds one battle destiny and opponent generates no Force here.",
+    "Gametext": "Adds 2 to power and maneuver of anything he pilots or drives. If exactly one 'coaxium' card here, may take it into hand. While piloting \\ul Falcon\\ul0 and you have completed a Kessel Run, adds one battle destiny and opponent generates no Force here.",
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Solo Han\\par \\par Han Solo personas are:\\par \\par Captain Han Solo\\par General Solo\\par General Solo (V)\\par Han\\par Han (V)\\par [Han, Chewie, And The Falcon]\\par [Han, Chewie, And The Falcon (V)]\\par Han Solo\\par Han . . . Solo\\par Han With Heavy Blaster Pistol\\par Solo\\par TK-422",
+    "Information": "Original card: Solo Han\\par \\par Han Solo personas are:\\par \\par Captain Han Solo\\par General Solo\\par General Solo (V)\\par Han\\par Han (V)\\par [Han, Chewie, And The Falcon]\\par [Han, Chewie, And The Falcon (V)]\\par Han Solo\\par Han... Solo\\par Han With Heavy Blaster Pistol\\par Solo\\par TK-422",
     "IsPulled": "Han's Back",
     "Matching": "Gold Squadron 1\\par Millennium Falcon\\par The Falcon",
     "MatchingWeapon": "Han's Heavy Blaster Pistol\\par Han's Heavy Blaster Pistol (V)"
   },
   {
     "id": 5439,
-    "CardName": "L3-37 (Elthree-threeseven)",
+    "CardName": "L3-37 (Elthree-Threeseven)",
     "Grouping": "Light",
     "CardType": "Character",
     "Subtype": "Droid",
@@ -773,7 +771,7 @@
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Rare1",
     "Uniqueness": "*",
     "Destiny": 2,
     "Power": 3,
@@ -787,7 +785,7 @@
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: TK\\par \\par Defense value is Teräs Käsi, not Armor"
+    "Information": "Original card: Krayt Dragon Howl\\par \\par Defense value is Teräs Käsi, not Armor"
   },
   {
     "id": 5441,
@@ -808,10 +806,9 @@
     "Icons": "Warrior, Episode 1",
     "Warrior": 1,
     "Episode1": 1,
-    "Information": "Original card: Control (EP1) (Light)\\par \\par Qui-Gon Jinn personas are:\\par \\par Master Qui-Gon\\par Master Qui-Gon (V)\\par Qui-Gon Jinn\\par Qui-Gon Jinn With Lightsaber\\par Qui-Gon Jinn, Jedi Master\\par Qui-Gon Jinn, Serene Jedi",
+    "Information": "Original card: Control (Light) (Coruscant)\\par \\par Qui-Gon Jinn personas are:\\par \\par Master Qui-Gon\\par Master Qui-Gon (V)\\par Qui-Gon Jinn\\par Qui-Gon Jinn With Lightsaber\\par Qui-Gon Jinn, Jedi Master\\par Qui-Gon Jinn, Serene Jedi",
     "IsPulled": "Padme Naberrie\\par Tatooine: City Outskirts",
-    "MatchingWeapon": "Qui-Gon Jinn's Lightsaber\\par Qui-Gon's Lightsaber",
-    "ExpansionV": "Coruscant"
+    "MatchingWeapon": "Qui-Gon Jinn's Lightsaber\\par Qui-Gon's Lightsaber"
   },
   {
     "id": 5442,
@@ -820,7 +817,7 @@
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common1",
     "Characteristics": "\\b Ardennian\\b0, \\b smuggler\\b0, \\b thief\\b0",
     "Destiny": 4,
     "Power": 3,
@@ -832,8 +829,7 @@
     "Icons": "Pilot, Warrior x2",
     "Warrior": 2,
     "Pilot": 1,
-    "Information": "Original card: TK\\par \\par This card has 2 Warrior icons.",
-    "ExpansionV": "TK"
+    "Information": "Original card: EG-4 (Eegee-Four)\\par \\par This card has 2 Warrior icons."
   },
   {
     "id": 5443,
@@ -842,7 +838,7 @@
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common",
     "Characteristics": "\\b Glee Anselmian\\b0, \\b information broker\\b0, \\b musician\\b0, \\b smuggler\\b0, \\b thief\\b0",
     "Destiny": 0,
     "Power": 4,
@@ -854,7 +850,7 @@
     "Gametext": "\\ul If Vos or a [Virtual Set 13] smuggler on table, destiny +3 when drawn for destiny.\\ul0  Cancels Aurra's game text here. If just lost, may place out of play (for remainder of game, Han adds one battle destiny). If opponent just initiated a battle here, Beckett may fire a blaster.",
     "Icons": "Warrior",
     "Warrior": 1,
-    "Information": "Original card: TK"
+    "Information": "Original card: As Good As Gone"
   },
   {
     "id": 5444,
@@ -863,7 +859,7 @@
     "CardType": "Character",
     "Subtype": "Alien",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Rare2",
     "Characteristics": "\\b scout\\b0, \\b smuggler\\b0, \\b thief\\b0, female",
     "Destiny": 2,
     "Power": 2,
@@ -875,7 +871,7 @@
     "Icons": "Permanent Weapon, Warrior",
     "Warrior": 1,
     "PermanentWeapon": 1,
-    "Information": "Original card: TK"
+    "Information": "Original card: Noble Sacrifice"
   },
   {
     "id": 5445,
@@ -897,9 +893,8 @@
     "Gametext": "Power +3 while defending a battle (or while exactly two Jedi on table). Once per game, during your move phase, may relocate to a battleground site as a regular move. Immune to attrition.",
     "Icons": "Episode 1",
     "Episode1": 1,
-    "Information": "Yoda personas are:\\par \\par Yoda\\par Yoda, Keeper Of The Peace\\par Yoda, Master Of The Force\\par Yoda, Jedi Council Member",
+    "Information": "Original concept by KToD, Winner of the 2018 OCS\\par -----\\par Yoda personas are:\\par \\par Yoda\\par Yoda (V)\\par Yoda, Keeper Of The Peace\\par Yoda, Master Of The Force\\par Yoda, Jedi Council Member",
     "Abbreviation": "Yoda, MOTF",
-    "Pulls": "Alter\\par Alter (EP1)\\par Alter & Friendly Fire\\par Control\\par Control (EP1)\\par Control & Tunnel Vision\\par Sense\\par Sense (EP1)\\par Sense & Recoil In Fear",
     "IsPulled": "Coruscant: Jedi Council Chamber\\par Speak With The Jedi Council\\par Tatooine: City Outskirts\\par Yoda, You Seek Yoda",
     "Combo": "Yoda, Master Of The Force + Are You Brain Dead?!",
     "ExpansionV": "Reflections III"
@@ -913,7 +908,7 @@
     "Rarity": "Rare1",
     "Destiny": 0,
     "Lore": "\"Lord Vader, the fleet has moved out of lightspeed and we're preparing to aah...ukh...uh...uuuuukkk!\"",
-    "Gametext": "Plays on table. Opponent's Undercover spies are immune to Nevar Yalnal. Field Promotion is canceled if on Ozzel or opponent's [Maintenance] card. If Monnok just revealed your hand, you may place up to two cards in your Used Pile.",
+    "Gametext": "Plays on table. Opponent's Undercover spies are immune to Nevar Yalnal. Field Promotion is canceled if on Ozzel or opponent's [Maintenance] card. If Monnok just revealed your hand, you may place up to two cards from hand in your Used Pile.",
     "Icons": 0,
     "Information": "Original card: You Have Failed Me For The Last Time"
   },
@@ -927,7 +922,7 @@
     "Uniqueness": "*",
     "Destiny": 5,
     "Lore": "Planet Kessel has infamous glitterstim spice mines attracting smugglers and pirates. A \"Kessel run\" is a long, dangerous hyper-route they must travel quickly.",
-    "Gametext": "Deploy on Kessel; draw 'coaxium' destinies, stacking face up here until total > 12 (cannot deploy otherwise). During each move phase, if your smuggler here, may move a 'coaxium' card from here to Used Pile. If no 'coaxium' cards here, retrieve 4 Force and lose Effect.",
+    "Gametext": "Deploy on Kessel; draw 'coaxium' destinies, stacking face up here until total > 12 (cannot deploy otherwise). During each move phase, if your smuggler here, may move a 'coaxium' card from here to Used Pile. If no 'coaxium' cards here, retrieve 4 Force; place this Effect out of play.",
     "Icons": 0,
     "IsPulled": "The Signal\\par We Wish To Board At Once",
     "Combo": "Kessel Run (V) + Kessel (V)",
@@ -944,7 +939,7 @@
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": "To prepare for the inevitable conflict with Jabba's minions, Luke entered a calm state of mental preparation.",
-    "Gametext": "Deploy on your character of ability > 3. Opponent's aliens here are power -1 (and forfeit -2 if a leader, [Maintenance], or [Permanent Weapon] card). During battle, if opponent has more characters than you at same site, may add one battle destiny (then lose Effect at end of battle).",
+    "Gametext": "Deploy on your character of ability > 3. Opponent's aliens here are power -1 (and forfeit -2 if a leader, [Maintenance], or [Permanent Weapon] card). During battle at same site, if opponent has more characters participating than you, may add one battle destiny (then lose Effect at end of battle).",
     "Icons": 0,
     "IsPulled": "The Signal\\par We Wish To Board At Once\\par Wokling (V)",
     "ExpansionV": "Special Edition"
@@ -959,10 +954,10 @@
     "Uniqueness": "*",
     "Destiny": 5,
     "Lore": "When a Jedi dies, the spirit spreads through the Force and touches the living.",
-    "Gametext": "If He Is The Chosen One on table, deploy on table. While Luke with Prophecy Of The Force, your Force generation is +1 and opponent's is -1. Once during your turn, may take into hand from Reserve Deck (reshuffle) Yoda's Hut or a Death Star II site. (Immune to Alter.)",
+    "Gametext": "If He Is The Chosen One on table, deploy on table. You may not deploy [Episode 1] sites. While Luke with Prophecy Of The Force, your Force generation is +1 and opponent's Force generation is -1. May deploy from Reserve Deck (reshuffle) Yoda's Hut. (Immune to Alter.)",
     "Icons": 0,
     "Information": "Startable with Heading For The Medical Frigate.",
-    "Pulls": "Anakin Skywalker (Interrupt)\\par The Force Is Strong With This One",
+    "Pulls": "Dagobah: Yoda's Hut",
     "IsPulled": "The Signal\\par We Wish To Board At Once\\par Your Insight Serves You Well\\par Your Insight Serves You Well & Staging Areas",
     "ExpansionV": "Death Star II"
   },
@@ -977,7 +972,7 @@
     "Uniqueness": "*",
     "Destiny": 4,
     "Lore": "\"You were right about me. Tell your sister . . . you were right.\"",
-    "Gametext": "USED: Relocate Prophecy Of The Force to a site. OR Cancel an Interrupt targeting Luke. LOST: If I Feel The Conflict on table during battle, place Luke's Lightsaber in Used Pile to choose: Add one destiny to attrition. OR Cancel the game text of a character of ability < 4.",
+    "Gametext": "If I Feel The Conflict on table: USED: Take into hand from Reserve Deck (reshuffle) a Death Star II site. OR Relocate Prophecy Of The Force to a site. LOST: During battle at a site, if Luke armed with [Death Star II] Luke's Lightsaber, choose: Add one destiny to attrition. OR Cancel the game text of a character of ability < 4.",
     "Icons": 0,
     "IsPulled": "Twilight Is Upon Me",
     "ExpansionV": "Death Star II",
@@ -1003,13 +998,12 @@
     "CardType": "Interrupt",
     "Subtype": "Used Or Lost",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon1",
     "Destiny": 4,
     "Lore": " ",
     "Gametext": "USED: Take into hand from Reserve Deck (reshuffle) Kessel Run, L3-37, or Lando. OR If you just moved a 'coaxium' card to Used Pile, randomly retrieve 1 Force. LOST: Once per game, may place a card stacked on [Virtual Set D] A Useless Gesture in your Lost Pile.",
     "Icons": 0,
-    "Information": "Original card: TK",
-    "ExpansionV": "TK",
+    "Information": "Original card: Rycar Ryjerd"
   },
   {
     "id": 5453,
@@ -1018,12 +1012,12 @@
     "CardType": "Interrupt",
     "Subtype": "Used Or Lost",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common2",
     "Destiny": 4,
-    "Gametext": "\\ul If opponent's Audience Chamber on table, opponent loses 1 Force when you play this Interrupt.\\ul0 \\par USED: Cancel None Shall Pass (unless targeting your [Maintenance] or [Permanent Weapon] Rebel) or Elis Helrot. (Immune to Sense.) OR Cancel a smuggler's game text for remainder of turn. LOST: During your move phase, \"break cover\" of an Undercover spy. OR During battle, target an opponent's character of ability < 2 with your Jedi or smuggler; target is excluded from battle.",
+    "Gametext": "\\ul If opponent's Audience Chamber on table, opponent loses 1 Force when you play this Interrupt.\\ul0 \\par USED: Cancel Elis Helrot or Stunning Leader. (Immune to Sense.) OR Cancel a smuggler's game text for remainder of turn. LOST: During your move phase, \"break cover\" of an Undercover spy. OR During battle, target an opponent's character of ability < 2 with your Jedi or smuggler; target is excluded from battle.",
     "Icons": 0,
-    "Cancels": "Elis Helrot\\par None Shall Pass",
-    "Information": "Original card: TK",
+    "Cancels": "Elis Helrot\\par Stunning Leader",
+    "Information": "Original card: Quite A Mercenary"
   },
   {
     "id": 5454,
@@ -1032,13 +1026,12 @@
     "CardType": "Interrupt",
     "Subtype": "Used",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon2",
     "Destiny": 4,
     "Lore": " ",
-    "Gametext": "If you have two smugglers on table, choose one: If opponent has more cards in hand than you, draw two cards from Reserve Deck (three if [Virtual Set 13] Han on table). OR If there are more [Dark Side Force icon] than [Light Side Force icon] on table, activate 2 Force (3 if [Virtual Set 13] Han on table). OR Re-circulate.",
+    "Gametext": "If you have two smugglers on table, choose one: If opponent has more cards in hand than you, draw one card from Reserve Deck (two if [Virtual Set 13] Han on table). OR If there are more [Dark Side Force icon] than [Light Side Force icon] on table, activate 1 Force (2 if [Virtual Set 13] Han on table). OR Re-circulate.",
     "Icons": 0,
-    "Information": "Original card: TK",
-    "ExpansionV": "TK",
+    "Information": "Original card: Han's Back"
   },
   {
     "id": 5455,
@@ -1047,13 +1040,12 @@
     "CardType": "Interrupt",
     "Subtype": "Used",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon",
     "Destiny": 3,
     "Lore": " ",
     "Gametext": "If a battle was just initiated, immediately fire a blaster deployed on your smuggler present. That blaster may fire again this battle. OR Your smuggler armed with a weapon card is defense value +2 for remainder of turn (even if just targeted by an Interrupt or weapon).",
     "Icons": 0,
-    "Information": "Original card: TK",
-    "ExpansionV": "TK",
+    "Information": "Original card: Weapon Levitation (Light)"
   },
   {
     "id": 5456,
@@ -1074,7 +1066,7 @@
     "Icons": "Planet",
     "Planet": 1,
     "IsPulled": "A New Secret Base (V)\\par Hidden Base\\par Mindful Of The Future\\par Watch Your Step\\par Yavin 4 Base Operations",
-    "ExpansionV": "A New Hope",
+    "Information": "Original concept by Rich Craft"
   },
   {
     "id": 5457,
@@ -1083,20 +1075,20 @@
     "CardType": "Location",
     "Subtype": "Site",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Common",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "Jedi are power +2 here.   Dark Jedi are power +1 here. Force drain -1 here.",
+    "Gametext": "While Luke alone here, he is power +2.   Your total power here is -1 for each card stacked on I Feel The Conflict.",
     "LightSideIcons": 2,
     "DarkSideIcons": 2,
-    "LightSideText": "Jedi are power +2 here.",
-    "DarkSideText": "Dark Jedi are power +1 here. Force drain -1 here.",
+    "LightSideText": "While Luke alone here, he is power +2.",
+    "DarkSideText": "Your total power here is -1 for each card stacked on I Feel The Conflict.",
     "Icons": "Interior, Mobile, Scomp Link",
     "Mobile": 1,
     "Interior": 1,
     "ScompLink": 1,
-    "Information": "Original card: TK",
-    "ExpansionV": "Death Star II",
+    "Information": "Original card: Cloud City: Chasm Walkway (Light)",
+    "ExpansionV": "Death Star II"
   },
   {
     "id": 5458,
@@ -1108,17 +1100,17 @@
     "Rarity": "Uncommon2",
     "Uniqueness": "*",
     "Destiny": 0,
-    "Gametext": "While Chewie, Han, Lando, Qi'ra, or piloted \\ul Falcon\\ul0  here, Kessel Run may not be canceled.   If you control, Kessel Run is prevented (canceled).",
+    "Gametext": "For remainder of game, while you occupy Kessel, Force drain +1 there and Kessel Run may not be canceled.   If you control, Kessel Run is prevented (canceled).",
     "LightSideIcons": 1,
     "DarkSideIcons": 2,
-    "LightSideText": "While Chewie, Han, Lando, Qi'ra, or piloted \\ul Falcon\\ul0  here, Kessel Run may not be canceled.",
+    "LightSideText": "For remainder of game, while you occupy Kessel, Force drain +1 there and Kessel Run may not be canceled.",
     "DarkSideText": "If you control, Kessel Run is prevented (canceled).",
     "Parsec": 8,
     "Icons": "Planet",
     "Planet": 1,
     "IsPulled": "A New Secret Base (V)\\par Hidden Base\\par Mindful Of The Future\\par Watch Your Step\\par Yavin 4 Base Operations",
     "Counterpart": "Kessel",
-    "ExpansionV": "Premiere",
+    "ExpansionV": "Premiere"
   },
   {
     "id": 5459,
@@ -1128,7 +1120,7 @@
     "Subtype": "Capital",
     "ModelType": "Resistance Transport",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Uncommon",
     "Uniqueness": "*",
     "Characteristics": "Resistance (starship)",
     "Destiny": 3,
@@ -1144,7 +1136,7 @@
     "Astromech": 1,
     "ScompLink": 1,
     "Pulls": "General Leia Organa\\par Lieutenant Kaydel Connix\\par Major Harter Kalonia\\par Rey\\par Rey With Lightsaber\\par Rose Tico\\par Vice Admiral Holdo",
-    "Information": "This card has an Episode VII icon and a Resistance (starship) icon.\\par \\par Original card: TK"
+    "Information": "This card has an Episode VII icon and a Resistance (starship) icon.\\par \\par Original card: Luminous"
   },
   {
     "id": 5460,
@@ -1153,13 +1145,13 @@
     "CardType": "Weapon",
     "Subtype": "Character",
     "Expansion": "Virtual Card Set #13",
-    "Rarity": "TK",
+    "Rarity": "Rare",
     "Characteristics": "Ewok weapon",
     "Destiny": 5,
     "Lore": " ",
     "Gametext": "Ewok weapon. Deploy on your warrior or Ewok. May 'throw' (place in Used Pile) to target a character. For remainder of turn, target is power -3 (and if Proxima, she cannot battle). If on a Corellian and a battle just initiated at same site, may 'throw' Rock.",
     "Icons": 0,
-    "Information": "Original card: TK",
+    "Information": "Original card: Stone Pile",
     "IsPulled": "Portable Scanner"
   }
 ]
