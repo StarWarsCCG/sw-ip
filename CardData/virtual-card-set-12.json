@@ -86,11 +86,12 @@
     "Ability": 4,
     "ForceAptitude": "Force-Sensitive",
     "Lore": "ISB \\b Leader.\\b0",
-    "Gametext": "Adds 2 to power of anything he pilots. Rebels here (and at adjacent sites if your E-web blaster here) are power -1. When deployed, may deploy from Reserve Deck (reshuffle) an E-web blaster or an Imperial stormtrooper for -3 Force.",
+    "Gametext": "Adds 2 to power of anything he pilots. Rebels here (and at adjacent sites if your E-web blaster here) are power -1. When deployed, may deploy from Reserve Deck (reshuffle) an E-web blaster or an Imperial stormtrooper here for -2 Force.",
     "Icons": "Pilot, Warrior",
     "Pilot": 1,
     "Warrior": 1,
-    "Information": "Original card: Collateral Damage"
+    "Information": "Original card: Collateral Damage\\par \\par Errata October 2020. Original text: \\par Adds 2 to power of anything he pilots. Rebels here (and at adjacent sites if your E-web blaster here) are power -1. When deployed, may deploy from Reserve Deck (reshuffle) an E-web blaster or an Imperial stormtrooper for -3 Force.",
+    "Errata": 1
   },
   {
     "id": 5401,
@@ -118,7 +119,9 @@
     "Uniqueness": "*",
     "Destiny": 3,
     "Lore": "Luke got the shaft.",
-    "Gametext": "If you have deployed a site with exactly two [Dark Side Force icons] (and no other locations), deploy a battleground site. Then, unless you have deployed a site with \"Palace\" in title, may deploy up to three Effects that are always immune to Alter. Place Interrupt in Lost Pile.",
-    "ExpansionV": "Cloud City"
+    "Gametext": "If you have deployed a site with exactly two [Dark Side Force icons] (and no other locations), deploy a battleground site. Then, unless you have deployed Imperial Square or a site with \"Palace\" in title, may deploy up to three Effects that are always immune to Alter. Place Interrupt in Lost Pile.",
+    "Information": "Errata October 2020. Original text: \\par If you have deployed a site with exactly two [Dark Side Force icons] (and no other locations), deploy a battleground site. Then, unless you have deployed a site with \"Palace\" in title, may deploy up to three Effects that are always immune to Alter. Place Interrupt in Lost Pile.",
+    "ExpansionV": "Cloud City",
+    "Errata": 1
   }
 ]
