@@ -8,11 +8,9 @@ This repo also provides tools for converting the JSON into SQL compatible with t
 
 ## Requirements
 
-The instructions are currently focused on Linux/macOS. Windows instructions pending.
+These tools are written in C#. Install the [.NET 5 SDK](https://dotnet.microsoft.com/download).
 
-These tools are written in C#. Install the [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download).
-
-For working with SQLite, install SQLite 2 (link pending).
+For working with SQLite, install SQLite 2. For Windows, [download SQLite 2](https://www.sqlite.org/sqlite-2_8_17.zip) and put `sqlite.exe` into the folder `SwIpSqlGenerator`.
 
 ### Dumping Card Data
 
@@ -28,13 +26,12 @@ The script `dump.sh` moves the data into a SQLite 3 database and runs `SwIpDumpe
 
 Modify the JSON files in `/CardData`. When adding new cards, make sure each new card receives a unique `id`. Ensure that the JSON structure is always well-formed.
 
-Be sure to use a text editor that supports UTF-8 (such as [Notepad++](https://notepad-plus-plus.org/)) and always save the JSON files as UTF-8. The SQL generator tool is what takes care of the conversion to ISO 8859-1, which is what the sw-ip application expects when reading the `.sdb` file.
+Be sure to use a text editor that supports UTF-8 (such as [Notepad++](https://notepad-plus-plus.org/)) and always save the JSON files as UTF-8. The SQL generator tool takes care of the conversion to ISO 8859-1, which is what the sw-ip application expects when reading the `.sdb` file.
 
 ### Creating the SDB File
 
-The tool `SwIpSqlGenerator` converts the JSON files into SQL that can be consumed by SQLite 2, which is what sw-ip requires. Simply run the script `export.sh` to handle all this for you.
+The tool `SwIpSqlGenerator` converts the JSON files into SQL that can be consumed by SQLite 2, which is what sw-ip requires. Simply run the export script to handle all this for you.
 
-    sh export.sh
+For Windows, run `export.cmd`. Otherwise, run `export.sh`.
 
 The script will generate the SQL (`cards.sql`) and use that to generate `swccg_db.sdb`. Place `swccg_db.sdb` into your sw-ip application folder, and you're done!
-

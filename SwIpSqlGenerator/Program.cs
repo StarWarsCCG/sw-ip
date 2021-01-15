@@ -24,13 +24,12 @@ class Program
             }
             else
             {
-                var text = value
-                    .GetString()
+                var text = value.GetString() ?? string.Empty;
+                var filteredText = text
                     .Replace("'", "''")
-                    .Replace("’", "''")
-                    //.Replace('é', (char)65533) // Fixed by using the proper encoding.
-                    ;
-                return $"'{text}'";
+                    .Replace("’", "''");
+                
+                return $"'{filteredText}'";
             }
         }
 
