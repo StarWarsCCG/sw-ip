@@ -96,6 +96,7 @@ class Program
                     }
                 }
 
+                await writer.WriteLineAsync("UPDATE SWD SET Inventory = 0, Needs = 0;");
                 await writer.WriteLineAsync("COMMIT;");
             }
 
@@ -105,11 +106,11 @@ class Program
             if (0 < duplicateIds.Count)
             {
                 Console.WriteLine("Duplicate IDs: " + string.Join(", ", duplicateIds));
-                var gaps = Enumerable.Range(minId, maxId).Where(n => !ids.Contains(n));
-                var list = string.Join(", ", gaps);
+                // var gaps = Enumerable.Range(minId, maxId).Where(n => !ids.Contains(n));
+                // var list = string.Join(", ", gaps);
                 
-                if (!string.IsNullOrWhiteSpace(list))
-                    Console.WriteLine("Gaps: " + list);
+                // if (!string.IsNullOrWhiteSpace(list))
+                //     Console.WriteLine("Gaps: " + list);
             }
         }
 
