@@ -33,6 +33,17 @@ class Program
             }
         }
 
+        static int GetFinalInteger(string text)
+        {
+            var last = text.Length - 1;
+            var count = 0;
+
+            while (count < text.Length && char.IsDigit(text[last - count]))
+                ++count;
+            
+            return count == 0 ? -1 : int.Parse(text.AsSpan(text.Length - count, count));
+        }
+
         static async Task AppendAsync(StreamWriter writer, JsonDocument document)
         {
             foreach (var row in document.RootElement.EnumerateArray())
@@ -51,8 +62,9 @@ class Program
                 return await JsonDocument.ParseAsync(stream);
         }
 
-        static async Task GenerateSqlAsync(string folder, string sqlFile)
+        static async Task GenerateSqlAsync(string folder, string sqlFile, string virtualCardListFile)
         {
+            var virtualCards = new Dictionary<string, List<string>>();
             var files = Directory.GetFiles(folder);
             var ids = new HashSet<int>();
             var duplicateIds = new HashSet<int>();
@@ -92,6 +104,23 @@ class Program
 
                             if (!ids.Add(id))
                                 duplicateIds.Add(id);
+                            
+                            var cardName = row.GetProperty("CardName").GetString();
+
+                            if (!string.IsNullOrWhiteSpace(cardName))
+                            {
+                                var expansion = row.GetProperty("Expansion").GetString() ?? string.Empty;
+                                if (expansion.StartsWith("Virtual"))
+                                {
+                                    if (!virtualCards.TryGetValue(expansion, out var list))
+                                    {
+                                        list = new();
+                                        virtualCards.Add(expansion, list);
+                                    }
+
+                                    list.Add(cardName);
+                                }
+                            }
                         }
                     }
                 }
@@ -112,13 +141,35 @@ class Program
                 // if (!string.IsNullOrWhiteSpace(list))
                 //     Console.WriteLine("Gaps: " + list);
             }
+
+            var virtualExpansions = virtualCards.Keys.ToArray();
+            Array.Sort(virtualExpansions, (a, b) => GetFinalInteger(a).CompareTo(GetFinalInteger(b)));
+            using (var writer = File.CreateText(virtualCardListFile))
+            {
+                foreach (var virtualExpansion in virtualExpansions)
+                {
+                    await writer.WriteLineAsync();
+                    await writer.WriteAsync("## ");
+                    await writer.WriteLineAsync(virtualExpansion);
+                    await writer.WriteLineAsync();
+
+                    var list = virtualCards[virtualExpansion];
+                    list.Sort();
+
+                    foreach (var virtualCard in list)
+                    {
+                        await writer.WriteAsync("- [ ] ");
+                        await writer.WriteLineAsync(virtualCard);
+                    }
+                }
+            }
         }
 
         static async Task Main(string[] args)
         {
             try
             {
-                await GenerateSqlAsync(args[0], args[1]);
+                await GenerateSqlAsync(args[0], args[1], args[2]);
                 Console.WriteLine("Done.");
             }
             catch (Exception ex)

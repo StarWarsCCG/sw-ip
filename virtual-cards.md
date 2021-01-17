@@ -1,0 +1,680 @@
+
+## Virtual Defensive Shields
+
+- [ ] A Useless Gesture (V)
+- [ ] Affect Mind (V)
+- [ ] Death Star Sentry (V)
+- [ ] Don't Do That Again (V)
+- [ ] Fanfare (V)
+- [ ] Goldenrod
+- [ ] I Find Your Lack Of Faith Disturbing (V)
+- [ ] Imperial Detention
+- [ ] Simple Tricks And Nonsense
+- [ ] The Republic No Longer Functions
+- [ ] Vote Of No Confidence
+- [ ] Yavin Sentry (V)
+- [ ] You Cannot Hide Forever (V)
+- [ ] Your Insight Serves You Well (V)
+- [ ] Your Ship? (V)
+
+## Virtual Premium Set
+
+- [ ] Captain Khurgee (V)
+- [ ] Puck
+- [ ] Red 12
+
+## Virtual Card Set #0
+
+- [ ] 4-LOM With Concussion Rifle (V)
+- [ ] 5D6-RA-7 (Fivedesix) (V)
+- [ ] A Day Long Remembered (V)
+- [ ] A Good Blaster At Your Side
+- [ ] Aayla Secura
+- [ ] Acclamator-Class Assault Ship
+- [ ] Admiral Motti (V)
+- [ ] Alter (EP1) (V)
+- [ ] Alter (EP1) (V)
+- [ ] Alter (V)
+- [ ] Alter (V)
+- [ ] Anakin Skywalker, Padawan Learner
+- [ ] Anger, Fear, Aggression (V)
+- [ ] Antilles Maneuver (V)
+- [ ] Aratech Corporation (V)
+- [ ] Arica (V)
+- [ ] Beldon's Eye (V)
+- [ ] Black 2 (V)
+- [ ] Black 5
+- [ ] Blaster Rack (V)
+- [ ] Blaster Rifle (V)
+- [ ] Blaster Rifle (V)
+- [ ] Blizzard 2 (V)
+- [ ] Blizzard Scout 1 (V)
+- [ ] Blockade Support Ship
+- [ ] Boba Fett In Slave I (V)
+- [ ] Booster In Pulsar Skate
+- [ ] Bossk (V)
+- [ ] Bossk In Hound's Tooth (V)
+- [ ] Bravo Fighter (V)
+- [ ] Captain Rex, 501st Legion
+- [ ] Captain Yutani With Blaster Cannon
+- [ ] Careful Planning (V)
+- [ ] Chewie (V)
+- [ ] Close Call (V)
+- [ ] Cloud City: Security Tower (V)
+- [ ] Colonel Jendon In Onyx 1
+- [ ] Combat Readiness (V)
+- [ ] Combat Response (V)
+- [ ] Commander Cody
+- [ ] Commander Luke Skywalker (V)
+- [ ] Commander Narra
+- [ ] Conquest (V)
+- [ ] Coruscant: Night Club
+- [ ] Count Dooku
+- [ ] Darth Vader (V)
+- [ ] Daughter Of Skywalker (V)
+- [ ] Defensive Fire (V)
+- [ ] Dengar With Blaster Carbine (V)
+- [ ] Derek 'Hobbie' Klivian (V)
+- [ ] Don't Tread On Me (V)
+- [ ] Dooku's Lightsaber
+- [ ] Dormé
+- [ ] Down With The Emperor! (V)
+- [ ] Droideka
+- [ ] DS-61-5
+- [ ] Elis In Hinthra
+- [ ] Establish Control (V)
+- [ ] Evacuation Control (V)
+- [ ] For Luck (V)
+- [ ] Force Field (V)
+- [ ] Force Push (V)
+- [ ] Found Someone You Have (V)
+- [ ] General Airen Cracken
+- [ ] General Solo (V)
+- [ ] General Veers (V)
+- [ ] Gold Leader In Gold 1 (V)
+- [ ] Grand Moff Tarkin (V)
+- [ ] Han (V)
+- [ ] Han's Heavy Blaster Pistol (V)
+- [ ] Harc Seff (V)
+- [ ] Hound's Tooth (V)
+- [ ] I Can't Shake Him! (V)
+- [ ] I Must Be Allowed To Speak (V)
+- [ ] IG-88 (V)
+- [ ] Image Of The Dark Lord (V)
+- [ ] Imbalance & Kintan Strider
+- [ ] Imperial Decree (V)
+- [ ] Imperial Justice (V)
+- [ ] Impressive, Most Impressive (V)
+- [ ] Jabba The Hutt (V)
+- [ ] Jabba's Prize (V)
+- [ ] Jedi Levitation (V)
+- [ ] K'lor'slug (V)
+- [ ] Knowledge And Defense (V)
+- [ ] Kuat Drive Yards (V)
+- [ ] Leesub Sirln (V)
+- [ ] Leia (V)
+- [ ] Lobot (V)
+- [ ] Luke Skywalker (V)
+- [ ] Luke Skywalker, Rebel Scout (V)
+- [ ] Luke's Bionic Hand
+- [ ] Maarek Stele, The Emperor's Reach
+- [ ] Maneuvering Flaps (V)
+- [ ] Mara Jade With Lightsaber
+- [ ] Master Qui-Gon (V)
+- [ ] Mon Calamari Dockyards
+- [ ] Nar Shaddaa
+- [ ] Obi-Wan In Radiant VII
+- [ ] Obi-Wan Kenobi, Padawan Learner (V)
+- [ ] Onyx 2 (V)
+- [ ] Overseer
+- [ ] Ponda Baba (V)
+- [ ] Probot
+- [ ] Put That Down (V)
+- [ ] R-3PO (Ar-Threepio) (V)
+- [ ] R'tic H'weei
+- [ ] Red 1 (V)
+- [ ] Red 8 (V)
+- [ ] Sai'torr Kal Fas (V)
+- [ ] Sith Fury (V)
+- [ ] Sith Probe Droid (V)
+- [ ] Sneak Attack (V)
+- [ ] Something Special Planned For Them (V)
+- [ ] Starship Levitation (V)
+- [ ] Stinger (V)
+- [ ] Strikeforce (V)
+- [ ] Surface Defense (V)
+- [ ] Tarkin Doctrine
+- [ ] Vader's Personal Shuttle (V)
+- [ ] Vigo (V)
+- [ ] Wedge In Red Squadron 1
+- [ ] Wokling (V)
+- [ ] You'll Be Dead!
+- [ ] Ysanne Isard
+
+## Virtual Card Set #1
+
+- [ ] A Dark Time For The Rebellion (V)
+- [ ] A New Secret Base (V)
+- [ ] According To My Design
+- [ ] Anoat (V)
+- [ ] Ascension Guns (V)
+- [ ] Cold Feet (V)
+- [ ] Colonel Wullf Yularen (V)
+- [ ] Corporal Vandolay (V)
+- [ ] Coruscant: Imperial City (V)
+- [ ] Dash In Rogue 12
+- [ ] Despair (V)
+- [ ] Djas Puhr (V)
+- [ ] Endor Shield (V)
+- [ ] Escape Pod (V)
+- [ ] Green Leader In Green Squadron 1
+- [ ] Hear Me Baby, Hold Together (V)
+- [ ] Imperial Enforcement
+- [ ] Imperial Entanglements/No One To Stop Us This Time
+- [ ] Jabba's Haven
+- [ ] Jango Fett
+- [ ] Lando Calrissian (V)
+- [ ] Lt. Pol Treidum (V)
+- [ ] Mace Windu (V)
+- [ ] Mace Windu's Lightsaber
+- [ ] Melas (V)
+- [ ] Naboo: Theed Palace Hallway (V)
+- [ ] Ng'ok War Beast
+- [ ] Obi-Wan Kenobi (V)
+- [ ] Perimeter Scan (V)
+- [ ] Princess Leia (V)
+- [ ] R2-D2 (Artoo-Detoo) (V)
+- [ ] Sabotage (V)
+- [ ] Seeking An Audience (V)
+- [ ] Slave I, Symbol Of Fear
+- [ ] Stalker (V)
+- [ ] Tantive IV (V)
+- [ ] TIE Sentry Ships (V)
+- [ ] Turn It Off! Turn It Off! (V)
+- [ ] We'll Take The Long Way
+- [ ] Wooof (V)
+- [ ] Yané (V)
+
+## Virtual Card Set #2
+
+- [ ] Azure Angel
+- [ ] Binder
+- [ ] Black 6
+- [ ] Corran Horn In Rogue 9
+- [ ] Daroe (V)
+- [ ] Force Levitation
+- [ ] General Nevar
+- [ ] Jabba's Trophies
+- [ ] Leia Organa (V)
+- [ ] Like My Father Before Me
+- [ ] Palace Raider (V)
+- [ ] Pote Snitkin (V)
+- [ ] Tempest Scout 3 (V)
+- [ ] Wedge Antilles (V)
+- [ ] Yoda, Keeper Of The Peace
+
+## Virtual Card Set #3
+
+- [ ] Admiral Ackbar (V)
+- [ ] Agent Kallus
+- [ ] Baniss Keeg, Pilot Instructor
+- [ ] Bright Hope (V)
+- [ ] Cad Bane
+- [ ] Captain Raymus Antilles
+- [ ] Commander Nemet (V)
+- [ ] Coruscant (V)
+- [ ] Coruscant: Xizor's Palace
+- [ ] CT-5555 (Fives)
+- [ ] Darth Maul, Lone Hunter
+- [ ] Deflector Shield Generators (V)
+- [ ] Diplomatic Mission To Alderaan/A Weakness Can Be Found
+- [ ] Drop! (V)
+- [ ] Ellorrs Madak, Pilot Instructor
+- [ ] Endor Commando Team
+- [ ] Falleen's Fist
+- [ ] General Grievous
+- [ ] Kanan Jarrus
+- [ ] Leslomy Tacema (V)
+- [ ] Major Bren Derlin (V)
+- [ ] Mon Calamari Admiral
+- [ ] Ortugg (V)
+- [ ] Padmé Naberrie (V)
+- [ ] Planetary Defenses (V)
+- [ ] R2-D2 & C-3PO
+- [ ] Rebel Leadership (V)
+- [ ] Stolen Data Tapes
+- [ ] Tatooine (V)
+- [ ] The Force Is Strong With This One (V)
+- [ ] The Shield Is Down! (V)
+- [ ] Thrown Back (V)
+- [ ] Toryn Farr (V)
+- [ ] Wild Karrde
+- [ ] Xizor's Palace: Uplink Station
+
+## Virtual Card Set #4
+
+- [ ] Are You Okay?
+- [ ] B2 Battle Droid
+- [ ] Bail Organa
+- [ ] BB-8 (Beebee-Ate)
+- [ ] Bow To The First Order
+- [ ] Captain Bewil (V)
+- [ ] Captain Hera Syndulla
+- [ ] Captain Phasma
+- [ ] Chewie With Bowcaster
+- [ ] Crusher Roodown
+- [ ] Endor (V)
+- [ ] Endor: Bunker (V)
+- [ ] Escape Pod & We're Doomed
+- [ ] F-11D Blaster Rifle
+- [ ] Finalizer
+- [ ] Finn
+- [ ] First Order Stormtrooper
+- [ ] FN-2003
+- [ ] Force Freeze
+- [ ] General Hux
+- [ ] Graveyard Of Giants
+- [ ] Greedo (V)
+- [ ] Hunting Party (V)
+- [ ] I'm Getting Pretty Good At This
+- [ ] Jabba's Sail Barge (V)
+- [ ] Jakku
+- [ ] Jakku
+- [ ] Jakku: Landing Site
+- [ ] Jakku: Niima Outpost Shipyard
+- [ ] Jakku: Ravager Crash Site
+- [ ] Jakku: Rey's Encampment
+- [ ] Jakku: Starship Graveyard
+- [ ] Jakku: Tuanul Village
+- [ ] Jakku: Tuanul Village
+- [ ] Keep Your Eyes Open (V)
+- [ ] Kylo Ren
+- [ ] Kylo Ren's Command Shuttle
+- [ ] Kylo Ren's Lightsaber
+- [ ] Lor San Tekka
+- [ ] Masanya (V)
+- [ ] Mindful Of The Future (V)
+- [ ] Old Allies/We Need Your Help
+- [ ] Poe Dameron
+- [ ] Rey
+- [ ] Senator Mon Mothma
+- [ ] Solo
+- [ ] Stolen First Order TIE Fighter
+- [ ] Stormtrooper Patrol
+- [ ] Tarkin (V)
+- [ ] The Falcon, Junkyard Garbage (Starship)
+- [ ] The Falcon, Junkyard Garbage (Vehicle)
+- [ ] The Garbage Will Do
+- [ ] Theron Nett (V)
+- [ ] Tuanul Villager
+- [ ] We're Leaving (V)
+- [ ] You Assume Too Much
+- [ ] You Do Have Your Moments (V)
+- [ ] Zam Wesell
+
+## Virtual Card Set #5
+
+- [ ] A Trophy Sacrificed
+- [ ] Boba Fett's Blaster Rifle (V)
+- [ ] Captain Jonus In Scimitar 2
+- [ ] Commander Wedge Antilles (V)
+- [ ] Dathcha (V)
+- [ ] Dengar (V)
+- [ ] Emperor Palpatine, Foreseer
+- [ ] Ensign Chad Hilse
+- [ ] Han, Chewie, And The Falcon (V)
+- [ ] Hondo Ohnaka
+- [ ] I Am Your Father (V)
+- [ ] Leia Of Alderaan (V)
+- [ ] Luke Skywalker, The Emperor's Prize
+- [ ] Luke Skywalker, The Emperor's Prize (Frozen)
+- [ ] Overseeing It Personally (V)
+- [ ] Point Man (V)
+- [ ] Rebel Flight Suit (V)
+- [ ] Redemption (V)
+- [ ] Ric In Queen's Royal Starship
+- [ ] Sim Aloo (V)
+- [ ] Tatooine: Lars' Moisture Farm (V)
+- [ ] Tycho Celchu (V)
+- [ ] Tycho In Green Squadron 3
+- [ ] Velken Tezeri (V)
+
+## Virtual Card Set #6
+
+- [ ] Any Methods Necessary (V)
+- [ ] Boba Fett (CC) (V)
+- [ ] Bodhi Rook
+- [ ] Cal Alder (V)
+- [ ] Captain Cassian Andor
+- [ ] Death Trooper
+- [ ] Jyn Erso
+- [ ] K-2SO (Kay-Tuesso)
+- [ ] Rogue One
+- [ ] The Falcon
+- [ ] Vader's Custom TIE (V)
+- [ ] Veers (V)
+- [ ] What Chance Do We Have?
+- [ ] Xizor's Bounty
+
+## Virtual Card Set #7
+
+- [ ] Baze Malbus With Cannon
+- [ ] Chirrut Îmwe
+- [ ] Depa Billaba (V)
+- [ ] Dice Ibegon (V)
+- [ ] Director Orson Krennic
+- [ ] Establish Secret Base (V)
+- [ ] General Leia Organa
+- [ ] Ghost
+- [ ] Grand Admiral Thrawn (V)
+- [ ] Help Me Obi-Wan Kenobi (V)
+- [ ] I Think I Can Handle Myself
+- [ ] Jakku: Docking Bay
+- [ ] Kin Kian (V)
+- [ ] Luke's Hunting Rifle (V)
+- [ ] Major Caluan Ematt
+- [ ] Major Taslin Brance
+- [ ] Meson Martinet
+- [ ] Profundity
+- [ ] Punishing One (V)
+- [ ] Quiggold
+- [ ] Rebellions Are Built On Hope
+- [ ] Sabine Wren
+- [ ] Savage Opress
+- [ ] Security Precautions (V)
+- [ ] Sidon Ithano
+- [ ] Specter Of The Supreme Leader
+- [ ] They're Tracking Us (V)
+- [ ] This Is MY Ship!
+- [ ] Yoda (V)
+
+## Virtual Card Set #8
+
+- [ ] Admiral U.O. Statura
+- [ ] Alert My Star Destroyer! (V)
+- [ ] C1-10P (Chopper)
+- [ ] Captain Peavey
+- [ ] CC-2237 (Odd Ball)
+- [ ] Corellian Slip (V)
+- [ ] Corporal Delevar (V)
+- [ ] Darth Vader, Emperor's Enforcer
+- [ ] Darth Vader's Lightsaber (V)
+- [ ] Death Star: War Room (V)
+- [ ] Double Back (V)
+- [ ] Droid Racks (V)
+- [ ] Ello Asty
+- [ ] Endor: Ewok Village (V)
+- [ ] FN-2199 (Nines)
+- [ ] General Carlist Rieekan (V)
+- [ ] He Is The Chosen One/He Will Bring Balance
+- [ ] Hoth: Ice Plains (5th Marker) (V)
+- [ ] I Want That Map/And Now You'll Give It To Me
+- [ ] I Will Finish What You Started
+- [ ] I've Got A Bad Feeling About...
+- [ ] Ilco Munica
+- [ ] Jedha
+- [ ] Kir Kanos (V)
+- [ ] Lieutenant Dopheld Mitaka
+- [ ] Lord Maul With Lightsaber
+- [ ] Lord Sidious
+- [ ] Luke Skywalker, The Rebellion's Hope
+- [ ] Luke's Blaster Pistol (V)
+- [ ] Major Harter Kalonia
+- [ ] Mandalorian Mishap (V)
+- [ ] Mara Jade In VT-49 Decimator
+- [ ] Myn Kyneugh (V)
+- [ ] Operational As Planned (V)
+- [ ] Phantom
+- [ ] Prophecy Of The Force
+- [ ] R'kik D'nec, Hero Of The Dune Sea (V)
+- [ ] Red Squadron 6
+- [ ] Restore Freedom To The Galaxy
+- [ ] Sonic Bombardment (V)
+- [ ] Starkiller Base
+- [ ] Starkiller Base: Docking Bay
+- [ ] Starkiller Base: Forest
+- [ ] Starkiller Base: Interrogation Room (Prison)
+- [ ] Starkiller Base: Shield Control
+- [ ] Suppressive Fire (V)
+- [ ] Tarkin's Bounty (V)
+- [ ] Tatooine: Mos Espa (V)
+- [ ] Temmin "Snap" Wexley
+- [ ] Walker Sighting (V)
+- [ ] Where Are Those Droidekas?! (V)
+- [ ] Why Does Everyone Want To Go Back To Jakku?!
+- [ ] Yarna d'al' Gargan (V)
+- [ ] Yavin 4 Base Operations/The Time To Fight Is Now
+- [ ] Yavin 4: Massassi War Room (V)
+- [ ] You Know What I've Come For
+- [ ] You Swindled Me! (V)
+- [ ] Zeb Orrelios
+
+## Virtual Card Set #9
+
+- [ ] A Brave Resistance
+- [ ] Admiral Raddus
+- [ ] An Inkling Of Its Destructive Power
+- [ ] Apology Accepted (V)
+- [ ] Bala-Tik
+- [ ] Blue 11
+- [ ] Chief Bast (V)
+- [ ] Commander Ruescott Melshi
+- [ ] Commence Primary Ignition (V)
+- [ ] CT-5385 (Tup)
+- [ ] Death Squadron Assignment
+- [ ] Dr. Chelli Lona Aphra
+- [ ] Effective Repairs & Starship Levitation
+- [ ] First Order Special Forces TIE
+- [ ] Galen Erso
+- [ ] General Dodonna (V)
+- [ ] General Kenobi
+- [ ] General Walex Blissex (V)
+- [ ] Jedha: Jedha City
+- [ ] Knights Of The Old Republic
+- [ ] Krennic, Death Star Commandant
+- [ ] Kylo Ren With Lightsaber
+- [ ] Lak Sivrak
+- [ ] Lana Dobreed & Sacrifice
+- [ ] Lieutenant Kaydel Connix
+- [ ] Lieutenant Venka (V)
+- [ ] Lightmaker
+- [ ] Mustafar: Vader's Castle
+- [ ] Odin Nesloor & First Aid
+- [ ] Prepare For A Surface Attack (V)
+- [ ] Red 5 (V)
+- [ ] Relatively Unprotected
+- [ ] Rescue In The Clouds (V)
+- [ ] Rey With Lightsaber
+- [ ] Rose Tico
+- [ ] Saw Gerrera
+- [ ] Scarif
+- [ ] Scarif: Beach
+- [ ] Scarif: Data Vault
+- [ ] Scarif: Landing Pad Nine (Docking Bay)
+- [ ] Scarif: Turbolift Complex
+- [ ] Shadows Of The Empire
+- [ ] Stardust
+- [ ] Supreme Leader Snoke
+- [ ] Taidu Sefla
+- [ ] There Is Another
+- [ ] They Have No Idea We're Coming/Until We Win, Or The Chances Are Spent
+- [ ] They Will Be No Match For You (V)
+- [ ] Vaneé
+- [ ] Xizor's Palace: Sewer
+- [ ] Yavin 4: Massassi Ruins (V)
+- [ ] Yoxgit (V)
+
+## Virtual Card Set #10
+
+- [ ] Ahch-To: Saddle
+- [ ] Ambush (V)
+- [ ] Anakin's Lightsaber (V)
+- [ ] Ancient Watering Hole
+- [ ] Black 3 (V)
+- [ ] Blue Squadron 1
+- [ ] BoShek (V)
+- [ ] Clone Squad Leader
+- [ ] Clone Trooper
+- [ ] Commander Brandei (V)
+- [ ] Dash Rendar (V)
+- [ ] Death Star Reactor Terminal
+- [ ] Dutch (V)
+- [ ] Ezra Bridger
+- [ ] Hoth: Main Power Generators (1st Marker) (V)
+- [ ] I Never Ask That Question
+- [ ] Insignificant Rebellion (V)
+- [ ] It's True, All Of It
+- [ ] Jabba's Space Cruiser (V)
+- [ ] Jedi Business
+- [ ] Jedi Mind Trick (V)
+- [ ] Kit Fisto
+- [ ] Kylo Ren's TIE Silencer
+- [ ] Luke Skywalker, The Last Jedi
+- [ ] Macroscan (V)
+- [ ] Marquand In Blizzard 6
+- [ ] Mustafar
+- [ ] Nute Gunray (V)
+- [ ] Oo-ta Goo-ta, Solo? (V)
+- [ ] Paploo (V)
+- [ ] Part Of The Tribe
+- [ ] Plo Koon (V)
+- [ ] Quite A Mercenary (V)
+- [ ] Ralltiir Operations/In The Hands Of The Empire (V)
+- [ ] Silence Is Golden (V)
+- [ ] The Dark Path (V)
+- [ ] The Grand Inquisitor
+- [ ] The Hyperdrive Generator's Gone/We'll Need A New One (V)
+- [ ] V-4X-D Ski Speeder
+
+## Virtual Card Set #11
+
+- [ ] A Stunning Move/A Valuable Hostage
+- [ ] Ahch-To
+- [ ] Ahch-To: Cliffs
+- [ ] Ahch-To: Jedi Temple
+- [ ] Ahch-To: Jedi Village
+- [ ] Ahch-To: Luke's Hut
+- [ ] Ahsoka Tano
+- [ ] Always Two There Are
+- [ ] BB-8 In Black Squadron 1
+- [ ] Beldon's Eye & All My Urchins
+- [ ] Carbonite Chamber Console (V)
+- [ ] Cloning Cylinders
+- [ ] Commander Vanden Willard (V)
+- [ ] Coruscant: 500 Republica
+- [ ] Coruscant: Private Platform (Docking Bay)
+- [ ] Cyborg Construct (V)
+- [ ] D'Qar
+- [ ] Dark Jedi Lightsaber (V)
+- [ ] Force Projection
+- [ ] He's All Yours, Bounty Hunter (V)
+- [ ] IG MagnaGuard
+- [ ] Insidious Prisoner
+- [ ] Invisible Hand
+- [ ] Invisible Hand: Bridge
+- [ ] Invisible Hand: Docking Bay
+- [ ] Invisible Hand: Hallway 328
+- [ ] Invisible Hand: Observatory Entrance
+- [ ] Jedi Lightsaber (V)
+- [ ] Kamino
+- [ ] Kamino: Clone Birthing Center
+- [ ] Kamino: Clone Training Center
+- [ ] Lady Proxima
+- [ ] Libertine
+- [ ] Lt. Poldin Lehuse
+- [ ] Make Ten Men Feel Like A Hundred
+- [ ] Maz Kanata
+- [ ] Maz's Castle: Antechamber
+- [ ] Maz's Castle: Hidden Recess
+- [ ] Mitth'raw'nuruodo
+- [ ] Pride Of The Empire (V)
+- [ ] Quietly Observing (V)
+- [ ] Rebel Trooper Reinforcements
+- [ ] Ree-Yees (V)
+- [ ] Rendezvous Point On Tatooine (V)
+- [ ] Sebulba (V)
+- [ ] See You Around, Kid
+- [ ] Sergeant Narthax With E-web Blaster
+- [ ] Squadron Assignments (V)
+- [ ] Takodana
+- [ ] Takodana: Maz's Castle
+- [ ] Tallie Lintra In Blue 1
+- [ ] The Galaxy May Need A Legend/We Need Luke Skywalker
+- [ ] Trade Federation Tactics (V)
+- [ ] Twi'lek Advisor (V)
+- [ ] Vader's Anger (V)
+- [ ] Vengeance (V)
+- [ ] Vice Admiral Holdo
+- [ ] Where's Han?
+- [ ] Yavin 4 (V)
+
+## Virtual Card Set #12
+
+- [ ] Admiral Trench
+- [ ] Allegiant General Pryde
+- [ ] Aurra Sing With Blaster Rifle
+- [ ] Evil Is Everywhere
+- [ ] Moff Gideon
+- [ ] Slip Sliding Away (V)
+
+## Virtual Card Set #13
+
+- [ ] A Lawless Time
+- [ ] Admiral Ozzel (V)
+- [ ] Aemon Gremm With Percussive Cannon
+- [ ] Anakin Skywalker (V)
+- [ ] Black Sun Blaster
+- [ ] Captain Lando Calrissian
+- [ ] Chewbacca (V)
+- [ ] Clumsy And Stupid
+- [ ] Corellia (V)
+- [ ] Crimson Dawn Blaster
+- [ ] Darth Tyranus
+- [ ] Dathomir: Maul's Chambers
+- [ ] Death Star II: Chasm Walkway
+- [ ] Dryden Vos
+- [ ] Eighth Brother
+- [ ] Executor: Control Station (V)
+- [ ] Failure At The Cave (V)
+- [ ] Far More Frightening Than Death
+- [ ] Fifth Brother
+- [ ] First Light: Bar
+- [ ] First Light: Dryden's Study
+- [ ] First Light: Reception Area
+- [ ] Han... Solo
+- [ ] Han's Dice (V)
+- [ ] He's The Best Smuggler Around
+- [ ] Help Me Obi-Wan Kenobi & Quite A Mercenary
+- [ ] Hunt Down And Destroy The Jedi (V)/Their Fire Has Gone Out Of The Universe (V)
+- [ ] Hylobon Enforcer
+- [ ] I Never Ask For Anything Twice
+- [ ] I've Been Searching For You For Some Time
+- [ ] I've Got A Really Good Feeling About This
+- [ ] ID9 Probe Droid
+- [ ] Imperial Code Cylinder (V)
+- [ ] Kessel (V)
+- [ ] Kessel Run (V)
+- [ ] L3-37 (Elthree-Threeseven)
+- [ ] Leia's Resistance Transport
+- [ ] Malachor: Sith Temple Entrance
+- [ ] Malachor: Sith Temple Upper Chamber
+- [ ] Margo
+- [ ] Maul
+- [ ] Meditation (V)
+- [ ] Ninth Sister
+- [ ] Planetary Rings
+- [ ] Qi'ra
+- [ ] Qui-Gon Jinn, Serene Jedi
+- [ ] Rio Durant
+- [ ] Rock
+- [ ] Savareen Standoff
+- [ ] Seventh Sister
+- [ ] Shadow Collective/You Know Who I Answer To
+- [ ] There Are Many Hunting You Now
+- [ ] Tobias Beckett
+- [ ] Twilight Is Upon Me (V)
+- [ ] Val
+- [ ] Visage Of The Emperor
+- [ ] Wakeelmui (V)
+- [ ] Working Much More Closely
+- [ ] Yoda, Master Of The Force (V)
