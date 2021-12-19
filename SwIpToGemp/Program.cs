@@ -29,7 +29,7 @@ static class Program
 
     static async Task<CardDatabase> DownloadDatabaseAsync(HttpClient httpClient, string uri)
     {
-        Console.WriteLine("Downloading card database -- " + uri);
+        Console.WriteLine("Downloading card database: " + uri);
         using var response = await httpClient.GetAsync(uri, HttpCompletionOption.ResponseHeadersRead);
         using var stream = await response.Content.ReadAsStreamAsync();
         var result = await JsonSerializer.DeserializeAsync<CardDatabase>(stream, s_jsonSerializerOptions) ?? new CardDatabase();
@@ -47,6 +47,7 @@ static class Program
 
         if (File.Exists(mappingFile))
         {
+            Console.WriteLine("Loading card database from cache: " + mappingFile);
             using var fileStream = File.OpenRead(mappingFile);
             cardMappings = await JsonSerializer.DeserializeAsync<List<CardMapping>>(fileStream, s_jsonSerializerOptions) ?? new List<CardMapping>();
         }
@@ -103,19 +104,29 @@ static class Program
                 return;
             }
 
-            builder
-                .Append("<card blueprintId=\"")
-                .AppendXml(cardMapping.GempId)
-                .Append("\" title=\"")
-                .AppendXml(cardMapping.Title)
-                .Append("\"/>")
-                .Append(Crlf);
+            var reserveCount = int.Parse(numbers[i - 2]);
+            var sideCount = int.Parse(numbers[i - 1]);
+            var startCount = int.Parse(numbers[i]);
+
+            var count = reserveCount + sideCount + startCount;
+
+            for (int j = 0; j < count; ++j)
+            {
+                builder
+                    .Append("<card blueprintId=\"")
+                    .AppendXml(cardMapping.GempId)
+                    .Append("\" title=\"")
+                    .AppendXml(cardMapping.Title)
+                    .Append("\"/>")
+                    .Append(Crlf);
+            }
         }
 
         builder.Append("</deck>").Append(Crlf);
 
         var destination = path + ".gemp.txt";
         await File.WriteAllTextAsync(destination, builder.ToString());
+        Console.WriteLine("Done! Created " + destination);
     }
 
     public static async Task Main(string[] args)
